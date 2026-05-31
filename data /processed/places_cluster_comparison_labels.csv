@@ -1,0 +1,3146 @@
+LocationID,LocationName,StateAbbr,StateDesc,TotalPopulation,KMeansCluster,HierCluster
+12055,Highlands,FL,Florida,"107,614",1.0,4.0
+12085,Martin,FL,Florida,"163,315",0.0,2.0
+13047,Catoosa,GA,Georgia,"68,910",1.0,2.0
+13185,Lowndes,GA,Georgia,"120,712",2.0,4.0
+13287,Turner,GA,Georgia,"8,909",3.0,3.0
+13289,Twiggs,GA,Georgia,"7,691",2.0,4.0
+16035,Clearwater,ID,Idaho,"9,214",1.0,1.0
+18021,Clay,IN,Indiana,"26,460",1.0,1.0
+18081,Johnson,IN,Indiana,"167,819",0.0,2.0
+20085,Jackson,KS,Kansas,"13,368",0.0,2.0
+26009,Antrim,MI,Michigan,"24,409",0.0,2.0
+27089,Marshall,MN,Minnesota,"8,810",0.0,2.0
+31135,Perkins,NE,Nebraska,"2,795",0.0,2.0
+32021,Mineral,NV,Nevada,"4,528",2.0,4.0
+36097,Schuyler,NY,New York,"17,507",1.0,2.0
+37083,Halifax,NC,North Carolina,"47,298",3.0,3.0
+38095,Towner,ND,North Dakota,"2,030",1.0,1.0
+39097,Madison,OH,Ohio,"44,602",1.0,2.0
+40075,Kiowa,OK,Oklahoma,"8,398",2.0,4.0
+40101,Muskogee,OK,Oklahoma,"66,677",2.0,4.0
+40109,Oklahoma,OK,Oklahoma,"808,866",1.0,4.0
+47163,Sullivan,TN,Tennessee,"162,135",1.0,4.0
+48195,Hansford,TX,Texas,"5,071",1.0,4.0
+48327,Menard,TX,Texas,"1,958",1.0,4.0
+49055,Wayne,UT,Utah,"2,614",1.0,1.0
+51125,Nelson,VA,Virginia,"14,705",1.0,2.0
+51790,Staunton,VA,Virginia,"25,915",1.0,2.0
+54069,Ohio,WV,West Virginia,"41,194",1.0,1.0
+55055,Jefferson,WI,Wisconsin,"85,743",0.0,2.0
+55091,Pepin,WI,Wisconsin,"7,441",0.0,2.0
+55123,Vernon,WI,Wisconsin,"31,170",0.0,2.0
+5129,Searcy,AR,Arkansas,"7,806",2.0,4.0
+1053,Escambia,AL,Alabama,"36,558",3.0,3.0
+4017,Navajo,AZ,Arizona,"109,175",2.0,3.0
+1015,Calhoun,AL,Alabama,"116,429",2.0,4.0
+6033,Lake,CA,California,"67,878",1.0,4.0
+59,,US,United States,"334,914,895",0.0,2.0
+1133,Winston,AL,Alabama,"23,611",2.0,4.0
+2220,Sitka,AK,Alaska,"8,282",0.0,2.0
+2020,Anchorage,AK,Alaska,"286,075",0.0,2.0
+5149,Yell,AR,Arkansas,"20,044",2.0,4.0
+5023,Cleburne,AR,Arkansas,"25,445",2.0,4.0
+6065,Riverside,CA,California,"2,492,442",1.0,4.0
+1073,Jefferson,AL,Alabama,"662,895",1.0,4.0
+1039,Covington,AL,Alabama,"37,952",2.0,4.0
+6019,Fresno,CA,California,"1,017,162",2.0,4.0
+2013,Aleutians East,AK,Alaska,"3,461",1.0,4.0
+5025,Cleveland,AR,Arkansas,"7,378",2.0,4.0
+5003,Ashley,AR,Arkansas,"18,262",3.0,3.0
+2070,Dillingham,AK,Alaska,"4,607",2.0,3.0
+1095,Marshall,AL,Alabama,"100,756",2.0,4.0
+5047,Franklin,AR,Arkansas,"17,468",2.0,4.0
+6015,Del Norte,CA,California,"26,589",1.0,4.0
+1035,Conecuh,AL,Alabama,"11,174",3.0,3.0
+1103,Morgan,AL,Alabama,"125,133",1.0,4.0
+5009,Boone,AR,Arkansas,"38,530",1.0,4.0
+1019,Cherokee,AL,Alabama,"25,666",2.0,4.0
+6031,Kings,CA,California,"152,682",2.0,4.0
+6011,Colusa,CA,California,"22,037",1.0,4.0
+6061,Placer,CA,California,"423,561",0.0,2.0
+6067,Sacramento,CA,California,"1,584,288",1.0,2.0
+1109,Pike,AL,Alabama,"33,137",2.0,4.0
+1045,Dale,AL,Alabama,"49,871",2.0,4.0
+1031,Coffee,AL,Alabama,"55,643",2.0,4.0
+5147,Woodruff,AR,Arkansas,"5,964",3.0,3.0
+5039,Dallas,AR,Arkansas,"6,185",2.0,4.0
+5107,Phillips,AR,Arkansas,"14,961",3.0,3.0
+5109,Pike,AR,Arkansas,"10,208",2.0,4.0
+1033,Colbert,AL,Alabama,"58,361",1.0,4.0
+5041,Desha,AR,Arkansas,"10,479",3.0,3.0
+2105,Hoonah-Angoon,AK,Alaska,"2,262",1.0,4.0
+1013,Butler,AL,Alabama,"18,382",3.0,3.0
+5123,St. Francis,AR,Arkansas,"22,101",3.0,3.0
+6069,San Benito,CA,California,"68,175",1.0,2.0
+2110,Juneau,AK,Alaska,"31,555",0.0,2.0
+6027,Inyo,CA,California,"18,527",0.0,2.0
+2016,Aleutians West,AK,Alaska,"5,160",1.0,4.0
+2180,Nome,AK,Alaska,"9,763",3.0,3.0
+5133,Sevier,AR,Arkansas,"15,632",3.0,3.0
+6051,Mono,CA,California,"13,066",0.0,2.0
+2090,Fairbanks North Star,AK,Alaska,"94,840",0.0,2.0
+5103,Ouachita,AR,Arkansas,"21,793",2.0,3.0
+6063,Plumas,CA,California,"19,131",0.0,1.0
+5075,Lawrence,AR,Arkansas,"16,318",2.0,4.0
+1007,Bibb,AL,Alabama,"21,868",2.0,4.0
+5005,Baxter,AR,Arkansas,"42,875",2.0,1.0
+5089,Marion,AR,Arkansas,"17,514",2.0,4.0
+1119,Sumter,AL,Alabama,"11,727",3.0,3.0
+2150,Kodiak Island,AK,Alaska,"12,565",0.0,2.0
+1071,Jackson,AL,Alabama,"53,467",2.0,4.0
+5121,Randolph,AR,Arkansas,"18,907",2.0,4.0
+1043,Cullman,AL,Alabama,"92,016",1.0,1.0
+5031,Craighead,AR,Arkansas,"113,993",2.0,4.0
+5033,Crawford,AR,Arkansas,"61,891",2.0,4.0
+5061,Howard,AR,Arkansas,"12,533",2.0,4.0
+1055,Etowah,AL,Alabama,"103,241",2.0,4.0
+1113,Russell,AL,Alabama,"58,744",2.0,3.0
+1075,Lamar,AL,Alabama,"13,661",2.0,4.0
+1101,Montgomery,AL,Alabama,"224,980",2.0,4.0
+1081,Lee,AL,Alabama,"183,215",1.0,4.0
+5015,Carroll,AR,Arkansas,"28,814",2.0,4.0
+1099,Monroe,AL,Alabama,"19,229",3.0,3.0
+2063,Chugach,AK,Alaska,"6,769",0.0,2.0
+6025,Imperial,CA,California,"179,057",3.0,4.0
+5043,Drew,AR,Arkansas,"16,945",2.0,3.0
+1057,Fayette,AL,Alabama,"15,967",2.0,4.0
+1001,Autauga,AL,Alabama,"60,342",1.0,4.0
+5001,Arkansas,AR,Arkansas,"16,307",2.0,4.0
+1051,Elmore,AL,Alabama,"90,441",1.0,4.0
+1121,Talladega,AL,Alabama,"81,132",2.0,4.0
+1049,DeKalb,AL,Alabama,"72,569",2.0,4.0
+5093,Mississippi,AR,Arkansas,"38,663",3.0,3.0
+5029,Conway,AR,Arkansas,"21,077",2.0,4.0
+4003,Cochise,AZ,Arizona,"124,640",1.0,1.0
+6071,San Bernardino,CA,California,"2,195,611",1.0,4.0
+5055,Greene,AR,Arkansas,"46,743",2.0,4.0
+2240,Southeast Fairbanks,AK,Alaska,"7,077",1.0,1.0
+2282,Yakutat,AK,Alaska,687,1.0,4.0
+5145,White,AR,Arkansas,"78,452",2.0,4.0
+1131,Wilcox,AL,Alabama,"9,944",3.0,3.0
+4019,Pima,AZ,Arizona,"1,063,162",1.0,1.0
+4007,Gila,AZ,Arizona,"54,003",1.0,4.0
+1089,Madison,AL,Alabama,"412,600",0.0,2.0
+5071,Johnson,AR,Arkansas,"26,129",2.0,4.0
+2230,Skagway,AK,Alaska,"1,095",0.0,2.0
+1083,Limestone,AL,Alabama,"114,654",1.0,2.0
+1047,Dallas,AL,Alabama,"36,165",3.0,3.0
+1009,Blount,AL,Alabama,"59,816",1.0,1.0
+1037,Coosa,AL,Alabama,"10,268",2.0,4.0
+6037,Los Angeles,CA,California,"9,663,345",1.0,4.0
+1025,Clarke,AL,Alabama,"22,337",2.0,3.0
+5115,Pope,AR,Arkansas,"64,593",2.0,4.0
+1117,Shelby,AL,Alabama,"233,000",0.0,2.0
+5099,Nevada,AR,Arkansas,"8,120",3.0,3.0
+5079,Lincoln,AR,Arkansas,"12,898",2.0,3.0
+1041,Crenshaw,AL,Alabama,"13,101",2.0,4.0
+6005,Amador,CA,California,"41,811",0.0,2.0
+6007,Butte,CA,California,"207,172",1.0,1.0
+1077,Lauderdale,AL,Alabama,"96,814",1.0,1.0
+5119,Pulaski,AR,Arkansas,"400,009",1.0,4.0
+5135,Sharp,AR,Arkansas,"17,968",2.0,4.0
+1029,Cleburne,AL,Alabama,"15,639",2.0,4.0
+6057,Nevada,CA,California,"102,037",0.0,2.0
+2275,Wrangell,AK,Alaska,"2,064",1.0,1.0
+5077,Lee,AR,Arkansas,"8,201",3.0,3.0
+5019,Clark,AR,Arkansas,"21,274",2.0,4.0
+2100,Haines,AK,Alaska,"2,070",0.0,2.0
+5057,Hempstead,AR,Arkansas,"19,343",2.0,3.0
+1021,Chilton,AL,Alabama,"46,431",2.0,4.0
+5011,Bradley,AR,Arkansas,"10,104",3.0,3.0
+1085,Lowndes,AL,Alabama,"9,717",3.0,3.0
+6035,Lassen,CA,California,"28,861",1.0,4.0
+1097,Mobile,AL,Alabama,"411,640",2.0,4.0
+1023,Choctaw,AL,Alabama,"12,252",2.0,3.0
+1005,Barbour,AL,Alabama,"24,585",3.0,3.0
+5037,Cross,AR,Arkansas,"16,420",2.0,3.0
+4011,Greenlee,AZ,Arizona,"9,369",0.0,2.0
+1059,Franklin,AL,Alabama,"31,802",2.0,4.0
+4015,Mohave,AZ,Arizona,"223,682",1.0,4.0
+5125,Saline,AR,Arkansas,"129,574",1.0,2.0
+5017,Chicot,AR,Arkansas,"9,538",3.0,3.0
+6013,Contra Costa,CA,California,"1,155,025",0.0,2.0
+6047,Merced,CA,California,"291,920",2.0,4.0
+5063,Independence,AR,Arkansas,"38,320",2.0,4.0
+1087,Macon,AL,Alabama,"18,370",3.0,3.0
+2164,Lake and Peninsula,AK,Alaska,"1,331",2.0,3.0
+5139,Union,AR,Arkansas,"37,397",2.0,4.0
+2188,Northwest Arctic,AK,Alaska,"7,361",3.0,3.0
+6039,Madera,CA,California,"162,858",2.0,4.0
+1067,Henry,AL,Alabama,"17,899",2.0,4.0
+1063,Greene,AL,Alabama,"7,341",3.0,3.0
+5131,Sebastian,AR,Arkansas,"129,098",2.0,4.0
+1061,Geneva,AL,Alabama,"26,988",2.0,4.0
+6001,Alameda,CA,California,"1,622,188",0.0,2.0
+5127,Scott,AR,Arkansas,"9,851",2.0,4.0
+6053,Monterey,CA,California,"430,723",1.0,4.0
+4023,Santa Cruz,AZ,Arizona,"49,158",2.0,4.0
+1129,Washington,AL,Alabama,"15,022",2.0,4.0
+5027,Columbia,AR,Arkansas,"22,150",2.0,4.0
+6023,Humboldt,CA,California,"133,985",1.0,1.0
+2066,Copper River,AK,Alaska,"2,674",1.0,1.0
+5083,Logan,AR,Arkansas,"21,400",2.0,4.0
+2122,Kenai Peninsula,AK,Alaska,"61,223",0.0,1.0
+5141,Van Buren,AR,Arkansas,"16,142",2.0,4.0
+1027,Clay,AL,Alabama,"14,111",2.0,4.0
+5021,Clay,AR,Arkansas,"14,201",2.0,4.0
+4013,Maricopa,AZ,Arizona,"4,585,871",0.0,2.0
+5069,Jefferson,AR,Arkansas,"63,661",3.0,3.0
+2050,Bethel,AK,Alaska,"18,224",3.0,3.0
+6043,Mariposa,CA,California,"16,919",1.0,1.0
+1017,Chambers,AL,Alabama,"34,079",2.0,4.0
+6009,Calaveras,CA,California,"46,565",1.0,1.0
+4025,Yavapai,AZ,Arizona,"249,081",0.0,2.0
+1011,Bullock,AL,Alabama,"9,897",3.0,3.0
+5049,Fulton,AR,Arkansas,"12,421",2.0,4.0
+5059,Hot Spring,AR,Arkansas,"33,258",2.0,4.0
+6021,Glenn,CA,California,"28,129",1.0,4.0
+2198,Prince of Wales-Hyder,AK,Alaska,"5,696",2.0,4.0
+4021,Pinal,AZ,Arizona,"484,239",1.0,1.0
+5007,Benton,AR,Arkansas,"311,013",0.0,2.0
+5091,Miller,AR,Arkansas,"42,415",2.0,3.0
+5087,Madison,AR,Arkansas,"17,775",2.0,4.0
+1127,Walker,AL,Alabama,"64,728",2.0,4.0
+4005,Coconino,AZ,Arizona,"144,472",1.0,1.0
+4001,Apache,AZ,Arizona,"65,036",3.0,3.0
+5065,Izard,AR,Arkansas,"14,169",2.0,4.0
+5053,Grant,AR,Arkansas,"18,383",1.0,1.0
+2068,Denali,AK,Alaska,"1,584",0.0,2.0
+1091,Marengo,AL,Alabama,"18,684",3.0,3.0
+2130,Ketchikan Gateway,AK,Alaska,"13,738",0.0,1.0
+2158,Kusilvak,AK,Alaska,"8,001",3.0,3.0
+5097,Montgomery,AR,Arkansas,"8,620",2.0,4.0
+5013,Calhoun,AR,Arkansas,"4,641",2.0,4.0
+2185,North Slope,AK,Alaska,"10,603",1.0,1.0
+5101,Newton,AR,Arkansas,"7,071",2.0,4.0
+5035,Crittenden,AR,Arkansas,"47,139",3.0,3.0
+1107,Pickens,AL,Alabama,"18,688",3.0,3.0
+5111,Poinsett,AR,Arkansas,"22,397",2.0,4.0
+1003,Baldwin,AL,Alabama,"253,507",1.0,2.0
+5051,Garland,AR,Arkansas,"99,784",1.0,4.0
+1105,Perry,AL,Alabama,"7,738",3.0,3.0
+1111,Randolph,AL,Alabama,"22,786",2.0,4.0
+1093,Marion,AL,Alabama,"29,244",2.0,4.0
+6059,Orange,CA,California,"3,135,755",0.0,2.0
+6055,Napa,CA,California,"133,216",0.0,2.0
+2170,Matanuska-Susitna,AK,Alaska,"115,239",1.0,1.0
+1125,Tuscaloosa,AL,Alabama,"237,373",1.0,4.0
+5105,Perry,AR,Arkansas,"10,184",2.0,4.0
+5081,Little River,AR,Arkansas,"11,805",2.0,4.0
+1065,Hale,AL,Alabama,"14,888",3.0,3.0
+6003,Alpine,CA,California,"1,141",0.0,2.0
+1115,St. Clair,AL,Alabama,"95,552",1.0,1.0
+6017,El Dorado,CA,California,"192,215",0.0,2.0
+5113,Polk,AR,Arkansas,"19,436",2.0,4.0
+6041,Marin,CA,California,"254,407",0.0,2.0
+5085,Lonoke,AR,Arkansas,"75,944",1.0,1.0
+2060,Bristol Bay,AK,Alaska,844,1.0,1.0
+5143,Washington,AR,Arkansas,"261,549",1.0,1.0
+5117,Prairie,AR,Arkansas,"8,036",2.0,4.0
+2195,Petersburg,AK,Alaska,"3,427",0.0,2.0
+5045,Faulkner,AR,Arkansas,"129,951",1.0,1.0
+4009,Graham,AZ,Arizona,"39,525",1.0,4.0
+1069,Houston,AL,Alabama,"108,462",2.0,4.0
+2290,Yukon-Koyukuk,AK,Alaska,"5,129",3.0,3.0
+6045,Mendocino,CA,California,"89,108",1.0,4.0
+6049,Modoc,CA,California,"8,500",1.0,1.0
+1123,Tallapoosa,AL,Alabama,"40,677",2.0,4.0
+6029,Kern,CA,California,"913,820",2.0,4.0
+4027,Yuma,AZ,Arizona,"213,221",2.0,4.0
+1079,Lawrence,AL,Alabama,"33,502",2.0,4.0
+5073,Lafayette,AR,Arkansas,"6,095",3.0,3.0
+4012,La Paz,AZ,Arizona,"16,710",2.0,4.0
+5095,Monroe,AR,Arkansas,"6,512",3.0,3.0
+5137,Stone,AR,Arkansas,"12,671",2.0,4.0
+5067,Jackson,AR,Arkansas,"16,784",3.0,3.0
+13089,DeKalb,GA,Georgia,"762,992",1.0,2.0
+13071,Colquitt,GA,Georgia,"46,167",2.0,4.0
+8011,Bent,CO,Colorado,"5,681",2.0,3.0
+12049,Hardee,FL,Florida,"25,760",2.0,4.0
+6087,Santa Cruz,CA,California,"261,547",0.0,2.0
+13125,Glascock,GA,Georgia,"2,954",1.0,4.0
+6073,San Diego,CA,California,"3,269,973",0.0,2.0
+8107,Routt,CO,Colorado,"25,064",0.0,2.0
+12011,Broward,FL,Florida,"1,962,531",1.0,2.0
+8115,Sedgwick,CO,Colorado,"2,299",1.0,1.0
+12087,Monroe,FL,Florida,"80,614",0.0,2.0
+13157,Jackson,GA,Georgia,"88,615",1.0,2.0
+8013,Boulder,CO,Colorado,"326,831",0.0,2.0
+8035,Douglas,CO,Colorado,"383,906",0.0,2.0
+8109,Saguache,CO,Colorado,"6,688",1.0,4.0
+6113,Yolo,CA,California,"220,544",0.0,2.0
+13109,Evans,GA,Georgia,"10,754",2.0,3.0
+8111,San Juan,CO,Colorado,802,0.0,2.0
+12091,Okaloosa,FL,Florida,"218,464",0.0,2.0
+12065,Jefferson,FL,Florida,"15,450",2.0,4.0
+9120,Greater Bridgeport,CT,Connecticut,"327,651",0.0,2.0
+8061,Kiowa,CO,Colorado,"1,384",0.0,2.0
+12117,Seminole,FL,Florida,"484,271",0.0,2.0
+13107,Emanuel,GA,Georgia,"23,119",3.0,3.0
+6109,Tuolumne,CA,California,"54,204",0.0,1.0
+8071,Las Animas,CO,Colorado,"14,348",1.0,4.0
+12073,Leon,FL,Florida,"296,913",1.0,2.0
+6091,Sierra,CA,California,"3,200",1.0,1.0
+13123,Gilmer,GA,Georgia,"32,860",1.0,4.0
+13103,Effingham,GA,Georgia,"71,541",1.0,2.0
+13165,Jenkins,GA,Georgia,"8,627",3.0,3.0
+13153,Houston,GA,Georgia,"171,974",1.0,2.0
+13159,Jasper,GA,Georgia,"16,455",1.0,4.0
+8079,Mineral,CO,Colorado,944,0.0,2.0
+8003,Alamosa,CO,Colorado,"16,655",1.0,4.0
+6105,Trinity,CA,California,"15,670",1.0,1.0
+13087,Decatur,GA,Georgia,"29,087",3.0,3.0
+12109,St. Johns,FL,Florida,"320,110",0.0,2.0
+13049,Charlton,GA,Georgia,"12,934",2.0,3.0
+6107,Tulare,CA,California,"479,468",2.0,4.0
+9150,Northeastern Connecticut,CT,Connecticut,"96,692",0.0,2.0
+13065,Clinch,GA,Georgia,"6,746",3.0,3.0
+13161,Jeff Davis,GA,Georgia,"14,906",2.0,4.0
+9160,Northwest Hills,CT,Connecticut,"113,463",0.0,2.0
+13119,Franklin,GA,Georgia,"24,782",2.0,4.0
+8113,San Miguel,CO,Colorado,"7,868",0.0,2.0
+11001,District of Columbia,DC,District of Columbia,"678,972",0.0,2.0
+13075,Cook,GA,Georgia,"17,714",2.0,4.0
+13141,Hancock,GA,Georgia,"8,676",3.0,3.0
+9130,Lower Connecticut River Valley,CT,Connecticut,"176,215",0.0,2.0
+13045,Carroll,GA,Georgia,"127,098",1.0,4.0
+13015,Bartow,GA,Georgia,"115,041",1.0,2.0
+6081,San Mateo,CA,California,"726,353",0.0,2.0
+12069,Lake,FL,Florida,"424,462",1.0,2.0
+13029,Bryan,GA,Georgia,"49,739",0.0,2.0
+8091,Ouray,CO,Colorado,"5,176",0.0,2.0
+9190,Western Connecticut,CT,Connecticut,"623,907",0.0,2.0
+13155,Irwin,GA,Georgia,"9,120",2.0,4.0
+8031,Denver,CO,Colorado,"716,577",0.0,2.0
+13063,Clayton,GA,Georgia,"298,300",3.0,3.0
+8001,Adams,CO,Colorado,"533,365",1.0,2.0
+12097,Osceola,FL,Florida,"437,784",1.0,4.0
+12101,Pasco,FL,Florida,"632,996",1.0,2.0
+12133,Washington,FL,Florida,"25,602",2.0,4.0
+8014,Broomfield,CO,Colorado,"76,860",0.0,2.0
+8083,Montezuma,CO,Colorado,"26,531",1.0,1.0
+8037,Eagle,CO,Colorado,"54,381",0.0,2.0
+8069,Larimer,CO,Colorado,"370,771",0.0,2.0
+8045,Garfield,CO,Colorado,"62,707",0.0,2.0
+12081,Manatee,FL,Florida,"441,095",0.0,2.0
+8065,Lake,CO,Colorado,"7,365",0.0,2.0
+8121,Washington,CO,Colorado,"4,855",0.0,2.0
+13115,Floyd,GA,Georgia,"100,113",1.0,4.0
+12113,Santa Rosa,FL,Florida,"203,162",0.0,2.0
+8015,Chaffee,CO,Colorado,"20,617",0.0,2.0
+6075,San Francisco,CA,California,"808,988",0.0,2.0
+12063,Jackson,FL,Florida,"48,622",2.0,4.0
+8093,Park,CO,Colorado,"18,117",0.0,2.0
+8007,Archuleta,CO,Colorado,"14,189",0.0,2.0
+13031,Bulloch,GA,Georgia,"84,327",1.0,4.0
+12095,Orange,FL,Florida,"1,471,416",1.0,2.0
+12031,Duval,FL,Florida,"1,030,822",1.0,4.0
+13163,Jefferson,GA,Georgia,"15,183",3.0,3.0
+12127,Volusia,FL,Florida,"590,357",1.0,2.0
+12017,Citrus,FL,Florida,"166,696",1.0,4.0
+13091,Dodge,GA,Georgia,"19,776",2.0,4.0
+12019,Clay,FL,Florida,"232,439",1.0,2.0
+13085,Dawson,GA,Georgia,"31,732",0.0,2.0
+8105,Rio Grande,CO,Colorado,"11,188",0.0,1.0
+12051,Hendry,FL,Florida,"43,333",3.0,4.0
+12035,Flagler,FL,Florida,"131,439",0.0,2.0
+8055,Huerfano,CO,Colorado,"7,055",1.0,1.0
+13011,Banks,GA,Georgia,"19,789",1.0,4.0
+12013,Calhoun,FL,Florida,"13,470",2.0,4.0
+6115,Yuba,CA,California,"85,722",1.0,4.0
+8047,Gilpin,CO,Colorado,"5,926",0.0,2.0
+13121,Fulton,GA,Georgia,"1,079,105",0.0,2.0
+6083,Santa Barbara,CA,California,"441,257",1.0,2.0
+6111,Ventura,CA,California,"829,590",0.0,2.0
+13129,Gordon,GA,Georgia,"59,757",2.0,4.0
+6099,Stanislaus,CA,California,"551,430",1.0,4.0
+12107,Putnam,FL,Florida,"75,955",2.0,4.0
+13057,Cherokee,GA,Georgia,"286,602",0.0,2.0
+8087,Morgan,CO,Colorado,"29,524",1.0,1.0
+13037,Calhoun,GA,Georgia,"5,457",3.0,3.0
+13019,Berrien,GA,Georgia,"18,570",2.0,4.0
+13097,Douglas,GA,Georgia,"149,160",1.0,2.0
+13099,Early,GA,Georgia,"10,563",3.0,3.0
+13001,Appling,GA,Georgia,"18,457",2.0,3.0
+8041,El Paso,CO,Colorado,"744,215",0.0,2.0
+13061,Clay,GA,Georgia,"2,853",3.0,3.0
+13077,Coweta,GA,Georgia,"155,892",0.0,2.0
+6103,Tehama,CA,California,"64,896",1.0,4.0
+13149,Heard,GA,Georgia,"12,034",1.0,4.0
+13017,Ben Hill,GA,Georgia,"17,128",3.0,3.0
+12086,Miami-Dade,FL,Florida,"2,686,867",1.0,4.0
+9140,Naugatuck Valley,CT,Connecticut,"456,128",0.0,2.0
+12129,Wakulla,FL,Florida,"36,449",1.0,2.0
+6095,Solano,CA,California,"449,218",0.0,2.0
+8033,Dolores,CO,Colorado,"2,513",0.0,2.0
+12077,Liberty,FL,Florida,"7,706",2.0,4.0
+8049,Grand,CO,Colorado,"15,935",0.0,2.0
+13127,Glynn,GA,Georgia,"86,172",1.0,4.0
+13069,Coffee,GA,Georgia,"43,317",3.0,3.0
+6097,Sonoma,CA,California,"481,812",0.0,2.0
+6077,San Joaquin,CA,California,"800,965",1.0,4.0
+12105,Polk,FL,Florida,"818,330",1.0,4.0
+12039,Gadsden,FL,Florida,"43,833",3.0,3.0
+8019,Clear Creek,CO,Colorado,"9,147",0.0,2.0
+12047,Hamilton,FL,Florida,"13,471",3.0,3.0
+13067,Cobb,GA,Georgia,"776,743",0.0,2.0
+13033,Burke,GA,Georgia,"24,438",3.0,3.0
+12083,Marion,FL,Florida,"409,959",1.0,4.0
+13139,Hall,GA,Georgia,"217,267",1.0,4.0
+13003,Atkinson,GA,Georgia,"8,293",3.0,3.0
+8053,Hinsdale,CO,Colorado,765,0.0,2.0
+10003,New Castle,DE,Delaware,"578,592",0.0,2.0
+13081,Crisp,GA,Georgia,"19,631",3.0,3.0
+12003,Baker,FL,Florida,"28,368",1.0,4.0
+13131,Grady,GA,Georgia,"26,066",2.0,4.0
+13105,Elbert,GA,Georgia,"20,013",2.0,4.0
+8029,Delta,CO,Colorado,"31,746",1.0,1.0
+8023,Costilla,CO,Colorado,"3,628",1.0,4.0
+13073,Columbia,GA,Georgia,"165,162",0.0,2.0
+8021,Conejos,CO,Colorado,"7,521",1.0,4.0
+8017,Cheyenne,CO,Colorado,"1,727",0.0,2.0
+13145,Harris,GA,Georgia,"36,654",0.0,2.0
+12057,Hillsborough,FL,Florida,"1,535,564",1.0,2.0
+8103,Rio Blanco,CO,Colorado,"6,569",0.0,2.0
+12093,Okeechobee,FL,Florida,"41,427",2.0,4.0
+9110,Capitol,CT,Connecticut,"975,328",0.0,2.0
+13023,Bleckley,GA,Georgia,"12,465",2.0,4.0
+9170,South Central Connecticut,CT,Connecticut,"568,158",0.0,2.0
+12099,Palm Beach,FL,Florida,"1,533,801",0.0,2.0
+8063,Kit Carson,CO,Colorado,"6,994",1.0,1.0
+13083,Dade,GA,Georgia,"16,165",1.0,2.0
+13051,Chatham,GA,Georgia,"303,655",1.0,2.0
+6101,Sutter,CA,California,"97,948",1.0,4.0
+12043,Glades,FL,Florida,"12,786",2.0,4.0
+13007,Baker,GA,Georgia,"2,743",3.0,3.0
+8119,Teller,CO,Colorado,"24,617",0.0,2.0
+12089,Nassau,FL,Florida,"101,501",0.0,2.0
+13135,Gwinnett,GA,Georgia,"983,526",1.0,2.0
+12045,Gulf,FL,Florida,"15,693",1.0,4.0
+13101,Echols,GA,Georgia,"3,709",1.0,4.0
+12059,Holmes,FL,Florida,"19,944",2.0,4.0
+6085,Santa Clara,CA,California,"1,877,592",0.0,2.0
+12119,Sumter,FL,Florida,"151,565",0.0,2.0
+12131,Walton,FL,Florida,"86,354",0.0,2.0
+13113,Fayette,GA,Georgia,"123,351",0.0,2.0
+12007,Bradford,FL,Florida,"27,858",2.0,4.0
+12071,Lee,FL,Florida,"834,573",0.0,2.0
+13027,Brooks,GA,Georgia,"16,245",3.0,3.0
+8099,Prowers,CO,Colorado,"11,751",1.0,4.0
+12033,Escambia,FL,Florida,"326,928",1.0,4.0
+12029,Dixie,FL,Florida,"17,465",2.0,4.0
+13005,Bacon,GA,Georgia,"11,124",2.0,4.0
+12015,Charlotte,FL,Florida,"206,134",0.0,2.0
+12075,Levy,FL,Florida,"46,545",2.0,4.0
+12125,Union,FL,Florida,"15,532",2.0,4.0
+8009,Baca,CO,Colorado,"3,344",1.0,1.0
+8067,La Plata,CO,Colorado,"56,407",0.0,2.0
+9180,Southeastern Connecticut,CT,Connecticut,"279,634",0.0,2.0
+10001,Kent,DE,Delaware,"189,789",1.0,4.0
+13137,Habersham,GA,Georgia,"48,757",1.0,4.0
+12079,Madison,FL,Florida,"18,519",2.0,4.0
+13093,Dooly,GA,Georgia,"10,981",2.0,3.0
+8101,Pueblo,CO,Colorado,"169,422",1.0,4.0
+12001,Alachua,FL,Florida,"285,994",1.0,2.0
+13043,Candler,GA,Georgia,"11,059",2.0,4.0
+12053,Hernando,FL,Florida,"212,807",1.0,4.0
+12103,Pinellas,FL,Florida,"961,596",0.0,2.0
+8075,Logan,CO,Colorado,"20,619",1.0,1.0
+13039,Camden,GA,Georgia,"58,118",1.0,4.0
+6089,Shasta,CA,California,"180,366",1.0,1.0
+13053,Chattahoochee,GA,Georgia,"8,661",2.0,4.0
+12067,Lafayette,FL,Florida,"8,078",2.0,4.0
+12121,Suwannee,FL,Florida,"46,130",2.0,4.0
+12123,Taylor,FL,Florida,"21,582",2.0,4.0
+8081,Moffat,CO,Colorado,"13,327",1.0,1.0
+8059,Jefferson,CO,Colorado,"576,366",0.0,2.0
+13151,Henry,GA,Georgia,"254,613",1.0,2.0
+13147,Hart,GA,Georgia,"27,556",1.0,4.0
+10005,Sussex,DE,Delaware,"263,509",1.0,2.0
+8097,Pitkin,CO,Colorado,"16,640",0.0,2.0
+12111,St. Lucie,FL,Florida,"373,586",1.0,4.0
+8051,Gunnison,CO,Colorado,"17,321",0.0,2.0
+13021,Bibb,GA,Georgia,"156,512",2.0,3.0
+8025,Crowley,CO,Colorado,"5,636",1.0,4.0
+13111,Fannin,GA,Georgia,"25,955",1.0,1.0
+13095,Dougherty,GA,Georgia,"82,645",3.0,3.0
+8043,Fremont,CO,Colorado,"50,318",1.0,1.0
+8077,Mesa,CO,Colorado,"159,681",0.0,2.0
+8039,Elbert,CO,Colorado,"28,806",0.0,2.0
+8005,Arapahoe,CO,Colorado,"656,061",0.0,2.0
+8089,Otero,CO,Colorado,"18,136",2.0,4.0
+13133,Greene,GA,Georgia,"20,722",1.0,2.0
+12041,Gilchrist,FL,Florida,"19,587",1.0,1.0
+13059,Clarke,GA,Georgia,"129,933",1.0,4.0
+12115,Sarasota,FL,Florida,"469,013",0.0,2.0
+6093,Siskiyou,CA,California,"42,905",1.0,1.0
+12037,Franklin,FL,Florida,"12,594",1.0,1.0
+8117,Summit,CO,Colorado,"30,465",0.0,2.0
+8073,Lincoln,CO,Colorado,"5,480",1.0,1.0
+12023,Columbia,FL,Florida,"73,063",2.0,4.0
+8085,Montrose,CO,Colorado,"44,156",0.0,2.0
+8095,Phillips,CO,Colorado,"4,476",1.0,1.0
+6079,San Luis Obispo,CA,California,"281,639",0.0,2.0
+12009,Brevard,FL,Florida,"643,979",0.0,2.0
+13013,Barrow,GA,Georgia,"92,792",1.0,4.0
+12061,Indian River,FL,Florida,"169,795",0.0,2.0
+13117,Forsyth,GA,Georgia,"272,887",0.0,2.0
+8125,Yuma,CO,Colorado,"9,862",1.0,1.0
+13143,Haralson,GA,Georgia,"32,038",1.0,4.0
+12005,Bay,FL,Florida,"190,769",1.0,2.0
+8057,Jackson,CO,Colorado,"1,309",1.0,1.0
+13035,Butts,GA,Georgia,"26,887",1.0,4.0
+12021,Collier,FL,Florida,"404,310",0.0,2.0
+13079,Crawford,GA,Georgia,"12,277",1.0,4.0
+13025,Brantley,GA,Georgia,"18,401",2.0,4.0
+12027,DeSoto,FL,Florida,"35,979",3.0,3.0
+13055,Chattooga,GA,Georgia,"25,222",2.0,4.0
+8027,Custer,CO,Colorado,"5,534",0.0,2.0
+8123,Weld,CO,Colorado,"359,442",0.0,2.0
+13009,Baldwin,GA,Georgia,"43,396",2.0,4.0
+17103,Lee,IL,Illinois,"33,654",1.0,1.0
+13223,Paulding,GA,Georgia,"183,164",1.0,2.0
+16051,Jefferson,ID,Idaho,"34,198",0.0,1.0
+13183,Long,GA,Georgia,"19,594",2.0,4.0
+17157,Randolph,IL,Illinois,"29,815",1.0,1.0
+13167,Johnson,GA,Georgia,"9,282",3.0,3.0
+13303,Washington,GA,Georgia,"19,820",3.0,3.0
+16021,Boundary,ID,Idaho,"13,557",1.0,1.0
+13309,Wheeler,GA,Georgia,"7,081",3.0,3.0
+17123,Marshall,IL,Illinois,"11,683",1.0,1.0
+16085,Valley,ID,Idaho,"12,644",0.0,1.0
+17189,Washington,IL,Illinois,"13,536",0.0,2.0
+13243,Randolph,GA,Georgia,"6,078",3.0,3.0
+13209,Montgomery,GA,Georgia,"8,761",2.0,4.0
+17143,Peoria,IL,Illinois,"177,513",1.0,2.0
+13305,Wayne,GA,Georgia,"31,373",2.0,3.0
+16087,Washington,ID,Idaho,"11,425",1.0,4.0
+16065,Madison,ID,Idaho,"54,547",1.0,4.0
+13321,Worth,GA,Georgia,"20,273",2.0,4.0
+13265,Taliaferro,GA,Georgia,"1,609",3.0,3.0
+17021,Christian,IL,Illinois,"33,228",1.0,1.0
+17139,Moultrie,IL,Illinois,"14,342",1.0,1.0
+13205,Mitchell,GA,Georgia,"21,114",3.0,3.0
+13273,Terrell,GA,Georgia,"8,718",3.0,3.0
+16071,Oneida,ID,Idaho,"4,953",0.0,1.0
+13187,Lumpkin,GA,Georgia,"35,258",1.0,2.0
+17155,Putnam,IL,Illinois,"5,561",0.0,2.0
+17135,Montgomery,IL,Illinois,"27,663",1.0,1.0
+17197,Will,IL,Illinois,"700,728",0.0,2.0
+17185,Wabash,IL,Illinois,"10,942",1.0,1.0
+17191,Wayne,IL,Illinois,"15,761",1.0,1.0
+13279,Toombs,GA,Georgia,"27,040",2.0,4.0
+13215,Muscogee,GA,Georgia,"201,877",2.0,4.0
+13199,Meriwether,GA,Georgia,"20,931",2.0,4.0
+17121,Marion,IL,Illinois,"36,673",1.0,1.0
+17013,Calhoun,IL,Illinois,"4,317",0.0,2.0
+17081,Jefferson,IL,Illinois,"36,320",1.0,1.0
+17083,Jersey,IL,Illinois,"21,091",0.0,2.0
+13201,Miller,GA,Georgia,"5,747",2.0,4.0
+17015,Carroll,IL,Illinois,"15,526",1.0,1.0
+15005,Kalawao,HI,Hawaii,81,1.0,4.0
+13181,Lincoln,GA,Georgia,"7,879",2.0,4.0
+17097,Lake,IL,Illinois,"708,760",0.0,2.0
+17193,White,IL,Illinois,"13,401",1.0,1.0
+15007,Kauai,HI,Hawaii,"73,851",0.0,2.0
+17151,Pope,IL,Illinois,"3,707",1.0,1.0
+13307,Webster,GA,Georgia,"2,337",3.0,3.0
+16011,Bingham,ID,Idaho,"50,395",1.0,1.0
+17107,Logan,IL,Illinois,"27,590",1.0,1.0
+17175,Stark,IL,Illinois,"5,218",1.0,1.0
+15001,Hawaii,HI,Hawaii,"207,615",1.0,1.0
+17077,Jackson,IL,Illinois,"52,141",1.0,4.0
+17187,Warren,IL,Illinois,"16,185",1.0,1.0
+17049,Effingham,IL,Illinois,"34,331",0.0,2.0
+13175,Laurens,GA,Georgia,"49,941",2.0,4.0
+16067,Minidoka,ID,Idaho,"22,480",1.0,4.0
+17063,Grundy,IL,Illinois,"53,578",0.0,2.0
+16003,Adams,ID,Idaho,"4,903",1.0,1.0
+13241,Rabun,GA,Georgia,"17,442",1.0,2.0
+17095,Knox,IL,Illinois,"48,411",1.0,1.0
+13213,Murray,GA,Georgia,"41,035",1.0,4.0
+17005,Bond,IL,Illinois,"16,450",1.0,1.0
+17007,Boone,IL,Illinois,"53,202",1.0,1.0
+17035,Cumberland,IL,Illinois,"10,261",0.0,2.0
+13225,Peach,GA,Georgia,"28,805",1.0,4.0
+13283,Treutlen,GA,Georgia,"6,341",3.0,3.0
+13245,Richmond,GA,Georgia,"205,414",2.0,4.0
+13271,Telfair,GA,Georgia,"10,920",3.0,3.0
+13251,Screven,GA,Georgia,"14,174",2.0,4.0
+16077,Power,ID,Idaho,"8,253",1.0,4.0
+13269,Taylor,GA,Georgia,"7,758",3.0,3.0
+13315,Wilcox,GA,Georgia,"8,779",3.0,3.0
+17149,Pike,IL,Illinois,"14,342",1.0,1.0
+17017,Cass,IL,Illinois,"12,596",1.0,4.0
+13227,Pickens,GA,Georgia,"35,969",1.0,2.0
+13169,Jones,GA,Georgia,"28,969",1.0,4.0
+16063,Lincoln,ID,Idaho,"5,450",1.0,4.0
+13221,Oglethorpe,GA,Georgia,"15,754",1.0,4.0
+13291,Union,GA,Georgia,"27,124",1.0,2.0
+13219,Oconee,GA,Georgia,"44,182",0.0,2.0
+17065,Hamilton,IL,Illinois,"7,911",1.0,1.0
+17003,Alexander,IL,Illinois,"4,695",2.0,3.0
+17195,Whiteside,IL,Illinois,"54,498",1.0,1.0
+17029,Coles,IL,Illinois,"46,060",1.0,1.0
+16025,Camas,ID,Idaho,"1,232",0.0,1.0
+16029,Caribou,ID,Idaho,"7,219",0.0,1.0
+17117,Macoupin,IL,Illinois,"44,018",1.0,1.0
+13301,Warren,GA,Georgia,"5,106",3.0,3.0
+16053,Jerome,ID,Idaho,"25,479",2.0,4.0
+16039,Elmore,ID,Idaho,"29,724",1.0,1.0
+13259,Stewart,GA,Georgia,"4,674",3.0,3.0
+17045,Edgar,IL,Illinois,"16,334",1.0,1.0
+16023,Butte,ID,Idaho,"2,758",2.0,4.0
+13253,Seminole,GA,Georgia,"9,092",2.0,4.0
+13217,Newton,GA,Georgia,"120,135",1.0,4.0
+13177,Lee,GA,Georgia,"33,872",0.0,2.0
+13207,Monroe,GA,Georgia,"30,625",1.0,2.0
+17161,Rock Island,IL,Illinois,"141,236",1.0,1.0
+13193,Macon,GA,Georgia,"11,817",3.0,3.0
+17089,Kane,IL,Illinois,"514,982",0.0,2.0
+17073,Henry,IL,Illinois,"48,448",0.0,2.0
+17053,Ford,IL,Illinois,"13,250",1.0,1.0
+13211,Morgan,GA,Georgia,"21,460",0.0,2.0
+17129,Menard,IL,Illinois,"11,954",0.0,2.0
+17131,Mercer,IL,Illinois,"15,487",1.0,1.0
+13247,Rockdale,GA,Georgia,"95,987",1.0,4.0
+17093,Kendall,IL,Illinois,"139,976",0.0,2.0
+17109,McDonough,IL,Illinois,"26,839",1.0,1.0
+13197,Marion,GA,Georgia,"7,440",2.0,4.0
+17181,Union,IL,Illinois,"16,667",1.0,1.0
+16027,Canyon,ID,Idaho,"257,674",1.0,1.0
+17051,Fayette,IL,Illinois,"21,164",1.0,1.0
+16081,Teton,ID,Idaho,"12,549",0.0,2.0
+15003,Honolulu,HI,Hawaii,"989,408",0.0,2.0
+17031,Cook,IL,Illinois,"5,087,072",0.0,2.0
+13189,McDuffie,GA,Georgia,"21,799",2.0,4.0
+16073,Owyhee,ID,Idaho,"12,722",2.0,4.0
+13255,Spalding,GA,Georgia,"69,946",2.0,4.0
+17159,Richland,IL,Illinois,"15,488",1.0,1.0
+13267,Tattnall,GA,Georgia,"24,296",3.0,3.0
+13191,McIntosh,GA,Georgia,"11,501",2.0,3.0
+13173,Lanier,GA,Georgia,"10,452",2.0,3.0
+17011,Bureau,IL,Illinois,"32,729",1.0,1.0
+16043,Fremont,ID,Idaho,"14,196",0.0,1.0
+13229,Pierce,GA,Georgia,"20,425",2.0,4.0
+16049,Idaho,ID,Idaho,"17,890",1.0,1.0
+17099,LaSalle,IL,Illinois,"108,309",1.0,1.0
+17067,Hancock,IL,Illinois,"17,186",1.0,1.0
+16079,Shoshone,ID,Idaho,"14,026",1.0,4.0
+17137,Morgan,IL,Illinois,"32,140",1.0,1.0
+17171,Scott,IL,Illinois,"4,710",0.0,1.0
+17037,DeKalb,IL,Illinois,"100,288",1.0,2.0
+13257,Stephens,GA,Georgia,"27,228",2.0,4.0
+16007,Bear Lake,ID,Idaho,"6,766",0.0,1.0
+17113,McLean,IL,Illinois,"170,441",0.0,2.0
+16015,Boise,ID,Idaho,"8,517",0.0,1.0
+17163,St. Clair,IL,Illinois,"251,018",1.0,4.0
+13237,Putnam,GA,Georgia,"23,129",1.0,4.0
+13233,Polk,GA,Georgia,"44,223",2.0,4.0
+17105,Livingston,IL,Illinois,"35,320",1.0,1.0
+13231,Pike,GA,Georgia,"20,461",1.0,2.0
+17125,Mason,IL,Illinois,"12,523",1.0,1.0
+17101,Lawrence,IL,Illinois,"14,813",1.0,4.0
+17177,Stephenson,IL,Illinois,"43,105",1.0,1.0
+16057,Latah,ID,Idaho,"41,301",0.0,2.0
+16083,Twin Falls,ID,Idaho,"95,156",1.0,1.0
+13299,Ware,GA,Georgia,"36,243",2.0,3.0
+17147,Piatt,IL,Illinois,"16,714",0.0,2.0
+13317,Wilkes,GA,Georgia,"9,518",2.0,4.0
+17057,Fulton,IL,Illinois,"32,541",1.0,1.0
+15009,Maui,HI,Hawaii,"164,183",0.0,2.0
+17115,Macon,IL,Illinois,"100,591",1.0,4.0
+13195,Madison,GA,Georgia,"32,191",2.0,4.0
+16047,Gooding,ID,Idaho,"16,061",1.0,4.0
+17043,DuPage,IL,Illinois,"921,213",0.0,2.0
+13311,White,GA,Georgia,"29,026",1.0,2.0
+17119,Madison,IL,Illinois,"262,752",0.0,2.0
+17167,Sangamon,IL,Illinois,"193,491",0.0,2.0
+17133,Monroe,IL,Illinois,"34,957",0.0,2.0
+16059,Lemhi,ID,Idaho,"8,441",1.0,1.0
+13179,Liberty,GA,Georgia,"69,210",1.0,4.0
+17023,Clark,IL,Illinois,"15,088",0.0,2.0
+17033,Crawford,IL,Illinois,"18,300",1.0,1.0
+17145,Perry,IL,Illinois,"20,503",1.0,4.0
+16019,Bonneville,ID,Idaho,"131,366",0.0,1.0
+16055,Kootenai,ID,Idaho,"185,010",0.0,1.0
+16069,Nez Perce,ID,Idaho,"42,987",1.0,1.0
+17061,Greene,IL,Illinois,"11,543",1.0,1.0
+13297,Walton,GA,Georgia,"106,702",1.0,4.0
+16037,Custer,ID,Idaho,"4,523",0.0,1.0
+16033,Clark,ID,Idaho,801,1.0,4.0
+17039,De Witt,IL,Illinois,"15,365",1.0,1.0
+17027,Clinton,IL,Illinois,"36,785",0.0,2.0
+13319,Wilkinson,GA,Georgia,"8,725",2.0,4.0
+16001,Ada,ID,Idaho,"524,673",0.0,2.0
+16005,Bannock,ID,Idaho,"90,400",1.0,1.0
+17169,Schuyler,IL,Illinois,"6,733",1.0,1.0
+17071,Henderson,IL,Illinois,"6,088",1.0,1.0
+16075,Payette,ID,Idaho,"27,279",1.0,1.0
+17001,Adams,IL,Illinois,"64,441",0.0,2.0
+16013,Blaine,ID,Idaho,"25,041",0.0,2.0
+17075,Iroquois,IL,Illinois,"26,136",1.0,1.0
+17009,Brown,IL,Illinois,"6,294",1.0,4.0
+13277,Tift,GA,Georgia,"41,554",2.0,4.0
+17085,Jo Daviess,IL,Illinois,"21,756",0.0,2.0
+13171,Lamar,GA,Georgia,"20,401",1.0,4.0
+17025,Clay,IL,Illinois,"12,999",1.0,1.0
+13275,Thomas,GA,Georgia,"45,649",2.0,4.0
+13281,Towns,GA,Georgia,"13,035",1.0,2.0
+13263,Talbot,GA,Georgia,"5,718",3.0,3.0
+17183,Vermilion,IL,Illinois,"71,652",1.0,4.0
+17179,Tazewell,IL,Illinois,"129,541",0.0,2.0
+16009,Benewah,ID,Idaho,"10,369",1.0,4.0
+13295,Walker,GA,Georgia,"69,489",1.0,1.0
+17079,Jasper,IL,Illinois,"9,144",0.0,2.0
+17055,Franklin,IL,Illinois,"37,138",1.0,1.0
+13235,Pulaski,GA,Georgia,"10,095",2.0,4.0
+17127,Massac,IL,Illinois,"13,661",1.0,1.0
+13285,Troup,GA,Georgia,"70,742",2.0,4.0
+17141,Ogle,IL,Illinois,"51,265",0.0,2.0
+17087,Johnson,IL,Illinois,"13,326",1.0,4.0
+17165,Saline,IL,Illinois,"22,873",1.0,1.0
+17059,Gallatin,IL,Illinois,"4,670",1.0,1.0
+13313,Whitfield,GA,Georgia,"103,687",1.0,4.0
+17091,Kankakee,IL,Illinois,"105,940",1.0,4.0
+16017,Bonner,ID,Idaho,"52,547",0.0,1.0
+17019,Champaign,IL,Illinois,"205,644",0.0,2.0
+16041,Franklin,ID,Idaho,"15,494",0.0,1.0
+13239,Quitman,GA,Georgia,"2,280",3.0,3.0
+16031,Cassia,ID,Idaho,"25,696",1.0,1.0
+17173,Shelby,IL,Illinois,"20,568",1.0,1.0
+13293,Upson,GA,Georgia,"28,263",2.0,4.0
+17153,Pulaski,IL,Illinois,"4,911",2.0,3.0
+16061,Lewis,ID,Idaho,"3,739",1.0,4.0
+13249,Schley,GA,Georgia,"4,526",1.0,4.0
+17047,Edwards,IL,Illinois,"5,968",1.0,1.0
+16045,Gem,ID,Idaho,"21,071",0.0,1.0
+13261,Sumter,GA,Georgia,"28,890",2.0,3.0
+17069,Hardin,IL,Illinois,"3,569",1.0,1.0
+17111,McHenry,IL,Illinois,"312,800",0.0,2.0
+17041,Douglas,IL,Illinois,"19,629",1.0,1.0
+19159,Ringgold,IA,Iowa,"4,642",0.0,2.0
+20023,Cheyenne,KS,Kansas,"2,636",1.0,1.0
+18017,Cass,IN,Indiana,"37,666",2.0,4.0
+19081,Hancock,IA,Iowa,"10,615",0.0,2.0
+20017,Chase,KS,Kansas,"2,579",1.0,1.0
+20009,Barton,KS,Kansas,"24,899",1.0,1.0
+18139,Rush,IN,Indiana,"16,847",1.0,1.0
+19107,Keokuk,IA,Iowa,"9,914",1.0,1.0
+19133,Monona,IA,Iowa,"8,493",1.0,2.0
+19011,Benton,IA,Iowa,"25,796",0.0,2.0
+19151,Pocahontas,IA,Iowa,"6,976",0.0,2.0
+19023,Butler,IA,Iowa,"14,172",0.0,2.0
+18027,Daviess,IN,Indiana,"33,656",2.0,4.0
+18137,Ripley,IN,Indiana,"29,227",1.0,2.0
+18019,Clark,IN,Indiana,"125,467",1.0,2.0
+19059,Dickinson,IA,Iowa,"18,056",0.0,2.0
+18065,Henry,IN,Indiana,"48,929",1.0,1.0
+18177,Wayne,IN,Indiana,"66,127",1.0,4.0
+20031,Coffey,KS,Kansas,"8,251",1.0,2.0
+19181,Warren,IA,Iowa,"55,205",0.0,2.0
+18059,Hancock,IN,Indiana,"86,166",0.0,2.0
+19137,Montgomery,IA,Iowa,"10,139",1.0,2.0
+20007,Barber,KS,Kansas,"4,071",1.0,1.0
+19141,O'Brien,IA,Iowa,"14,012",1.0,2.0
+18099,Marshall,IN,Indiana,"46,352",1.0,1.0
+18033,DeKalb,IN,Indiana,"44,198",1.0,2.0
+19025,Calhoun,IA,Iowa,"9,763",0.0,2.0
+20013,Brown,KS,Kansas,"9,250",1.0,1.0
+18055,Greene,IN,Indiana,"31,196",1.0,1.0
+19033,Cerro Gordo,IA,Iowa,"42,406",0.0,2.0
+19189,Winnebago,IA,Iowa,"10,571",0.0,2.0
+20021,Cherokee,KS,Kansas,"19,054",1.0,1.0
+18107,Montgomery,IN,Indiana,"38,573",1.0,1.0
+19005,Allamakee,IA,Iowa,"14,074",0.0,2.0
+19135,Monroe,IA,Iowa,"7,504",0.0,2.0
+18093,Lawrence,IN,Indiana,"45,084",1.0,1.0
+18129,Posey,IN,Indiana,"25,040",0.0,2.0
+19097,Jackson,IA,Iowa,"19,342",0.0,2.0
+18037,Dubois,IN,Indiana,"43,546",1.0,2.0
+19161,Sac,IA,Iowa,"9,686",0.0,2.0
+20029,Cloud,KS,Kansas,"8,854",1.0,1.0
+18047,Franklin,IN,Indiana,"23,096",1.0,2.0
+18165,Vermillion,IN,Indiana,"15,417",1.0,1.0
+19041,Clay,IA,Iowa,"16,511",0.0,2.0
+19179,Wapello,IA,Iowa,"35,166",1.0,1.0
+20003,Anderson,KS,Kansas,"7,838",1.0,1.0
+19015,Boone,IA,Iowa,"26,590",0.0,2.0
+18121,Parke,IN,Indiana,"16,484",2.0,4.0
+19071,Fremont,IA,Iowa,"6,458",0.0,2.0
+19047,Crawford,IA,Iowa,"16,013",1.0,1.0
+20027,Clay,KS,Kansas,"8,007",1.0,1.0
+20063,Gove,KS,Kansas,"2,735",0.0,2.0
+18097,Marion,IN,Indiana,"968,460",1.0,4.0
+18141,St. Joseph,IN,Indiana,"272,848",1.0,4.0
+19139,Muscatine,IA,Iowa,"42,218",0.0,2.0
+18175,Washington,IN,Indiana,"28,205",1.0,4.0
+19019,Buchanan,IA,Iowa,"20,691",0.0,2.0
+19065,Fayette,IA,Iowa,"19,210",1.0,2.0
+18063,Hendricks,IN,Indiana,"186,387",0.0,2.0
+17201,Winnebago,IL,Illinois,"280,922",1.0,4.0
+19127,Marshall,IA,Iowa,"40,014",1.0,2.0
+19123,Mahaska,IA,Iowa,"21,874",0.0,2.0
+18023,Clinton,IN,Indiana,"32,730",1.0,1.0
+18051,Gibson,IN,Indiana,"32,904",1.0,1.0
+19007,Appanoose,IA,Iowa,"12,119",1.0,4.0
+20035,Cowley,KS,Kansas,"34,157",1.0,1.0
+18105,Monroe,IN,Indiana,"139,342",1.0,2.0
+19153,Polk,IA,Iowa,"505,255",0.0,2.0
+19055,Delaware,IA,Iowa,"17,600",0.0,2.0
+20045,Douglas,KS,Kansas,"120,553",0.0,2.0
+19191,Winneshiek,IA,Iowa,"19,815",0.0,2.0
+18013,Brown,IN,Indiana,"15,653",0.0,2.0
+19057,Des Moines,IA,Iowa,"38,253",0.0,2.0
+20001,Allen,KS,Kansas,"12,412",1.0,1.0
+19075,Grundy,IA,Iowa,"12,384",0.0,2.0
+18053,Grant,IN,Indiana,"66,200",2.0,4.0
+18069,Huntington,IN,Indiana,"36,781",1.0,1.0
+18115,Ohio,IN,Indiana,"6,004",1.0,2.0
+19125,Marion,IA,Iowa,"33,770",0.0,2.0
+20061,Geary,KS,Kansas,"35,047",1.0,1.0
+20039,Decatur,KS,Kansas,"2,712",0.0,2.0
+18031,Decatur,IN,Indiana,"26,399",1.0,2.0
+18123,Perry,IN,Indiana,"19,209",1.0,1.0
+19013,Black Hawk,IA,Iowa,"130,471",0.0,2.0
+20005,Atchison,KS,Kansas,"16,016",1.0,1.0
+18157,Tippecanoe,IN,Indiana,"188,792",1.0,2.0
+19145,Page,IA,Iowa,"15,014",1.0,1.0
+19017,Bremer,IA,Iowa,"25,307",0.0,2.0
+19195,Worth,IA,Iowa,"7,297",0.0,2.0
+19157,Poweshiek,IA,Iowa,"18,453",0.0,2.0
+19089,Howard,IA,Iowa,"9,376",0.0,2.0
+18045,Fountain,IN,Indiana,"16,731",1.0,1.0
+18125,Pike,IN,Indiana,"12,106",1.0,1.0
+19175,Union,IA,Iowa,"11,906",0.0,2.0
+18101,Martin,IN,Indiana,"9,897",1.0,1.0
+19095,Iowa,IA,Iowa,"16,381",0.0,2.0
+19051,Davis,IA,Iowa,"9,169",1.0,2.0
+18169,Wabash,IN,Indiana,"30,670",1.0,1.0
+20055,Finney,KS,Kansas,"37,466",1.0,4.0
+18095,Madison,IN,Indiana,"132,504",1.0,1.0
+19119,Lyon,IA,Iowa,"12,324",0.0,2.0
+19183,Washington,IA,Iowa,"22,560",0.0,2.0
+19113,Linn,IA,Iowa,"228,972",0.0,2.0
+18089,Lake,IN,Indiana,"500,598",1.0,4.0
+18161,Union,IN,Indiana,"6,973",1.0,2.0
+18085,Kosciusko,IN,Indiana,"80,364",1.0,2.0
+19039,Clarke,IA,Iowa,"9,588",1.0,1.0
+18143,Scott,IN,Indiana,"24,657",2.0,4.0
+19073,Greene,IA,Iowa,"8,584",0.0,2.0
+18079,Jennings,IN,Indiana,"27,622",1.0,1.0
+19171,Tama,IA,Iowa,"16,833",1.0,1.0
+20049,Elk,KS,Kansas,"2,467",1.0,1.0
+19053,Decatur,IA,Iowa,"7,665",1.0,1.0
+19035,Cherokee,IA,Iowa,"11,605",1.0,2.0
+19197,Wright,IA,Iowa,"12,656",1.0,1.0
+18015,Carroll,IN,Indiana,"20,525",1.0,1.0
+18127,Porter,IN,Indiana,"175,335",0.0,2.0
+20043,Doniphan,KS,Kansas,"7,493",0.0,2.0
+19079,Hamilton,IA,Iowa,"14,729",0.0,2.0
+18087,LaGrange,IN,Indiana,"40,907",1.0,4.0
+18009,Blackford,IN,Indiana,"11,893",2.0,4.0
+19001,Adair,IA,Iowa,"7,389",0.0,2.0
+18171,Warren,IN,Indiana,"8,518",1.0,1.0
+20033,Comanche,KS,Kansas,"1,655",1.0,2.0
+20047,Edwards,KS,Kansas,"2,733",1.0,1.0
+19063,Emmet,IA,Iowa,"9,229",0.0,2.0
+18039,Elkhart,IN,Indiana,"206,409",1.0,4.0
+19165,Shelby,IA,Iowa,"11,806",0.0,2.0
+19029,Cass,IA,Iowa,"13,130",1.0,1.0
+19121,Madison,IA,Iowa,"16,971",0.0,2.0
+19103,Johnson,IA,Iowa,"157,528",0.0,2.0
+18135,Randolph,IN,Indiana,"24,216",1.0,1.0
+18007,Benton,IN,Indiana,"8,729",1.0,4.0
+19009,Audubon,IA,Iowa,"5,534",0.0,2.0
+18041,Fayette,IN,Indiana,"23,362",2.0,4.0
+19083,Hardin,IA,Iowa,"16,463",0.0,2.0
+19037,Chickasaw,IA,Iowa,"11,658",0.0,2.0
+18043,Floyd,IN,Indiana,"80,809",1.0,2.0
+18005,Bartholomew,IN,Indiana,"84,003",1.0,2.0
+18149,Starke,IN,Indiana,"23,206",1.0,4.0
+18145,Shelby,IN,Indiana,"45,231",1.0,1.0
+17203,Woodford,IL,Illinois,"38,285",0.0,2.0
+18057,Hamilton,IN,Indiana,"371,645",0.0,2.0
+19143,Osceola,IA,Iowa,"5,978",1.0,1.0
+18155,Switzerland,IN,Indiana,"10,019",2.0,4.0
+19109,Kossuth,IA,Iowa,"14,396",0.0,2.0
+19027,Carroll,IA,Iowa,"20,522",0.0,2.0
+20015,Butler,KS,Kansas,"68,632",0.0,2.0
+18111,Newton,IN,Indiana,"13,960",1.0,1.0
+19093,Ida,IA,Iowa,"6,833",0.0,2.0
+19101,Jefferson,IA,Iowa,"15,440",0.0,2.0
+19169,Story,IA,Iowa,"98,566",0.0,2.0
+18083,Knox,IN,Indiana,"36,070",1.0,1.0
+19085,Harrison,IA,Iowa,"14,670",0.0,2.0
+18119,Owen,IN,Indiana,"21,532",1.0,1.0
+18159,Tipton,IN,Indiana,"15,256",1.0,2.0
+18113,Noble,IN,Indiana,"47,430",1.0,2.0
+18167,Vigo,IN,Indiana,"106,153",2.0,4.0
+18011,Boone,IN,Indiana,"76,120",0.0,2.0
+19031,Cedar,IA,Iowa,"18,302",0.0,2.0
+18179,Wells,IN,Indiana,"28,555",1.0,2.0
+18133,Putnam,IN,Indiana,"37,567",1.0,2.0
+19131,Mitchell,IA,Iowa,"10,518",0.0,2.0
+19155,Pottawattamie,IA,Iowa,"93,179",1.0,2.0
+18153,Sullivan,IN,Indiana,"20,757",1.0,4.0
+19177,Van Buren,IA,Iowa,"7,266",1.0,1.0
+20059,Franklin,KS,Kansas,"26,125",1.0,2.0
+19067,Floyd,IA,Iowa,"15,326",0.0,2.0
+19105,Jones,IA,Iowa,"20,900",0.0,2.0
+20057,Ford,KS,Kansas,"33,980",1.0,4.0
+18117,Orange,IN,Indiana,"19,638",1.0,1.0
+19129,Mills,IA,Iowa,"14,633",0.0,2.0
+18073,Jasper,IN,Indiana,"33,535",1.0,2.0
+20019,Chautauqua,KS,Kansas,"3,347",1.0,1.0
+18003,Allen,IN,Indiana,"394,545",1.0,2.0
+20053,Ellsworth,KS,Kansas,"6,357",0.0,2.0
+18131,Pulaski,IN,Indiana,"12,385",1.0,1.0
+19077,Guthrie,IA,Iowa,"10,722",0.0,2.0
+18147,Spencer,IN,Indiana,"19,910",1.0,2.0
+19043,Clayton,IA,Iowa,"16,969",1.0,1.0
+19167,Sioux,IA,Iowa,"36,246",0.0,2.0
+19091,Humboldt,IA,Iowa,"9,500",0.0,2.0
+20011,Bourbon,KS,Kansas,"14,408",1.0,1.0
+19187,Webster,IA,Iowa,"36,485",0.0,2.0
+18103,Miami,IN,Indiana,"35,402",1.0,4.0
+19111,Lee,IA,Iowa,"32,565",1.0,2.0
+18071,Jackson,IN,Indiana,"46,460",1.0,1.0
+19021,Buena Vista,IA,Iowa,"20,567",1.0,1.0
+18049,Fulton,IN,Indiana,"20,358",1.0,1.0
+18183,Whitley,IN,Indiana,"34,742",1.0,2.0
+18067,Howard,IN,Indiana,"83,831",1.0,1.0
+18029,Dearborn,IN,Indiana,"51,215",0.0,2.0
+19185,Wayne,IA,Iowa,"6,557",1.0,1.0
+18173,Warrick,IN,Indiana,"65,867",0.0,2.0
+19147,Palo Alto,IA,Iowa,"8,810",0.0,2.0
+18001,Adams,IN,Indiana,"36,288",2.0,4.0
+18091,LaPorte,IN,Indiana,"111,706",1.0,4.0
+18061,Harrison,IN,Indiana,"40,006",1.0,2.0
+19049,Dallas,IA,Iowa,"111,092",0.0,2.0
+18075,Jay,IN,Indiana,"20,032",2.0,4.0
+20041,Dickinson,KS,Kansas,"18,445",0.0,2.0
+18163,Vanderburgh,IN,Indiana,"179,810",1.0,1.0
+19115,Louisa,IA,Iowa,"10,513",0.0,2.0
+19193,Woodbury,IA,Iowa,"105,951",1.0,2.0
+20037,Crawford,KS,Kansas,"38,764",1.0,1.0
+18035,Delaware,IN,Indiana,"112,321",1.0,4.0
+19087,Henry,IA,Iowa,"19,547",0.0,2.0
+19149,Plymouth,IA,Iowa,"25,722",0.0,2.0
+19003,Adams,IA,Iowa,"3,544",0.0,2.0
+19173,Taylor,IA,Iowa,"5,924",0.0,2.0
+19099,Jasper,IA,Iowa,"37,919",0.0,2.0
+20051,Ellis,KS,Kansas,"28,810",0.0,2.0
+18181,White,IN,Indiana,"24,917",1.0,1.0
+18109,Morgan,IN,Indiana,"73,227",1.0,2.0
+19045,Clinton,IA,Iowa,"46,158",0.0,2.0
+19163,Scott,IA,Iowa,"174,270",0.0,2.0
+17199,Williamson,IL,Illinois,"66,706",1.0,1.0
+18151,Steuben,IN,Indiana,"34,917",1.0,2.0
+19117,Lucas,IA,Iowa,"8,747",1.0,1.0
+18077,Jefferson,IN,Indiana,"33,056",1.0,1.0
+19069,Franklin,IA,Iowa,"9,875",1.0,1.0
+18025,Crawford,IN,Indiana,"10,438",2.0,4.0
+20025,Clark,KS,Kansas,"1,847",0.0,2.0
+19061,Dubuque,IA,Iowa,"98,887",0.0,2.0
+24021,Frederick,MD,Maryland,"293,391",0.0,2.0
+20119,Meade,KS,Kansas,"3,911",1.0,1.0
+22039,Evangeline,LA,Louisiana,"31,754",3.0,3.0
+20081,Haskell,KS,Kansas,"3,630",1.0,1.0
+25025,Suffolk,MA,Massachusetts,"768,425",0.0,2.0
+20065,Graham,KS,Kansas,"2,376",1.0,1.0
+20199,Wallace,KS,Kansas,"1,509",1.0,1.0
+22009,Avoyelles,LA,Louisiana,"38,408",3.0,3.0
+20205,Wilson,KS,Kansas,"8,382",1.0,1.0
+24041,Talbot,MD,Maryland,"37,823",0.0,2.0
+22073,Ouachita,LA,Louisiana,"157,568",2.0,4.0
+26029,Charlevoix,MI,Michigan,"26,159",0.0,2.0
+20139,Osage,KS,Kansas,"15,824",1.0,2.0
+20105,Lincoln,KS,Kansas,"2,920",1.0,1.0
+25011,Franklin,MA,Massachusetts,"70,836",0.0,2.0
+20201,Washington,KS,Kansas,"5,504",0.0,2.0
+22075,Plaquemines,LA,Louisiana,"22,386",1.0,4.0
+22053,Jefferson Davis,LA,Louisiana,"31,553",2.0,4.0
+21049,Clark,KY,Kentucky,"37,304",2.0,4.0
+20161,Riley,KS,Kansas,"71,402",1.0,2.0
+22097,St. Landry,LA,Louisiana,"81,464",3.0,3.0
+25007,Dukes,MA,Massachusetts,"20,819",0.0,2.0
+20101,Lane,KS,Kansas,"1,529",1.0,2.0
+20169,Saline,KS,Kansas,"53,098",0.0,2.0
+22059,LaSalle,LA,Louisiana,"14,800",2.0,4.0
+25023,Plymouth,MA,Massachusetts,"535,308",0.0,2.0
+25003,Berkshire,MA,Massachusetts,"126,818",0.0,2.0
+26025,Calhoun,MI,Michigan,"133,366",1.0,1.0
+26031,Cheboygan,MI,Michigan,"26,048",1.0,1.0
+20175,Seward,KS,Kansas,"21,067",2.0,4.0
+20111,Lyon,KS,Kansas,"32,172",1.0,1.0
+20097,Kiowa,KS,Kansas,"2,374",0.0,2.0
+24039,Somerset,MD,Maryland,"24,910",2.0,4.0
+22089,St. Charles,LA,Louisiana,"50,620",1.0,4.0
+23029,Washington,ME,Maine,"31,555",2.0,4.0
+23031,York,ME,Maine,"218,586",0.0,2.0
+20099,Labette,KS,Kansas,"19,728",1.0,1.0
+22091,St. Helena,LA,Louisiana,"10,774",3.0,3.0
+21109,Jackson,KY,Kentucky,"13,104",2.0,3.0
+20079,Harvey,KS,Kansas,"33,504",0.0,2.0
+24015,Cecil,MD,Maryland,"105,672",1.0,2.0
+26033,Chippewa,MI,Michigan,"36,264",1.0,4.0
+21113,Jessamine,KY,Kentucky,"55,017",1.0,1.0
+25019,Nantucket,MA,Massachusetts,"14,444",0.0,2.0
+20203,Wichita,KS,Kansas,"2,082",1.0,1.0
+21227,Warren,KY,Kentucky,"142,229",1.0,4.0
+24025,Harford,MD,Maryland,"264,644",0.0,2.0
+26015,Barry,MI,Michigan,"63,808",0.0,2.0
+21065,Estill,KY,Kentucky,"13,936",3.0,3.0
+23025,Somerset,ME,Maine,"51,302",2.0,4.0
+26027,Cass,MI,Michigan,"51,642",1.0,1.0
+22125,West Feliciana,LA,Louisiana,"15,371",1.0,4.0
+20073,Greenwood,KS,Kansas,"5,870",1.0,1.0
+22055,Lafayette,LA,Louisiana,"249,750",1.0,4.0
+23011,Kennebec,ME,Maine,"127,259",1.0,1.0
+20185,Stafford,KS,Kansas,"3,909",1.0,1.0
+21165,Menifee,KY,Kentucky,"6,286",3.0,3.0
+21103,Henry,KY,Kentucky,"15,973",1.0,1.0
+20137,Norton,KS,Kansas,"5,330",1.0,1.0
+24013,Carroll,MD,Maryland,"176,639",0.0,2.0
+20109,Logan,KS,Kansas,"2,665",1.0,1.0
+22081,Red River,LA,Louisiana,"7,356",3.0,3.0
+22083,Richland,LA,Louisiana,"19,712",3.0,3.0
+22111,Union,LA,Louisiana,"20,650",2.0,3.0
+20121,Miami,KS,Kansas,"35,320",0.0,2.0
+20179,Sheridan,KS,Kansas,"2,423",0.0,2.0
+20141,Osborne,KS,Kansas,"3,427",1.0,2.0
+20167,Russell,KS,Kansas,"6,723",1.0,1.0
+20147,Phillips,KS,Kansas,"4,761",1.0,1.0
+22065,Madison,LA,Louisiana,"9,246",3.0,3.0
+20165,Rush,KS,Kansas,"2,830",1.0,1.0
+21003,Allen,KY,Kentucky,"21,788",3.0,3.0
+25017,Middlesex,MA,Massachusetts,"1,623,952",0.0,2.0
+22093,St. James,LA,Louisiana,"19,191",2.0,4.0
+20123,Mitchell,KS,Kansas,"5,719",1.0,2.0
+20067,Grant,KS,Kansas,"7,147",0.0,4.0
+22051,Jefferson,LA,Louisiana,"421,777",1.0,4.0
+20117,Marshall,KS,Kansas,"9,933",1.0,1.0
+20187,Stanton,KS,Kansas,"1,901",1.0,4.0
+20115,Marion,KS,Kansas,"11,690",0.0,2.0
+23013,Knox,ME,Maine,"40,977",0.0,2.0
+22079,Rapides,LA,Louisiana,"126,260",2.0,4.0
+22023,Cameron,LA,Louisiana,"4,768",1.0,1.0
+26035,Clare,MI,Michigan,"31,316",2.0,4.0
+22105,Tangipahoa,LA,Louisiana,"138,064",2.0,4.0
+22013,Bienville,LA,Louisiana,"12,366",3.0,3.0
+21077,Gallatin,KY,Kentucky,"8,792",2.0,4.0
+22017,Caddo,LA,Louisiana,"226,386",2.0,3.0
+24035,Queen Anne's,MD,Maryland,"52,508",0.0,2.0
+20197,Wabaunsee,KS,Kansas,"7,057",0.0,2.0
+22041,Franklin,LA,Louisiana,"19,285",3.0,3.0
+22027,Claiborne,LA,Louisiana,"13,670",3.0,3.0
+20155,Reno,KS,Kansas,"61,497",1.0,1.0
+22121,West Baton Rouge,LA,Louisiana,"28,266",1.0,4.0
+22011,Beauregard,LA,Louisiana,"36,827",2.0,4.0
+20149,Pottawatomie,KS,Kansas,"26,382",0.0,2.0
+20113,McPherson,KS,Kansas,"30,091",0.0,2.0
+20075,Hamilton,KS,Kansas,"2,437",1.0,4.0
+20103,Leavenworth,KS,Kansas,"83,518",0.0,2.0
+26001,Alcona,MI,Michigan,"10,489",1.0,1.0
+20091,Johnson,KS,Kansas,"622,237",0.0,2.0
+24005,Baltimore,MD,Maryland,"844,703",0.0,2.0
+20183,Smith,KS,Kansas,"3,590",0.0,2.0
+23021,Piscataquis,ME,Maine,"17,486",1.0,1.0
+23001,Androscoggin,ME,Maine,"113,765",1.0,1.0
+20107,Linn,KS,Kansas,"9,860",0.0,2.0
+24047,Worcester,MD,Maryland,"54,171",0.0,2.0
+24510,Baltimore,MD,Maryland,"565,239",2.0,4.0
+21161,Mason,KY,Kentucky,"16,841",2.0,4.0
+20143,Ottawa,KS,Kansas,"5,818",0.0,2.0
+24011,Caroline,MD,Maryland,"33,593",1.0,4.0
+24027,Howard,MD,Maryland,"336,001",0.0,2.0
+20095,Kingman,KS,Kansas,"7,066",1.0,2.0
+26021,Berrien,MI,Michigan,"152,261",1.0,1.0
+22015,Bossier,LA,Louisiana,"129,795",1.0,4.0
+22127,Winn,LA,Louisiana,"13,216",3.0,3.0
+22069,Natchitoches,LA,Louisiana,"36,291",2.0,3.0
+21089,Greenup,KY,Kentucky,"35,221",2.0,4.0
+22107,Tensas,LA,Louisiana,"3,764",3.0,3.0
+20087,Jefferson,KS,Kansas,"18,327",0.0,2.0
+22061,Lincoln,LA,Louisiana,"47,962",2.0,3.0
+20151,Pratt,KS,Kansas,"9,082",0.0,2.0
+25027,Worcester,MA,Massachusetts,"866,866",0.0,2.0
+20163,Rooks,KS,Kansas,"4,778",0.0,2.0
+20089,Jewell,KS,Kansas,"2,847",1.0,1.0
+20071,Greeley,KS,Kansas,"1,181",0.0,2.0
+22087,St. Bernard,LA,Louisiana,"44,463",2.0,3.0
+22031,De Soto,LA,Louisiana,"27,114",2.0,3.0
+20125,Montgomery,KS,Kansas,"30,568",1.0,1.0
+22037,East Feliciana,LA,Louisiana,"19,229",2.0,4.0
+24017,Charles,MD,Maryland,"171,973",0.0,2.0
+23015,Lincoln,ME,Maine,"36,507",0.0,2.0
+22067,Morehouse,LA,Louisiana,"23,955",3.0,3.0
+25005,Bristol,MA,Massachusetts,"581,841",1.0,2.0
+26011,Arenac,MI,Michigan,"15,145",1.0,1.0
+22113,Vermilion,LA,Louisiana,"56,992",2.0,4.0
+20153,Rawlins,KS,Kansas,"2,463",1.0,1.0
+21203,Rockcastle,KY,Kentucky,"16,190",2.0,4.0
+24031,Montgomery,MD,Maryland,"1,058,474",0.0,2.0
+22003,Allen,LA,Louisiana,"22,112",2.0,3.0
+26003,Alger,MI,Michigan,"8,757",1.0,1.0
+21117,Kenton,KY,Kentucky,"171,321",0.0,2.0
+20133,Neosho,KS,Kansas,"15,420",1.0,1.0
+20129,Morton,KS,Kansas,"2,580",1.0,1.0
+21095,Harlan,KY,Kentucky,"25,324",2.0,3.0
+24023,Garrett,MD,Maryland,"28,423",1.0,2.0
+20127,Morris,KS,Kansas,"5,334",0.0,2.0
+24043,Washington,MD,Maryland,"155,813",1.0,4.0
+24019,Dorchester,MD,Maryland,"32,879",1.0,4.0
+26017,Bay,MI,Michigan,"102,500",1.0,1.0
+22045,Iberia,LA,Louisiana,"67,659",3.0,3.0
+20195,Trego,KS,Kansas,"2,731",0.0,2.0
+21055,Crittenden,KY,Kentucky,"8,974",2.0,4.0
+21195,Pike,KY,Kentucky,"55,973",2.0,4.0
+25015,Hampshire,MA,Massachusetts,"162,502",0.0,2.0
+21031,Butler,KY,Kentucky,"12,375",2.0,4.0
+23005,Cumberland,ME,Maine,"310,230",0.0,2.0
+21143,Lyon,KY,Kentucky,"9,187",1.0,4.0
+21201,Robertson,KY,Kentucky,"2,313",2.0,4.0
+24033,Prince George's,MD,Maryland,"947,430",1.0,2.0
+20093,Kearny,KS,Kansas,"3,823",1.0,1.0
+22071,Orleans,LA,Louisiana,"364,136",2.0,4.0
+22035,East Carroll,LA,Louisiana,"6,829",3.0,3.0
+22119,Webster,LA,Louisiana,"35,238",3.0,3.0
+20207,Woodson,KS,Kansas,"3,115",1.0,1.0
+24037,St. Mary's,MD,Maryland,"115,281",0.0,2.0
+26007,Alpena,MI,Michigan,"28,904",1.0,1.0
+21085,Grayson,KY,Kentucky,"26,825",3.0,3.0
+20083,Hodgeman,KS,Kansas,"1,655",0.0,2.0
+25001,Barnstable,MA,Massachusetts,"231,735",0.0,2.0
+22047,Iberville,LA,Louisiana,"29,617",2.0,3.0
+20077,Harper,KS,Kansas,"5,435",1.0,1.0
+22099,St. Martin,LA,Louisiana,"51,057",2.0,4.0
+22109,Terrebonne,LA,Louisiana,"103,616",2.0,4.0
+25013,Hampden,MA,Massachusetts,"460,291",1.0,4.0
+22007,Assumption,LA,Louisiana,"20,160",2.0,3.0
+22043,Grant,LA,Louisiana,"21,911",2.0,4.0
+22057,Lafourche,LA,Louisiana,"95,056",2.0,4.0
+21137,Lincoln,KY,Kentucky,"24,776",3.0,3.0
+23009,Hancock,ME,Maine,"56,526",0.0,2.0
+20193,Thomas,KS,Kansas,"7,865",0.0,2.0
+22025,Catahoula,LA,Louisiana,"8,414",3.0,3.0
+22021,Caldwell,LA,Louisiana,"9,389",3.0,3.0
+22115,Vernon,LA,Louisiana,"46,250",2.0,4.0
+22103,St. Tammany,LA,Louisiana,"275,583",1.0,2.0
+21043,Carter,KY,Kentucky,"26,366",2.0,4.0
+21149,McLean,KY,Kentucky,"9,054",2.0,4.0
+21189,Owsley,KY,Kentucky,"4,001",3.0,3.0
+21045,Casey,KY,Kentucky,"15,918",2.0,4.0
+23019,Penobscot,ME,Maine,"155,312",1.0,1.0
+22063,Livingston,LA,Louisiana,"150,145",1.0,1.0
+22077,Pointe Coupee,LA,Louisiana,"20,000",2.0,4.0
+21067,Fayette,KY,Kentucky,"320,154",0.0,1.0
+22001,Acadia,LA,Louisiana,"56,489",2.0,3.0
+23023,Sagadahoc,ME,Maine,"37,513",0.0,2.0
+22085,Sabine,LA,Louisiana,"21,906",2.0,3.0
+20173,Sedgwick,KS,Kansas,"528,469",1.0,2.0
+24001,Allegany,MD,Maryland,"67,273",1.0,4.0
+20069,Gray,KS,Kansas,"5,743",1.0,1.0
+22101,St. Mary,LA,Louisiana,"47,055",3.0,3.0
+21131,Leslie,KY,Kentucky,"9,864",2.0,3.0
+20171,Scott,KS,Kansas,"4,922",0.0,2.0
+21171,Monroe,KY,Kentucky,"11,306",3.0,3.0
+20177,Shawnee,KS,Kansas,"177,746",1.0,2.0
+20159,Rice,KS,Kansas,"9,260",1.0,2.0
+26023,Branch,MI,Michigan,"45,215",1.0,4.0
+26019,Benzie,MI,Michigan,"18,441",0.0,2.0
+21209,Scott,KY,Kentucky,"60,168",1.0,1.0
+20191,Sumner,KS,Kansas,"22,334",1.0,1.0
+21125,Laurel,KY,Kentucky,"63,296",2.0,4.0
+23027,Waldo,ME,Maine,"40,620",1.0,1.0
+23003,Aroostook,ME,Maine,"67,351",2.0,4.0
+20131,Nemaha,KS,Kansas,"10,114",0.0,2.0
+21075,Fulton,KY,Kentucky,"6,338",3.0,3.0
+24045,Wicomico,MD,Maryland,"104,800",1.0,4.0
+21155,Marion,KY,Kentucky,"19,834",2.0,3.0
+21071,Floyd,KY,Kentucky,"34,423",3.0,3.0
+20181,Sherman,KS,Kansas,"5,844",1.0,2.0
+25009,Essex,MA,Massachusetts,"810,089",0.0,2.0
+24003,Anne Arundel,MD,Maryland,"594,582",0.0,2.0
+26005,Allegan,MI,Michigan,"121,939",0.0,2.0
+23007,Franklin,ME,Maine,"30,828",1.0,1.0
+21119,Knott,KY,Kentucky,"13,659",2.0,4.0
+20209,Wyandotte,KS,Kansas,"165,281",2.0,4.0
+21097,Harrison,KY,Kentucky,"19,415",2.0,4.0
+24009,Calvert,MD,Maryland,"94,728",0.0,2.0
+22005,Ascension,LA,Louisiana,"131,632",1.0,4.0
+22095,St. John the Baptist,LA,Louisiana,"39,592",2.0,4.0
+22029,Concordia,LA,Louisiana,"17,688",3.0,3.0
+20135,Ness,KS,Kansas,"2,618",1.0,2.0
+22019,Calcasieu,LA,Louisiana,"203,761",2.0,4.0
+26013,Baraga,MI,Michigan,"8,310",2.0,4.0
+21037,Campbell,KY,Kentucky,"93,702",1.0,1.0
+20189,Stevens,KS,Kansas,"5,077",2.0,4.0
+21035,Calloway,KY,Kentucky,"38,280",2.0,4.0
+25021,Norfolk,MA,Massachusetts,"727,473",0.0,2.0
+22049,Jackson,LA,Louisiana,"14,746",2.0,3.0
+21091,Hancock,KY,Kentucky,"8,920",1.0,1.0
+21025,Breathitt,KY,Kentucky,"12,953",3.0,3.0
+21225,Union,KY,Kentucky,"13,106",2.0,4.0
+20145,Pawnee,KS,Kansas,"6,126",1.0,2.0
+22123,West Carroll,LA,Louisiana,"9,323",2.0,4.0
+21133,Letcher,KY,Kentucky,"20,423",2.0,3.0
+22033,East Baton Rouge,LA,Louisiana,"448,467",1.0,4.0
+21111,Jefferson,KY,Kentucky,"772,144",1.0,4.0
+20157,Republic,KS,Kansas,"4,627",1.0,1.0
+23017,Oxford,ME,Maine,"59,905",1.0,1.0
+21219,Todd,KY,Kentucky,"12,494",2.0,4.0
+21167,Mercer,KY,Kentucky,"23,097",2.0,4.0
+24029,Kent,MD,Maryland,"19,303",0.0,2.0
+21057,Cumberland,KY,Kentucky,"6,000",3.0,3.0
+21177,Muhlenberg,KY,Kentucky,"30,568",2.0,4.0
+21163,Meade,KY,Kentucky,"30,131",1.0,1.0
+21135,Lewis,KY,Kentucky,"12,973",3.0,3.0
+21079,Garrard,KY,Kentucky,"17,829",2.0,4.0
+21141,Logan,KY,Kentucky,"28,283",2.0,4.0
+21183,Ohio,KY,Kentucky,"23,626",2.0,4.0
+21207,Russell,KY,Kentucky,"18,279",2.0,4.0
+21027,Breckinridge,KY,Kentucky,"21,124",2.0,4.0
+21081,Grant,KY,Kentucky,"25,619",2.0,4.0
+21213,Simpson,KY,Kentucky,"20,195",1.0,1.0
+21019,Boyd,KY,Kentucky,"47,826",1.0,1.0
+21107,Hopkins,KY,Kentucky,"44,929",2.0,4.0
+22117,Washington,LA,Louisiana,"44,865",3.0,3.0
+21157,Marshall,KY,Kentucky,"31,744",1.0,2.0
+21033,Caldwell,KY,Kentucky,"12,551",2.0,4.0
+21015,Boone,KY,Kentucky,"140,496",1.0,1.0
+21013,Bell,KY,Kentucky,"23,317",2.0,3.0
+21129,Lee,KY,Kentucky,"7,293",3.0,3.0
+21173,Montgomery,KY,Kentucky,"28,527",2.0,4.0
+21023,Bracken,KY,Kentucky,"8,426",2.0,4.0
+21039,Carlisle,KY,Kentucky,"4,704",1.0,1.0
+21009,Barren,KY,Kentucky,"45,008",2.0,3.0
+21051,Clay,KY,Kentucky,"19,648",3.0,3.0
+21229,Washington,KY,Kentucky,"12,267",2.0,4.0
+21181,Nicholas,KY,Kentucky,"7,686",2.0,3.0
+21175,Morgan,KY,Kentucky,"14,283",2.0,3.0
+21029,Bullitt,KY,Kentucky,"84,863",1.0,1.0
+21233,Webster,KY,Kentucky,"12,726",2.0,3.0
+21041,Carroll,KY,Kentucky,"10,987",2.0,4.0
+21083,Graves,KY,Kentucky,"36,461",2.0,4.0
+21123,Larue,KY,Kentucky,"15,303",2.0,4.0
+21153,Magoffin,KY,Kentucky,"11,228",3.0,3.0
+21061,Edmonson,KY,Kentucky,"12,448",2.0,3.0
+21221,Trigg,KY,Kentucky,"14,369",2.0,4.0
+21147,McCreary,KY,Kentucky,"17,050",3.0,3.0
+21151,Madison,KY,Kentucky,"96,735",1.0,1.0
+21017,Bourbon,KY,Kentucky,"20,134",1.0,4.0
+21105,Hickman,KY,Kentucky,"4,447",2.0,4.0
+21187,Owen,KY,Kentucky,"11,313",2.0,4.0
+21217,Taylor,KY,Kentucky,"26,443",2.0,4.0
+21001,Adair,KY,Kentucky,"19,264",2.0,4.0
+21047,Christian,KY,Kentucky,"72,032",2.0,4.0
+21211,Shelby,KY,Kentucky,"49,515",1.0,1.0
+21115,Johnson,KY,Kentucky,"22,116",2.0,3.0
+21069,Fleming,KY,Kentucky,"15,442",2.0,3.0
+21059,Daviess,KY,Kentucky,"103,458",1.0,4.0
+21199,Pulaski,KY,Kentucky,"66,191",2.0,4.0
+21235,Whitley,KY,Kentucky,"36,825",2.0,4.0
+21197,Powell,KY,Kentucky,"12,972",2.0,3.0
+21063,Elliott,KY,Kentucky,"7,245",2.0,4.0
+21193,Perry,KY,Kentucky,"27,133",2.0,3.0
+21121,Knox,KY,Kentucky,"29,794",3.0,3.0
+21169,Metcalfe,KY,Kentucky,"10,482",1.0,4.0
+21101,Henderson,KY,Kentucky,"44,119",2.0,3.0
+21011,Bath,KY,Kentucky,"12,975",2.0,3.0
+21205,Rowan,KY,Kentucky,"24,409",2.0,3.0
+21053,Clinton,KY,Kentucky,"9,148",2.0,4.0
+21007,Ballard,KY,Kentucky,"7,582",2.0,4.0
+21239,Woodford,KY,Kentucky,"27,268",1.0,1.0
+21145,McCracken,KY,Kentucky,"67,428",2.0,4.0
+21093,Hardin,KY,Kentucky,"112,273",1.0,4.0
+21179,Nelson,KY,Kentucky,"47,730",1.0,4.0
+21159,Martin,KY,Kentucky,"10,928",3.0,3.0
+21215,Spencer,KY,Kentucky,"20,531",1.0,1.0
+21191,Pendleton,KY,Kentucky,"14,810",2.0,4.0
+21099,Hart,KY,Kentucky,"19,724",3.0,3.0
+21231,Wayne,KY,Kentucky,"19,580",3.0,3.0
+21127,Lawrence,KY,Kentucky,"16,000",2.0,4.0
+21223,Trimble,KY,Kentucky,"8,607",1.0,4.0
+21021,Boyle,KY,Kentucky,"30,988",1.0,1.0
+21185,Oldham,KY,Kentucky,"70,183",0.0,1.0
+21005,Anderson,KY,Kentucky,"24,613",0.0,2.0
+21139,Livingston,KY,Kentucky,"8,892",2.0,4.0
+21087,Green,KY,Kentucky,"11,468",2.0,4.0
+21073,Franklin,KY,Kentucky,"51,644",1.0,1.0
+21237,Wolfe,KY,Kentucky,"6,282",3.0,3.0
+28051,Holmes,MS,Mississippi,"15,777",3.0,3.0
+26089,Leelanau,MI,Michigan,"23,019",0.0,2.0
+27085,McLeod,MN,Minnesota,"36,785",0.0,2.0
+26051,Gladwin,MI,Michigan,"25,853",1.0,1.0
+28105,Oktibbeha,MS,Mississippi,"51,203",2.0,4.0
+26037,Clinton,MI,Michigan,"79,720",0.0,2.0
+27003,Anoka,MN,Minnesota,"372,441",0.0,2.0
+27053,Hennepin,MN,Minnesota,"1,258,713",0.0,2.0
+27011,Big Stone,MN,Minnesota,"5,105",0.0,2.0
+28069,Kemper,MS,Mississippi,"8,584",3.0,3.0
+27117,Pipestone,MN,Minnesota,"9,245",0.0,2.0
+28137,Tate,MS,Mississippi,"28,261",2.0,4.0
+26091,Lenawee,MI,Michigan,"97,520",1.0,1.0
+26111,Midland,MI,Michigan,"84,039",0.0,2.0
+27005,Becker,MN,Minnesota,"35,283",0.0,2.0
+26077,Kalamazoo,MI,Michigan,"262,215",0.0,2.0
+28089,Madison,MS,Mississippi,"112,511",1.0,2.0
+27007,Beltrami,MN,Minnesota,"46,718",1.0,2.0
+27119,Polk,MN,Minnesota,"30,412",0.0,2.0
+27097,Morrison,MN,Minnesota,"34,250",0.0,2.0
+27021,Cass,MN,Minnesota,"31,446",0.0,2.0
+26133,Osceola,MI,Michigan,"23,330",1.0,1.0
+27143,Sibley,MN,Minnesota,"15,084",0.0,2.0
+28087,Lowndes,MS,Mississippi,"57,283",2.0,4.0
+26073,Isabella,MI,Michigan,"64,118",1.0,4.0
+26141,Presque Isle,MI,Michigan,"13,285",1.0,1.0
+27105,Nobles,MN,Minnesota,"21,727",1.0,1.0
+26055,Grand Traverse,MI,Michigan,"96,421",0.0,2.0
+28101,Newton,MS,Mississippi,"21,019",2.0,3.0
+28081,Lee,MS,Mississippi,"82,799",1.0,4.0
+28133,Sunflower,MS,Mississippi,"24,468",3.0,3.0
+28139,Tippah,MS,Mississippi,"21,287",2.0,4.0
+26147,St. Clair,MI,Michigan,"159,874",1.0,1.0
+26083,Keweenaw,MI,Michigan,"2,172",0.0,2.0
+26069,Iosco,MI,Michigan,"25,373",1.0,4.0
+28067,Jones,MS,Mississippi,"66,250",2.0,4.0
+27135,Roseau,MN,Minnesota,"15,252",0.0,2.0
+28029,Copiah,MS,Mississippi,"27,664",3.0,3.0
+26071,Iron,MI,Michigan,"11,740",1.0,1.0
+27055,Houston,MN,Minnesota,"18,582",0.0,2.0
+27029,Clearwater,MN,Minnesota,"8,644",1.0,2.0
+28045,Hancock,MS,Mississippi,"46,159",1.0,4.0
+28141,Tishomingo,MS,Mississippi,"18,507",2.0,4.0
+28099,Neshoba,MS,Mississippi,"28,789",3.0,3.0
+27009,Benton,MN,Minnesota,"41,600",0.0,2.0
+27043,Faribault,MN,Minnesota,"13,873",0.0,2.0
+28053,Humphreys,MS,Mississippi,"7,216",3.0,3.0
+28121,Rankin,MS,Mississippi,"160,417",1.0,2.0
+27023,Chippewa,MN,Minnesota,"12,172",0.0,2.0
+28025,Clay,MS,Mississippi,"18,206",3.0,3.0
+27171,Wright,MN,Minnesota,"151,150",0.0,2.0
+26045,Eaton,MI,Michigan,"108,820",0.0,2.0
+27101,Murray,MN,Minnesota,"8,049",0.0,2.0
+28011,Bolivar,MS,Mississippi,"28,968",3.0,3.0
+26157,Tuscola,MI,Michigan,"52,826",1.0,1.0
+27035,Crow Wing,MN,Minnesota,"68,304",0.0,2.0
+26107,Mecosta,MI,Michigan,"41,099",1.0,1.0
+28041,Greene,MS,Mississippi,"13,601",2.0,4.0
+26081,Kent,MI,Michigan,"661,354",0.0,2.0
+27125,Red Lake,MN,Minnesota,"3,911",0.0,2.0
+27129,Renville,MN,Minnesota,"14,348",0.0,2.0
+27155,Traverse,MN,Minnesota,"3,136",0.0,2.0
+26093,Livingston,MI,Michigan,"196,757",0.0,2.0
+26149,St. Joseph,MI,Michigan,"60,878",1.0,1.0
+26137,Otsego,MI,Michigan,"25,747",0.0,2.0
+26119,Montmorency,MI,Michigan,"9,678",1.0,4.0
+27111,Otter Tail,MN,Minnesota,"60,626",0.0,2.0
+28055,Issaquena,MS,Mississippi,"1,256",3.0,3.0
+26135,Oscoda,MI,Michigan,"8,545",2.0,4.0
+27015,Brown,MN,Minnesota,"25,628",0.0,2.0
+28095,Monroe,MS,Mississippi,"33,609",2.0,3.0
+27139,Scott,MN,Minnesota,"155,814",0.0,2.0
+26087,Lapeer,MI,Michigan,"88,977",1.0,1.0
+26085,Lake,MI,Michigan,"12,734",2.0,4.0
+28013,Calhoun,MS,Mississippi,"12,685",3.0,3.0
+27123,Ramsey,MN,Minnesota,"536,075",0.0,2.0
+27069,Kittson,MN,Minnesota,"4,060",0.0,2.0
+27149,Stevens,MN,Minnesota,"9,728",0.0,2.0
+27059,Isanti,MN,Minnesota,"43,182",0.0,2.0
+27025,Chisago,MN,Minnesota,"58,535",0.0,2.0
+28071,Lafayette,MS,Mississippi,"58,467",1.0,4.0
+27061,Itasca,MN,Minnesota,"45,365",0.0,2.0
+28065,Jefferson Davis,MS,Mississippi,"10,969",3.0,3.0
+27071,Koochiching,MN,Minnesota,"11,751",0.0,2.0
+26127,Oceana,MI,Michigan,"26,981",1.0,1.0
+27167,Wilkin,MN,Minnesota,"6,306",0.0,2.0
+26079,Kalkaska,MI,Michigan,"18,490",1.0,1.0
+26121,Muskegon,MI,Michigan,"176,564",1.0,1.0
+26139,Ottawa,MI,Michigan,"303,372",0.0,2.0
+26047,Emmet,MI,Michigan,"34,123",0.0,2.0
+26075,Jackson,MI,Michigan,"159,424",1.0,1.0
+28107,Panola,MS,Mississippi,"32,669",3.0,3.0
+26063,Huron,MI,Michigan,"30,927",1.0,1.0
+27133,Rock,MN,Minnesota,"9,551",0.0,2.0
+28037,Franklin,MS,Mississippi,"7,610",3.0,3.0
+26043,Dickinson,MI,Michigan,"25,982",0.0,2.0
+26153,Schoolcraft,MI,Michigan,"8,149",1.0,4.0
+28019,Choctaw,MS,Mississippi,"8,088",2.0,4.0
+27173,Yellow Medicine,MN,Minnesota,"9,467",0.0,2.0
+28077,Lawrence,MS,Mississippi,"11,741",3.0,3.0
+27157,Wabasha,MN,Minnesota,"21,683",0.0,2.0
+26115,Monroe,MI,Michigan,"155,045",1.0,1.0
+28039,George,MS,Mississippi,"25,619",2.0,4.0
+28057,Itawamba,MS,Mississippi,"24,093",1.0,4.0
+26067,Ionia,MI,Michigan,"66,262",1.0,1.0
+28127,Simpson,MS,Mississippi,"25,715",2.0,4.0
+27151,Swift,MN,Minnesota,"9,719",0.0,2.0
+27115,Pine,MN,Minnesota,"30,197",1.0,2.0
+27027,Clay,MN,Minnesota,"66,258",0.0,2.0
+27153,Todd,MN,Minnesota,"25,667",1.0,2.0
+26057,Gratiot,MI,Michigan,"41,368",1.0,1.0
+26109,Menominee,MI,Michigan,"22,945",1.0,1.0
+27107,Norman,MN,Minnesota,"6,329",0.0,2.0
+26123,Newaygo,MI,Michigan,"51,108",1.0,1.0
+28049,Hinds,MS,Mississippi,"214,870",3.0,3.0
+26061,Houghton,MI,Michigan,"37,599",0.0,1.0
+26041,Delta,MI,Michigan,"36,790",1.0,1.0
+27131,Rice,MN,Minnesota,"67,948",0.0,2.0
+27077,Lake of the Woods,MN,Minnesota,"3,778",0.0,2.0
+26097,Mackinac,MI,Michigan,"10,851",1.0,4.0
+27081,Lincoln,MN,Minnesota,"5,521",0.0,2.0
+28047,Harrison,MS,Mississippi,"210,612",2.0,4.0
+28015,Carroll,MS,Mississippi,"9,535",3.0,3.0
+27113,Pennington,MN,Minnesota,"13,714",0.0,2.0
+28083,Leflore,MS,Mississippi,"26,378",3.0,3.0
+28117,Prentiss,MS,Mississippi,"25,135",2.0,4.0
+27159,Wadena,MN,Minnesota,"14,241",1.0,2.0
+26125,Oakland,MI,Michigan,"1,270,426",0.0,2.0
+27041,Douglas,MN,Minnesota,"39,953",0.0,2.0
+28059,Jackson,MS,Mississippi,"146,389",1.0,4.0
+28043,Grenada,MS,Mississippi,"21,065",3.0,3.0
+27047,Freeborn,MN,Minnesota,"30,515",0.0,2.0
+26131,Ontonagon,MI,Michigan,"5,906",1.0,1.0
+28109,Pearl River,MS,Mississippi,"57,978",2.0,4.0
+27137,St. Louis,MN,Minnesota,"200,514",0.0,2.0
+28085,Lincoln,MS,Mississippi,"34,702",2.0,4.0
+26105,Mason,MI,Michigan,"29,159",1.0,1.0
+26101,Manistee,MI,Michigan,"25,562",1.0,1.0
+26095,Luce,MI,Michigan,"6,435",1.0,4.0
+28125,Sharkey,MS,Mississippi,"3,336",3.0,3.0
+27091,Martin,MN,Minnesota,"19,657",0.0,2.0
+26099,Macomb,MI,Michigan,"875,101",1.0,2.0
+26165,Wexford,MI,Michigan,"34,122",1.0,1.0
+27121,Pope,MN,Minnesota,"11,400",0.0,2.0
+27039,Dodge,MN,Minnesota,"21,088",0.0,2.0
+27019,Carver,MN,Minnesota,"111,057",0.0,2.0
+28005,Amite,MS,Mississippi,"12,442",3.0,3.0
+26059,Hillsdale,MI,Michigan,"45,587",1.0,1.0
+27033,Cottonwood,MN,Minnesota,"11,319",0.0,2.0
+27127,Redwood,MN,Minnesota,"15,288",0.0,2.0
+28063,Jefferson,MS,Mississippi,"6,941",3.0,3.0
+28031,Covington,MS,Mississippi,"18,059",2.0,4.0
+26065,Ingham,MI,Michigan,"284,637",1.0,2.0
+28097,Montgomery,MS,Mississippi,"9,600",3.0,3.0
+27079,Le Sueur,MN,Minnesota,"29,255",0.0,2.0
+27163,Washington,MN,Minnesota,"278,936",0.0,2.0
+27013,Blue Earth,MN,Minnesota,"70,006",0.0,2.0
+28115,Pontotoc,MS,Mississippi,"31,535",2.0,4.0
+26049,Genesee,MI,Michigan,"401,522",1.0,4.0
+28093,Marshall,MS,Mississippi,"34,123",3.0,3.0
+27051,Grant,MN,Minnesota,"6,139",0.0,2.0
+27141,Sherburne,MN,Minnesota,"102,206",0.0,2.0
+28007,Attala,MS,Mississippi,"17,359",2.0,3.0
+26163,Wayne,MI,Michigan,"1,751,169",2.0,4.0
+27067,Kandiyohi,MN,Minnesota,"43,813",0.0,2.0
+27161,Waseca,MN,Minnesota,"18,981",0.0,2.0
+27057,Hubbard,MN,Minnesota,"22,132",0.0,2.0
+28009,Benton,MS,Mississippi,"7,438",2.0,3.0
+26159,Van Buren,MI,Michigan,"75,798",1.0,1.0
+28079,Leake,MS,Mississippi,"21,258",3.0,3.0
+27109,Olmsted,MN,Minnesota,"164,784",0.0,2.0
+28091,Marion,MS,Mississippi,"24,224",3.0,3.0
+27073,Lac qui Parle,MN,Minnesota,"6,630",0.0,2.0
+28073,Lamar,MS,Mississippi,"66,217",1.0,4.0
+26039,Crawford,MI,Michigan,"13,538",1.0,1.0
+28023,Clarke,MS,Mississippi,"15,228",2.0,3.0
+27087,Mahnomen,MN,Minnesota,"5,280",2.0,4.0
+26143,Roscommon,MI,Michigan,"23,863",1.0,1.0
+28021,Claiborne,MS,Mississippi,"8,617",3.0,3.0
+26053,Gogebic,MI,Michigan,"14,224",1.0,1.0
+28033,DeSoto,MS,Mississippi,"193,247",1.0,2.0
+27099,Mower,MN,Minnesota,"40,058",0.0,2.0
+28061,Jasper,MS,Mississippi,"16,013",3.0,3.0
+27103,Nicollet,MN,Minnesota,"34,242",0.0,2.0
+27145,Stearns,MN,Minnesota,"160,977",0.0,2.0
+27031,Cook,MN,Minnesota,"5,639",0.0,2.0
+27147,Steele,MN,Minnesota,"37,421",0.0,2.0
+27037,Dakota,MN,Minnesota,"447,440",0.0,2.0
+28131,Stone,MS,Mississippi,"18,756",2.0,4.0
+26161,Washtenaw,MI,Michigan,"365,536",0.0,2.0
+28111,Perry,MS,Mississippi,"11,315",2.0,4.0
+28027,Coahoma,MS,Mississippi,"20,077",3.0,3.0
+28003,Alcorn,MS,Mississippi,"34,135",2.0,4.0
+26117,Montcalm,MI,Michigan,"68,154",1.0,1.0
+26145,Saginaw,MI,Michigan,"187,782",1.0,4.0
+28135,Tallahatchie,MS,Mississippi,"11,837",3.0,3.0
+27095,Mille Lacs,MN,Minnesota,"27,427",0.0,2.0
+27001,Aitkin,MN,Minnesota,"16,102",0.0,2.0
+28123,Scott,MS,Mississippi,"27,507",3.0,3.0
+26155,Shiawassee,MI,Michigan,"68,025",1.0,1.0
+28113,Pike,MS,Mississippi,"39,394",3.0,3.0
+27075,Lake,MN,Minnesota,"10,855",0.0,2.0
+26151,Sanilac,MI,Michigan,"40,368",1.0,1.0
+28017,Chickasaw,MS,Mississippi,"16,866",3.0,3.0
+28001,Adams,MS,Mississippi,"28,746",3.0,3.0
+28075,Lauderdale,MS,Mississippi,"70,527",2.0,3.0
+27093,Meeker,MN,Minnesota,"23,490",0.0,2.0
+27063,Jackson,MN,Minnesota,"9,919",0.0,2.0
+27083,Lyon,MN,Minnesota,"25,427",0.0,2.0
+27169,Winona,MN,Minnesota,"49,721",0.0,2.0
+27065,Kanabec,MN,Minnesota,"16,602",0.0,2.0
+27049,Goodhue,MN,Minnesota,"48,035",0.0,2.0
+26129,Ogemaw,MI,Michigan,"20,990",1.0,4.0
+28035,Forrest,MS,Mississippi,"78,208",2.0,4.0
+28119,Quitman,MS,Mississippi,"5,546",3.0,3.0
+26113,Missaukee,MI,Michigan,"15,311",1.0,1.0
+28129,Smith,MS,Mississippi,"14,099",2.0,3.0
+28103,Noxubee,MS,Mississippi,"9,914",3.0,3.0
+26103,Marquette,MI,Michigan,"66,999",0.0,2.0
+27017,Carlton,MN,Minnesota,"36,825",0.0,2.0
+27165,Watonwan,MN,Minnesota,"11,077",0.0,2.0
+27045,Fillmore,MN,Minnesota,"21,522",0.0,2.0
+30097,Sweet Grass,MT,Montana,"3,763",0.0,2.0
+31047,Dawson,NE,Nebraska,"24,085",1.0,4.0
+28163,Yazoo,MS,Mississippi,"25,796",3.0,3.0
+30017,Custer,MT,Montana,"11,985",0.0,2.0
+31041,Custer,NE,Nebraska,"10,581",0.0,2.0
+31033,Cheyenne,NE,Nebraska,"9,541",0.0,2.0
+29123,Madison,MO,Missouri,"12,698",1.0,1.0
+30045,Judith Basin,MT,Montana,"2,093",0.0,1.0
+30071,Phillips,MT,Montana,"4,249",0.0,1.0
+29179,Reynolds,MO,Missouri,"5,950",2.0,4.0
+30089,Sanders,MT,Montana,"13,684",1.0,1.0
+29189,St. Louis,MO,Missouri,"987,059",0.0,2.0
+29011,Barton,MO,Missouri,"11,731",2.0,4.0
+29119,McDonald,MO,Missouri,"23,903",2.0,4.0
+29003,Andrew,MO,Missouri,"18,127",0.0,2.0
+29229,Wright,MO,Missouri,"19,403",2.0,4.0
+29047,Clay,MO,Missouri,"259,772",0.0,2.0
+29159,Pettis,MO,Missouri,"43,530",1.0,1.0
+31055,Douglas,NE,Nebraska,"589,540",0.0,2.0
+31007,Banner,NE,Nebraska,674,0.0,2.0
+29043,Christian,MO,Missouri,"94,422",0.0,2.0
+30073,Pondera,MT,Montana,"6,125",2.0,4.0
+31031,Cherry,NE,Nebraska,"5,492",0.0,2.0
+30079,Prairie,MT,Montana,"1,112",2.0,4.0
+29083,Henry,MO,Missouri,"22,485",2.0,4.0
+29017,Bollinger,MO,Missouri,"10,544",2.0,4.0
+29195,Saline,MO,Missouri,"23,049",1.0,1.0
+31037,Colfax,NE,Nebraska,"10,566",1.0,4.0
+29039,Cedar,MO,Missouri,"14,672",2.0,4.0
+29203,Shannon,MO,Missouri,"7,238",2.0,4.0
+31015,Boyd,NE,Nebraska,"1,725",0.0,2.0
+31043,Dakota,NE,Nebraska,"21,268",1.0,4.0
+29091,Howell,MO,Missouri,"40,735",2.0,4.0
+29171,Putnam,MO,Missouri,"4,638",1.0,1.0
+29077,Greene,MO,Missouri,"304,611",1.0,1.0
+29113,Lincoln,MO,Missouri,"64,699",1.0,1.0
+30035,Glacier,MT,Montana,"13,609",3.0,3.0
+29021,Buchanan,MO,Missouri,"82,956",2.0,4.0
+30099,Teton,MT,Montana,"6,430",0.0,1.0
+31051,Dixon,NE,Nebraska,"5,491",0.0,2.0
+29029,Camden,MO,Missouri,"44,044",1.0,1.0
+29149,Oregon,MO,Missouri,"8,720",2.0,4.0
+29209,Stone,MO,Missouri,"32,658",1.0,1.0
+29075,Gentry,MO,Missouri,"6,287",1.0,4.0
+31005,Arthur,NE,Nebraska,412,0.0,2.0
+31027,Cedar,NE,Nebraska,"8,262",0.0,2.0
+29183,St. Charles,MO,Missouri,"416,659",0.0,2.0
+29105,Laclede,MO,Missouri,"36,680",2.0,4.0
+30007,Broadwater,MT,Montana,"8,032",0.0,2.0
+30087,Rosebud,MT,Montana,"8,160",2.0,4.0
+29215,Texas,MO,Missouri,"25,619",2.0,4.0
+29079,Grundy,MO,Missouri,"9,815",2.0,4.0
+29125,Maries,MO,Missouri,"8,430",1.0,1.0
+30075,Powder River,MT,Montana,"1,743",0.0,2.0
+30077,Powell,MT,Montana,"7,133",1.0,1.0
+29186,Ste. Genevieve,MO,Missouri,"18,642",1.0,1.0
+30001,Beaverhead,MT,Montana,"9,885",0.0,2.0
+29045,Clark,MO,Missouri,"6,641",2.0,4.0
+28145,Union,MS,Mississippi,"28,284",2.0,4.0
+30065,Musselshell,MT,Montana,"5,308",1.0,1.0
+30059,Meagher,MT,Montana,"2,071",0.0,2.0
+29007,Audrain,MO,Missouri,"24,394",2.0,4.0
+29035,Carter,MO,Missouri,"5,303",2.0,4.0
+29175,Randolph,MO,Missouri,"24,109",2.0,1.0
+31059,Fillmore,NE,Nebraska,"5,548",0.0,2.0
+29089,Howard,MO,Missouri,"10,101",1.0,1.0
+30091,Sheridan,MT,Montana,"3,498",0.0,1.0
+29225,Webster,MO,Missouri,"41,472",1.0,1.0
+31069,Garden,NE,Nebraska,"1,794",1.0,2.0
+31017,Brown,NE,Nebraska,"2,853",0.0,2.0
+28161,Yalobusha,MS,Mississippi,"12,386",3.0,3.0
+29227,Worth,MO,Missouri,"1,907",2.0,4.0
+31025,Cass,NE,Nebraska,"27,446",0.0,2.0
+30013,Cascade,MT,Montana,"84,900",1.0,1.0
+29053,Cooper,MO,Missouri,"16,947",1.0,1.0
+29097,Jasper,MO,Missouri,"125,056",2.0,1.0
+30061,Mineral,MT,Montana,"5,090",0.0,1.0
+31085,Hayes,NE,Nebraska,846,0.0,2.0
+31063,Frontier,NE,Nebraska,"2,585",0.0,2.0
+29013,Bates,MO,Missouri,"16,242",2.0,4.0
+29173,Ralls,MO,Missouri,"10,489",1.0,1.0
+29181,Ripley,MO,Missouri,"10,806",2.0,4.0
+31029,Chase,NE,Nebraska,"3,724",0.0,2.0
+29141,Morgan,MO,Missouri,"21,970",2.0,4.0
+30083,Richland,MT,Montana,"11,173",0.0,2.0
+29185,St. Clair,MO,Missouri,"9,752",2.0,4.0
+31021,Burt,NE,Nebraska,"6,727",0.0,2.0
+30093,Silver Bow,MT,Montana,"36,360",0.0,1.0
+30027,Fergus,MT,Montana,"11,772",0.0,2.0
+31053,Dodge,NE,Nebraska,"37,187",0.0,2.0
+29109,Lawrence,MO,Missouri,"38,872",2.0,4.0
+31001,Adams,NE,Nebraska,"30,899",0.0,2.0
+30031,Gallatin,MT,Montana,"126,409",0.0,2.0
+29221,Washington,MO,Missouri,"23,534",2.0,4.0
+29151,Osage,MO,Missouri,"13,468",1.0,2.0
+31077,Greeley,NE,Nebraska,"2,219",0.0,2.0
+30009,Carbon,MT,Montana,"11,419",0.0,2.0
+30057,Madison,MT,Montana,"9,521",0.0,2.0
+31009,Blaine,NE,Nebraska,436,0.0,2.0
+30051,Liberty,MT,Montana,"1,974",2.0,4.0
+29073,Gasconade,MO,Missouri,"14,705",1.0,1.0
+29145,Newton,MO,Missouri,"60,677",1.0,1.0
+31049,Deuel,NE,Nebraska,"1,871",0.0,2.0
+29069,Dunklin,MO,Missouri,"27,032",2.0,4.0
+29217,Vernon,MO,Missouri,"19,710",2.0,4.0
+30111,Yellowstone,MT,Montana,"170,843",0.0,2.0
+29127,Marion,MO,Missouri,"28,336",1.0,1.0
+30011,Carter,MT,Montana,"1,418",0.0,1.0
+29063,DeKalb,MO,Missouri,"9,899",1.0,1.0
+30107,Wheatland,MT,Montana,"2,057",1.0,1.0
+31073,Gosper,NE,Nebraska,"1,847",0.0,2.0
+29223,Wayne,MO,Missouri,"10,811",2.0,4.0
+29037,Cass,MO,Missouri,"111,732",0.0,2.0
+29049,Clinton,MO,Missouri,"21,548",1.0,1.0
+31023,Butler,NE,Nebraska,"8,459",0.0,2.0
+29111,Lewis,MO,Missouri,"9,818",2.0,4.0
+31067,Gage,NE,Nebraska,"21,634",0.0,2.0
+29085,Hickory,MO,Missouri,"8,718",2.0,4.0
+30015,Chouteau,MT,Montana,"5,847",1.0,1.0
+28157,Wilkinson,MS,Mississippi,"8,058",3.0,3.0
+29169,Pulaski,MO,Missouri,"53,812",1.0,1.0
+29155,Pemiscot,MO,Missouri,"14,613",3.0,4.0
+31071,Garfield,NE,Nebraska,"1,763",0.0,2.0
+29023,Butler,MO,Missouri,"41,948",2.0,4.0
+31045,Dawes,NE,Nebraska,"8,133",0.0,2.0
+30103,Treasure,MT,Montana,772,0.0,2.0
+29099,Jefferson,MO,Missouri,"231,230",1.0,2.0
+29199,Scotland,MO,Missouri,"4,676",2.0,4.0
+30041,Hill,MT,Montana,"16,276",2.0,4.0
+28155,Webster,MS,Mississippi,"9,988",1.0,4.0
+29177,Ray,MO,Missouri,"23,182",1.0,1.0
+30021,Dawson,MT,Montana,"8,810",0.0,2.0
+29207,Stoddard,MO,Missouri,"28,397",2.0,4.0
+29001,Adair,MO,Missouri,"25,122",1.0,1.0
+29027,Callaway,MO,Missouri,"44,731",1.0,1.0
+28153,Wayne,MS,Mississippi,"19,703",3.0,3.0
+30055,McCone,MT,Montana,"1,676",0.0,2.0
+29131,Miller,MO,Missouri,"25,590",1.0,1.0
+29129,Mercer,MO,Missouri,"3,469",2.0,4.0
+28147,Walthall,MS,Mississippi,"13,863",3.0,3.0
+29041,Chariton,MO,Missouri,"7,399",1.0,1.0
+29139,Montgomery,MO,Missouri,"11,459",2.0,4.0
+31065,Furnas,NE,Nebraska,"4,556",0.0,2.0
+30047,Lake,MT,Montana,"33,338",1.0,1.0
+29121,Macon,MO,Missouri,"15,161",1.0,1.0
+29153,Ozark,MO,Missouri,"8,970",2.0,4.0
+31039,Cuming,NE,Nebraska,"8,918",0.0,2.0
+29095,Jackson,MO,Missouri,"718,560",1.0,4.0
+30037,Golden Valley,MT,Montana,835,1.0,1.0
+29067,Douglas,MO,Missouri,"12,228",2.0,4.0
+31079,Hall,NE,Nebraska,"62,197",1.0,2.0
+30033,Garfield,MT,Montana,"1,211",0.0,1.0
+29103,Knox,MO,Missouri,"3,723",2.0,4.0
+30063,Missoula,MT,Montana,"121,849",0.0,2.0
+28159,Winston,MS,Mississippi,"17,416",3.0,3.0
+29201,Scott,MO,Missouri,"37,889",2.0,4.0
+29163,Pike,MO,Missouri,"17,935",2.0,4.0
+29117,Livingston,MO,Missouri,"14,557",1.0,1.0
+30067,Park,MT,Montana,"17,903",0.0,2.0
+29137,Monroe,MO,Missouri,"8,698",2.0,4.0
+28143,Tunica,MS,Mississippi,"9,234",3.0,3.0
+31057,Dundy,NE,Nebraska,"1,561",0.0,2.0
+31003,Antelope,NE,Nebraska,"6,302",0.0,2.0
+31083,Harlan,NE,Nebraska,"3,045",0.0,2.0
+31013,Box Butte,NE,Nebraska,"10,692",0.0,2.0
+30005,Blaine,MT,Montana,"6,899",2.0,4.0
+31019,Buffalo,NE,Nebraska,"50,697",0.0,2.0
+30043,Jefferson,MT,Montana,"13,048",0.0,2.0
+29005,Atchison,MO,Missouri,"5,107",1.0,1.0
+29057,Dade,MO,Missouri,"7,716",2.0,4.0
+31081,Hamilton,NE,Nebraska,"9,537",0.0,2.0
+29205,Shelby,MO,Missouri,"5,931",2.0,4.0
+29019,Boone,MO,Missouri,"189,463",0.0,2.0
+29081,Harrison,MO,Missouri,"8,220",2.0,4.0
+28151,Washington,MS,Mississippi,"41,946",3.0,3.0
+29147,Nodaway,MO,Missouri,"20,695",1.0,1.0
+29033,Carroll,MO,Missouri,"8,391",1.0,1.0
+30023,Deer Lodge,MT,Montana,"9,673",1.0,1.0
+30019,Daniels,MT,Montana,"1,633",0.0,2.0
+29065,Dent,MO,Missouri,"14,647",2.0,4.0
+29213,Taney,MO,Missouri,"56,775",1.0,1.0
+30105,Valley,MT,Montana,"7,474",0.0,1.0
+30039,Granite,MT,Montana,"3,595",0.0,1.0
+31035,Clay,NE,Nebraska,"6,116",0.0,2.0
+29051,Cole,MO,Missouri,"77,278",0.0,2.0
+29087,Holt,MO,Missouri,"4,248",1.0,1.0
+30049,Lewis and Clark,MT,Montana,"75,011",0.0,2.0
+29055,Crawford,MO,Missouri,"22,719",2.0,4.0
+29187,St. Francois,MO,Missouri,"67,058",2.0,4.0
+29025,Caldwell,MO,Missouri,"8,955",1.0,1.0
+29167,Polk,MO,Missouri,"32,780",2.0,4.0
+30003,Big Horn,MT,Montana,"12,751",3.0,3.0
+30029,Flathead,MT,Montana,"113,679",0.0,2.0
+30109,Wibaux,MT,Montana,910,0.0,1.0
+29107,Lafayette,MO,Missouri,"33,196",1.0,1.0
+29161,Phelps,MO,Missouri,"45,284",1.0,1.0
+29157,Perry,MO,Missouri,"18,950",1.0,1.0
+30085,Roosevelt,MT,Montana,"10,319",3.0,3.0
+29009,Barry,MO,Missouri,"35,265",2.0,4.0
+28149,Warren,MS,Mississippi,"42,298",2.0,4.0
+29015,Benton,MO,Missouri,"20,552",2.0,4.0
+31011,Boone,NE,Nebraska,"5,310",0.0,2.0
+29071,Franklin,MO,Missouri,"106,404",1.0,2.0
+29219,Warren,MO,Missouri,"37,806",1.0,1.0
+29059,Dallas,MO,Missouri,"17,768",2.0,4.0
+31061,Franklin,NE,Nebraska,"2,825",0.0,2.0
+30025,Fallon,MT,Montana,"2,994",0.0,2.0
+29197,Schuyler,MO,Missouri,"4,053",1.0,1.0
+29101,Johnson,MO,Missouri,"54,962",1.0,1.0
+30095,Stillwater,MT,Montana,"9,173",0.0,2.0
+29135,Moniteau,MO,Missouri,"15,256",1.0,1.0
+29031,Cape Girardeau,MO,Missouri,"82,984",1.0,1.0
+30069,Petroleum,MT,Montana,554,0.0,2.0
+29165,Platte,MO,Missouri,"111,940",0.0,2.0
+29093,Iron,MO,Missouri,"9,440",2.0,4.0
+29143,New Madrid,MO,Missouri,"15,424",2.0,4.0
+29211,Sullivan,MO,Missouri,"5,797",2.0,4.0
+29133,Mississippi,MO,Missouri,"11,822",3.0,4.0
+29061,Daviess,MO,Missouri,"8,551",2.0,4.0
+30101,Toole,MT,Montana,"5,133",1.0,1.0
+30053,Lincoln,MT,Montana,"21,895",1.0,1.0
+31075,Grant,NE,Nebraska,565,0.0,2.0
+29115,Linn,MO,Missouri,"11,791",1.0,1.0
+29510,St. Louis,MO,Missouri,"281,754",1.0,4.0
+30081,Ravalli,MT,Montana,"47,738",0.0,2.0
+36093,Schenectady,NY,New York,"159,902",0.0,2.0
+31139,Pierce,NE,Nebraska,"7,299",0.0,2.0
+35015,Eddy,NM,New Mexico,"60,275",1.0,4.0
+31101,Keith,NE,Nebraska,"8,113",0.0,2.0
+37023,Burke,NC,North Carolina,"88,338",1.0,4.0
+31087,Hitchcock,NE,Nebraska,"2,552",0.0,2.0
+32510,Carson City,NV,Nevada,"58,036",1.0,1.0
+34029,Ocean,NJ,New Jersey,"659,197",0.0,2.0
+33007,Coos,NH,New Hampshire,"31,372",1.0,1.0
+36111,Ulster,NY,New York,"182,333",0.0,2.0
+35047,San Miguel,NM,New Mexico,"26,668",1.0,4.0
+37055,Dare,NC,North Carolina,"38,110",0.0,2.0
+31161,Sheridan,NE,Nebraska,"4,928",0.0,2.0
+33001,Belknap,NH,New Hampshire,"65,027",0.0,2.0
+31127,Nemaha,NE,Nebraska,"7,076",0.0,2.0
+37007,Anson,NC,North Carolina,"21,897",3.0,3.0
+33003,Carroll,NH,New Hampshire,"52,448",0.0,2.0
+35049,Santa Fe,NM,New Mexico,"155,956",0.0,2.0
+35028,Los Alamos,NM,New Mexico,"19,444",0.0,2.0
+33017,Strafford,NH,New Hampshire,"133,243",0.0,2.0
+31181,Webster,NE,Nebraska,"3,351",0.0,2.0
+36009,Cattaraugus,NY,New York,"75,600",1.0,1.0
+37003,Alexander,NC,North Carolina,"36,473",1.0,1.0
+31123,Morrill,NE,Nebraska,"4,504",1.0,2.0
+32003,Clark,NV,Nevada,"2,336,573",1.0,4.0
+35033,Mora,NM,New Mexico,"4,123",1.0,4.0
+31105,Kimball,NE,Nebraska,"3,289",1.0,1.0
+37019,Brunswick,NC,North Carolina,"159,964",0.0,2.0
+36123,Yates,NY,New York,"24,472",1.0,2.0
+37051,Cumberland,NC,North Carolina,"337,890",1.0,4.0
+37057,Davidson,NC,North Carolina,"174,804",1.0,1.0
+32009,Esmeralda,NV,Nevada,736,2.0,4.0
+31131,Otoe,NE,Nebraska,"16,335",0.0,2.0
+31119,Madison,NE,Nebraska,"35,627",0.0,2.0
+36109,Tompkins,NY,New York,"103,558",0.0,2.0
+36001,Albany,NY,New York,"316,659",0.0,2.0
+36069,Ontario,NY,New York,"112,494",0.0,2.0
+37053,Currituck,NC,North Carolina,"31,593",0.0,2.0
+36071,Orange,NY,New York,"407,470",0.0,2.0
+31121,Merrick,NE,Nebraska,"7,755",0.0,2.0
+34031,Passaic,NJ,New Jersey,"513,395",1.0,4.0
+36003,Allegany,NY,New York,"46,651",1.0,2.0
+34005,Burlington,NJ,New Jersey,"469,167",0.0,2.0
+36085,Richmond,NY,New York,"490,687",0.0,2.0
+37017,Bladen,NC,North Carolina,"29,484",2.0,4.0
+34019,Hunterdon,NJ,New Jersey,"130,183",0.0,2.0
+36095,Schoharie,NY,New York,"30,105",0.0,2.0
+37039,Cherokee,NC,North Carolina,"29,959",1.0,1.0
+33019,Sullivan,NH,New Hampshire,"43,969",0.0,2.0
+36067,Onondaga,NY,New York,"467,873",0.0,2.0
+36039,Greene,NY,New York,"47,062",0.0,2.0
+31093,Howard,NE,Nebraska,"6,527",0.0,2.0
+35031,McKinley,NM,New Mexico,"68,797",3.0,3.0
+36051,Livingston,NY,New York,"61,158",0.0,2.0
+32019,Lyon,NV,Nevada,"62,583",1.0,4.0
+34011,Cumberland,NJ,New Jersey,"152,326",2.0,4.0
+34003,Bergen,NJ,New Jersey,"957,736",0.0,2.0
+31157,Scotts Bluff,NE,Nebraska,"35,699",0.0,2.0
+36083,Rensselaer,NY,New York,"159,305",0.0,2.0
+35055,Taos,NM,New Mexico,"34,405",0.0,2.0
+35059,Union,NM,New Mexico,"3,964",1.0,4.0
+36023,Cortland,NY,New York,"45,752",0.0,2.0
+31143,Polk,NE,Nebraska,"5,228",0.0,2.0
+32013,Humboldt,NV,Nevada,"17,136",1.0,4.0
+32001,Churchill,NV,Nevada,"25,803",1.0,4.0
+31169,Thayer,NE,Nebraska,"4,829",0.0,2.0
+35041,Roosevelt,NM,New Mexico,"18,787",1.0,4.0
+31185,York,NE,Nebraska,"14,356",0.0,2.0
+33011,Hillsborough,NH,New Hampshire,"427,354",0.0,2.0
+37013,Beaufort,NC,North Carolina,"44,481",1.0,4.0
+36007,Broome,NY,New York,"196,077",1.0,2.0
+35027,Lincoln,NM,New Mexico,"20,029",1.0,1.0
+31137,Phelps,NE,Nebraska,"9,057",0.0,2.0
+33005,Cheshire,NH,New Hampshire,"77,703",0.0,2.0
+36055,Monroe,NY,New York,"748,482",0.0,2.0
+35053,Socorro,NM,New Mexico,"15,963",2.0,4.0
+35003,Catron,NM,New Mexico,"3,825",1.0,4.0
+36017,Chenango,NY,New York,"45,920",1.0,2.0
+34033,Salem,NJ,New Jersey,"65,338",1.0,2.0
+31125,Nance,NE,Nebraska,"3,274",0.0,2.0
+34001,Atlantic,NJ,New Jersey,"275,213",1.0,2.0
+34037,Sussex,NJ,New Jersey,"146,132",0.0,2.0
+36107,Tioga,NY,New York,"47,715",0.0,2.0
+32033,White Pine,NV,Nevada,"8,522",1.0,4.0
+35017,Grant,NM,New Mexico,"27,472",1.0,4.0
+35005,Chaves,NM,New Mexico,"63,561",2.0,4.0
+31177,Washington,NE,Nebraska,"21,152",0.0,2.0
+36035,Fulton,NY,New York,"52,234",1.0,1.0
+31129,Nuckolls,NE,Nebraska,"4,095",0.0,2.0
+31141,Platte,NE,Nebraska,"34,609",0.0,2.0
+31097,Johnson,NE,Nebraska,"5,198",0.0,2.0
+37025,Cabarrus,NC,North Carolina,"240,016",0.0,2.0
+31113,Logan,NE,Nebraska,655,0.0,2.0
+36077,Otsego,NY,New York,"60,126",0.0,2.0
+32017,Lincoln,NV,Nevada,"4,452",1.0,1.0
+36061,New York,NY,New York,"1,597,451",0.0,2.0
+36041,Hamilton,NY,New York,"5,082",0.0,2.0
+36119,Westchester,NY,New York,"990,817",0.0,2.0
+36025,Delaware,NY,New York,"44,410",1.0,2.0
+31163,Sherman,NE,Nebraska,"2,983",0.0,2.0
+36081,Queens,NY,New York,"2,252,196",1.0,2.0
+36099,Seneca,NY,New York,"32,349",1.0,2.0
+31115,Loup,NE,Nebraska,592,0.0,2.0
+37045,Cleveland,NC,North Carolina,"101,378",1.0,4.0
+35045,San Juan,NM,New Mexico,"120,675",2.0,3.0
+36019,Clinton,NY,New York,"78,115",1.0,2.0
+31107,Knox,NE,Nebraska,"8,298",1.0,2.0
+35035,Otero,NM,New Mexico,"68,835",1.0,4.0
+31171,Thomas,NE,Nebraska,677,0.0,2.0
+36091,Saratoga,NY,New York,"238,711",0.0,2.0
+31111,Lincoln,NE,Nebraska,"33,365",0.0,2.0
+31091,Hooker,NE,Nebraska,679,0.0,2.0
+35061,Valencia,NM,New Mexico,"79,141",1.0,4.0
+35007,Colfax,NM,New Mexico,"12,255",1.0,4.0
+31147,Richardson,NE,Nebraska,"7,689",0.0,2.0
+35013,DoÃ±a Ana,NM,New Mexico,"225,210",1.0,4.0
+36089,St. Lawrence,NY,New York,"106,940",1.0,1.0
+31133,Pawnee,NE,Nebraska,"2,512",1.0,2.0
+35043,Sandoval,NM,New Mexico,"155,936",0.0,2.0
+37001,Alamance,NC,North Carolina,"179,165",1.0,4.0
+37035,Catawba,NC,North Carolina,"164,645",1.0,2.0
+36027,Dutchess,NY,New York,"297,150",0.0,2.0
+31175,Valley,NE,Nebraska,"4,012",0.0,2.0
+34017,Hudson,NJ,New Jersey,"705,472",0.0,2.0
+36101,Steuben,NY,New York,"92,162",0.0,2.0
+34023,Middlesex,NJ,New Jersey,"863,623",0.0,2.0
+31117,McPherson,NE,Nebraska,383,0.0,2.0
+37027,Caldwell,NC,North Carolina,"80,574",1.0,1.0
+36005,Bronx,NY,New York,"1,356,476",3.0,3.0
+31155,Saunders,NE,Nebraska,"23,463",0.0,2.0
+31149,Rock,NE,Nebraska,"1,271",0.0,2.0
+31145,Red Willow,NE,Nebraska,"10,457",0.0,2.0
+36113,Warren,NY,New York,"65,380",0.0,2.0
+31183,Wheeler,NE,Nebraska,775,0.0,2.0
+37043,Clay,NC,North Carolina,"11,864",1.0,2.0
+35021,Harding,NM,New Mexico,624,2.0,4.0
+36053,Madison,NY,New York,"66,921",0.0,2.0
+32031,Washoe,NV,Nevada,"498,022",0.0,1.0
+35051,Sierra,NM,New Mexico,"11,488",2.0,4.0
+34015,Gloucester,NJ,New Jersey,"308,423",0.0,2.0
+33015,Rockingham,NH,New Hampshire,"320,689",0.0,2.0
+36047,Kings,NY,New York,"2,561,225",1.0,2.0
+31109,Lancaster,NE,Nebraska,"326,716",0.0,2.0
+34009,Cape May,NJ,New Jersey,"94,610",0.0,2.0
+35057,Torrance,NM,New Mexico,"15,633",2.0,4.0
+36105,Sullivan,NY,New York,"79,920",1.0,2.0
+37015,Bertie,NC,North Carolina,"16,922",3.0,3.0
+35011,De Baca,NM,New Mexico,"1,657",1.0,4.0
+36031,Essex,NY,New York,"36,775",0.0,2.0
+33009,Grafton,NH,New Hampshire,"93,146",0.0,2.0
+37033,Caswell,NC,North Carolina,"22,807",1.0,4.0
+35023,Hidalgo,NM,New Mexico,"3,965",2.0,4.0
+31099,Kearney,NE,Nebraska,"6,770",0.0,2.0
+36011,Cayuga,NY,New York,"74,485",1.0,2.0
+36021,Columbia,NY,New York,"60,470",0.0,2.0
+37009,Ashe,NC,North Carolina,"27,063",1.0,1.0
+34027,Morris,NJ,New Jersey,"514,423",0.0,2.0
+35019,Guadalupe,NM,New Mexico,"4,292",2.0,4.0
+34007,Camden,NJ,New Jersey,"527,196",0.0,2.0
+36049,Lewis,NY,New York,"26,548",1.0,2.0
+32029,Storey,NV,Nevada,"4,177",0.0,2.0
+35001,Bernalillo,NM,New Mexico,"671,586",1.0,2.0
+36029,Erie,NY,New York,"946,147",0.0,2.0
+35029,Luna,NM,New Mexico,"25,316",3.0,4.0
+32023,Nye,NV,Nevada,"55,720",2.0,4.0
+34035,Somerset,NJ,New Jersey,"348,842",0.0,2.0
+36121,Wyoming,NY,New York,"39,532",1.0,2.0
+31165,Sioux,NE,Nebraska,"1,154",1.0,1.0
+35039,Rio Arriba,NM,New Mexico,"39,876",2.0,4.0
+36115,Washington,NY,New York,"60,047",0.0,2.0
+34021,Mercer,NJ,New Jersey,"381,671",0.0,2.0
+31167,Stanton,NE,Nebraska,"5,856",0.0,2.0
+36063,Niagara,NY,New York,"209,457",0.0,2.0
+32007,Elko,NV,Nevada,"54,293",1.0,4.0
+36073,Orleans,NY,New York,"39,124",1.0,2.0
+36103,Suffolk,NY,New York,"1,523,170",0.0,2.0
+36013,Chautauqua,NY,New York,"124,891",1.0,1.0
+36015,Chemung,NY,New York,"81,325",1.0,2.0
+34013,Essex,NJ,New Jersey,"851,117",1.0,2.0
+32011,Eureka,NV,Nevada,"1,917",2.0,4.0
+37005,Alleghany,NC,North Carolina,"11,342",1.0,4.0
+37049,Craven,NC,North Carolina,"102,391",1.0,4.0
+32027,Pershing,NV,Nevada,"6,364",1.0,4.0
+37031,Carteret,NC,North Carolina,"69,615",0.0,2.0
+37029,Camden,NC,North Carolina,"11,137",0.0,2.0
+31173,Thurston,NE,Nebraska,"6,557",2.0,4.0
+36045,Jefferson,NY,New York,"114,787",1.0,2.0
+36087,Rockland,NY,New York,"340,807",0.0,2.0
+31151,Saline,NE,Nebraska,"14,555",0.0,2.0
+31159,Seward,NE,Nebraska,"17,671",0.0,2.0
+37041,Chowan,NC,North Carolina,"13,891",2.0,4.0
+36065,Oneida,NY,New York,"227,555",1.0,2.0
+36075,Oswego,NY,New York,"118,162",1.0,2.0
+31103,Keya Paha,NE,Nebraska,805,0.0,2.0
+35009,Curry,NM,New Mexico,"47,222",2.0,4.0
+36079,Putnam,NY,New York,"98,060",0.0,2.0
+31095,Jefferson,NE,Nebraska,"7,054",0.0,2.0
+35006,Cibola,NM,New Mexico,"26,780",2.0,3.0
+37059,Davie,NC,North Carolina,"44,599",0.0,2.0
+36059,Nassau,NY,New York,"1,381,715",0.0,2.0
+36043,Herkimer,NY,New York,"59,484",0.0,2.0
+36117,Wayne,NY,New York,"90,829",0.0,2.0
+37021,Buncombe,NC,North Carolina,"275,901",0.0,2.0
+36057,Montgomery,NY,New York,"49,368",1.0,4.0
+32005,Douglas,NV,Nevada,"49,545",0.0,2.0
+35025,Lea,NM,New Mexico,"72,101",2.0,4.0
+34039,Union,NJ,New Jersey,"572,726",0.0,2.0
+32015,Lander,NV,Nevada,"5,769",2.0,4.0
+36033,Franklin,NY,New York,"46,502",1.0,1.0
+36037,Genesee,NY,New York,"57,529",0.0,2.0
+37047,Columbus,NC,North Carolina,"50,121",2.0,4.0
+34041,Warren,NJ,New Jersey,"111,252",0.0,2.0
+33013,Merrimack,NH,New Hampshire,"157,103",0.0,2.0
+34025,Monmouth,NJ,New Jersey,"642,799",0.0,2.0
+31179,Wayne,NE,Nebraska,"9,874",0.0,2.0
+37037,Chatham,NC,North Carolina,"81,624",0.0,2.0
+35037,Quay,NM,New Mexico,"8,510",2.0,4.0
+37011,Avery,NC,North Carolina,"17,561",1.0,1.0
+31089,Holt,NE,Nebraska,"10,093",0.0,2.0
+31153,Sarpy,NE,Nebraska,"199,886",0.0,2.0
+39109,Miami,OH,Ohio,"110,876",0.0,2.0
+37113,Macon,NC,North Carolina,"38,412",1.0,1.0
+38075,Renville,ND,North Dakota,"2,279",0.0,2.0
+37075,Graham,NC,North Carolina,"8,052",1.0,1.0
+39163,Vinton,OH,Ohio,"12,474",2.0,4.0
+37061,Duplin,NC,North Carolina,"49,520",2.0,4.0
+37193,Wilkes,NC,North Carolina,"66,013",1.0,4.0
+38043,Kidder,ND,North Dakota,"2,342",0.0,2.0
+38001,Adams,ND,North Dakota,"2,163",0.0,2.0
+39127,Perry,OH,Ohio,"35,551",1.0,1.0
+39001,Adams,OH,Ohio,"27,521",2.0,4.0
+40019,Carter,OK,Oklahoma,"48,596",2.0,4.0
+37135,Orange,NC,North Carolina,"150,626",0.0,2.0
+37195,Wilson,NC,North Carolina,"78,970",2.0,3.0
+37101,Johnston,NC,North Carolina,"241,955",1.0,4.0
+39147,Seneca,OH,Ohio,"54,527",1.0,1.0
+37197,Yadkin,NC,North Carolina,"37,774",1.0,1.0
+39003,Allen,OH,Ohio,"100,838",1.0,1.0
+38087,Slope,ND,North Dakota,674,0.0,2.0
+38011,Bowman,ND,North Dakota,"2,867",0.0,2.0
+37155,Robeson,NC,North Carolina,"117,365",3.0,3.0
+39025,Clermont,OH,Ohio,"211,972",0.0,2.0
+39145,Scioto,OH,Ohio,"71,969",2.0,4.0
+37097,Iredell,NC,North Carolina,"199,710",0.0,2.0
+37165,Scotland,NC,North Carolina,"34,376",3.0,3.0
+37079,Greene,NC,North Carolina,"20,530",2.0,3.0
+39159,Union,OH,Ohio,"69,637",0.0,2.0
+39139,Richland,OH,Ohio,"125,064",1.0,4.0
+40015,Caddo,OK,Oklahoma,"26,214",2.0,4.0
+40021,Cherokee,OK,Oklahoma,"48,185",2.0,4.0
+37171,Surry,NC,North Carolina,"71,462",1.0,4.0
+37105,Lee,NC,North Carolina,"67,059",1.0,4.0
+37093,Hoke,NC,North Carolina,"54,446",2.0,4.0
+39125,Paulding,OH,Ohio,"18,706",1.0,1.0
+39019,Carroll,OH,Ohio,"26,758",1.0,1.0
+39087,Lawrence,OH,Ohio,"56,118",2.0,4.0
+40017,Canadian,OK,Oklahoma,"175,829",1.0,2.0
+37095,Hyde,NC,North Carolina,"4,607",2.0,4.0
+38045,LaMoure,ND,North Dakota,"4,096",0.0,2.0
+38019,Cavalier,ND,North Dakota,"3,596",0.0,2.0
+39101,Marion,OH,Ohio,"64,851",2.0,4.0
+37157,Rockingham,NC,North Carolina,"92,518",1.0,4.0
+40023,Choctaw,OK,Oklahoma,"14,276",3.0,4.0
+39157,Tuscarawas,OH,Ohio,"91,874",1.0,1.0
+37199,Yancey,NC,North Carolina,"18,938",1.0,1.0
+38033,Golden Valley,ND,North Dakota,"1,743",0.0,2.0
+39111,Monroe,OH,Ohio,"13,153",2.0,4.0
+40003,Alfalfa,OK,Oklahoma,"5,673",1.0,1.0
+38013,Burke,ND,North Dakota,"2,134",0.0,2.0
+39083,Knox,OH,Ohio,"63,320",1.0,2.0
+39055,Geauga,OH,Ohio,"95,407",0.0,2.0
+37069,Franklin,NC,North Carolina,"77,001",1.0,4.0
+38091,Steele,ND,North Dakota,"1,782",0.0,2.0
+39067,Harrison,OH,Ohio,"14,159",1.0,4.0
+37179,Union,NC,North Carolina,"256,452",0.0,2.0
+38025,Dunn,ND,North Dakota,"4,019",0.0,2.0
+39069,Henry,OH,Ohio,"27,520",1.0,2.0
+38017,Cass,ND,North Dakota,"196,362",0.0,2.0
+37131,Northampton,NC,North Carolina,"16,715",2.0,3.0
+39099,Mahoning,OH,Ohio,"225,596",1.0,4.0
+39009,Athens,OH,Ohio,"62,706",1.0,1.0
+39013,Belmont,OH,Ohio,"64,918",1.0,1.0
+39039,Defiance,OH,Ohio,"38,315",1.0,2.0
+37117,Martin,NC,North Carolina,"21,447",2.0,4.0
+37173,Swain,NC,North Carolina,"13,916",2.0,4.0
+37161,Rutherford,NC,North Carolina,"65,507",1.0,4.0
+37143,Perquimans,NC,North Carolina,"13,377",1.0,4.0
+38101,Ward,ND,North Dakota,"68,332",0.0,2.0
+39113,Montgomery,OH,Ohio,"533,796",1.0,1.0
+37159,Rowan,NC,North Carolina,"151,661",1.0,4.0
+38005,Benson,ND,North Dakota,"5,745",2.0,4.0
+39153,Summit,OH,Ohio,"535,733",1.0,2.0
+39023,Clark,OH,Ohio,"134,610",1.0,4.0
+38085,Sioux,ND,North Dakota,"3,643",3.0,3.0
+37111,McDowell,NC,North Carolina,"44,893",1.0,1.0
+37181,Vance,NC,North Carolina,"42,301",2.0,3.0
+37109,Lincoln,NC,North Carolina,"95,675",0.0,2.0
+39071,Highland,OH,Ohio,"43,614",1.0,4.0
+39007,Ashtabula,OH,Ohio,"96,845",2.0,4.0
+38059,Morton,ND,North Dakota,"33,895",0.0,2.0
+39033,Crawford,OH,Ohio,"41,529",1.0,4.0
+38049,McHenry,ND,North Dakota,"5,131",0.0,2.0
+37099,Jackson,NC,North Carolina,"44,574",1.0,1.0
+38015,Burleigh,ND,North Dakota,"100,012",0.0,2.0
+39129,Pickaway,OH,Ohio,"61,086",1.0,1.0
+38051,McIntosh,ND,North Dakota,"2,488",1.0,1.0
+39123,Ottawa,OH,Ohio,"39,803",0.0,2.0
+38061,Mountrail,ND,North Dakota,"9,383",1.0,1.0
+37151,Randolph,NC,North Carolina,"147,458",1.0,4.0
+39051,Fulton,OH,Ohio,"42,007",1.0,2.0
+37103,Jones,NC,North Carolina,"9,401",2.0,4.0
+37115,Madison,NC,North Carolina,"22,071",0.0,2.0
+37163,Sampson,NC,North Carolina,"59,601",2.0,4.0
+37071,Gaston,NC,North Carolina,"237,242",1.0,4.0
+39165,Warren,OH,Ohio,"252,148",0.0,2.0
+37087,Haywood,NC,North Carolina,"62,969",0.0,2.0
+39017,Butler,OH,Ohio,"393,043",1.0,2.0
+39095,Lucas,OH,Ohio,"425,484",1.0,4.0
+37067,Forsyth,NC,North Carolina,"392,921",1.0,4.0
+37177,Tyrrell,NC,North Carolina,"3,461",2.0,4.0
+39077,Huron,OH,Ohio,"58,199",1.0,1.0
+39057,Greene,OH,Ohio,"169,691",0.0,2.0
+39135,Preble,OH,Ohio,"40,556",1.0,2.0
+39041,Delaware,OH,Ohio,"231,636",0.0,2.0
+37139,Pasquotank,NC,North Carolina,"41,444",1.0,4.0
+39115,Morgan,OH,Ohio,"13,646",2.0,4.0
+37089,Henderson,NC,North Carolina,"119,230",0.0,2.0
+40009,Beckham,OK,Oklahoma,"22,042",2.0,4.0
+38105,Williams,ND,North Dakota,"39,113",0.0,2.0
+39035,Cuyahoga,OH,Ohio,"1,233,088",1.0,4.0
+37081,Guilford,NC,North Carolina,"549,866",1.0,4.0
+37133,Onslow,NC,North Carolina,"213,676",1.0,4.0
+38097,Traill,ND,North Dakota,"7,908",0.0,2.0
+37145,Person,NC,North Carolina,"39,737",1.0,4.0
+39107,Mercer,OH,Ohio,"42,439",0.0,2.0
+37085,Harnett,NC,North Carolina,"141,477",1.0,4.0
+37065,Edgecombe,NC,North Carolina,"48,832",3.0,3.0
+39015,Brown,OH,Ohio,"43,777",1.0,4.0
+38067,Pembina,ND,North Dakota,"6,661",0.0,2.0
+37121,Mitchell,NC,North Carolina,"14,999",0.0,2.0
+38071,Ramsey,ND,North Dakota,"11,463",0.0,2.0
+39105,Meigs,OH,Ohio,"21,767",2.0,4.0
+37107,Lenoir,NC,North Carolina,"54,895",3.0,3.0
+38103,Wells,ND,North Dakota,"3,876",0.0,2.0
+39141,Ross,OH,Ohio,"76,501",1.0,4.0
+39175,Wyandot,OH,Ohio,"21,457",0.0,2.0
+39043,Erie,OH,Ohio,"74,035",1.0,2.0
+37149,Polk,NC,North Carolina,"20,060",0.0,2.0
+38031,Foster,ND,North Dakota,"3,309",0.0,2.0
+39117,Morrow,OH,Ohio,"35,595",1.0,1.0
+38037,Grant,ND,North Dakota,"2,215",1.0,1.0
+37091,Hertford,NC,North Carolina,"19,453",3.0,3.0
+39167,Washington,OH,Ohio,"58,577",1.0,1.0
+39021,Champaign,OH,Ohio,"38,845",1.0,2.0
+39143,Sandusky,OH,Ohio,"58,709",1.0,1.0
+37129,New Hanover,NC,North Carolina,"238,852",0.0,2.0
+37123,Montgomery,NC,North Carolina,"26,085",1.0,4.0
+37119,Mecklenburg,NC,North Carolina,"1,163,701",0.0,2.0
+40007,Beaver,OK,Oklahoma,"5,018",1.0,1.0
+38081,Sargent,ND,North Dakota,"3,776",0.0,2.0
+37189,Watauga,NC,North Carolina,"54,748",1.0,1.0
+39005,Ashland,OH,Ohio,"52,190",1.0,1.0
+38029,Emmons,ND,North Dakota,"3,224",0.0,2.0
+38009,Bottineau,ND,North Dakota,"6,349",0.0,2.0
+39063,Hancock,OH,Ohio,"74,704",0.0,2.0
+38023,Divide,ND,North Dakota,"2,135",0.0,2.0
+39011,Auglaize,OH,Ohio,"46,050",0.0,2.0
+39121,Noble,OH,Ohio,"14,311",1.0,4.0
+39089,Licking,OH,Ohio,"183,201",0.0,2.0
+39155,Trumbull,OH,Ohio,"200,373",1.0,4.0
+38069,Pierce,ND,North Dakota,"3,902",0.0,2.0
+39047,Fayette,OH,Ohio,"28,817",2.0,4.0
+38003,Barnes,ND,North Dakota,"10,726",0.0,2.0
+39173,Wood,OH,Ohio,"132,650",0.0,2.0
+37073,Gates,NC,North Carolina,"10,343",1.0,4.0
+39027,Clinton,OH,Ohio,"41,938",1.0,1.0
+39037,Darke,OH,Ohio,"51,415",1.0,1.0
+39151,Stark,OH,Ohio,"372,716",1.0,1.0
+38041,Hettinger,ND,North Dakota,"2,415",0.0,2.0
+38077,Richland,ND,North Dakota,"16,558",0.0,2.0
+39065,Hardin,OH,Ohio,"30,368",1.0,4.0
+37187,Washington,NC,North Carolina,"10,713",3.0,3.0
+38057,Mercer,ND,North Dakota,"8,309",0.0,2.0
+39045,Fairfield,OH,Ohio,"165,360",0.0,2.0
+38047,Logan,ND,North Dakota,"1,869",0.0,2.0
+37183,Wake,NC,North Carolina,"1,190,275",0.0,2.0
+39137,Putnam,OH,Ohio,"34,199",0.0,2.0
+38099,Walsh,ND,North Dakota,"10,305",0.0,2.0
+39149,Shelby,OH,Ohio,"47,765",1.0,1.0
+38063,Nelson,ND,North Dakota,"2,991",0.0,2.0
+39131,Pike,OH,Ohio,"27,001",2.0,4.0
+37141,Pender,NC,North Carolina,"68,521",0.0,2.0
+39079,Jackson,OH,Ohio,"32,606",2.0,4.0
+37167,Stanly,NC,North Carolina,"65,699",1.0,1.0
+37077,Granville,NC,North Carolina,"62,192",1.0,4.0
+38089,Stark,ND,North Dakota,"33,001",0.0,2.0
+39119,Muskingum,OH,Ohio,"86,305",1.0,1.0
+38093,Stutsman,ND,North Dakota,"21,392",0.0,2.0
+39029,Columbiana,OH,Ohio,"100,182",1.0,1.0
+38021,Dickey,ND,North Dakota,"4,900",0.0,2.0
+39031,Coshocton,OH,Ohio,"36,869",2.0,4.0
+38079,Rolette,ND,North Dakota,"11,728",3.0,3.0
+38027,Eddy,ND,North Dakota,"2,263",1.0,1.0
+40013,Bryan,OK,Oklahoma,"48,967",2.0,4.0
+37185,Warren,NC,North Carolina,"18,836",3.0,3.0
+39169,Wayne,OH,Ohio,"116,510",1.0,2.0
+37147,Pitt,NC,North Carolina,"175,119",1.0,4.0
+39085,Lake,OH,Ohio,"231,640",0.0,2.0
+39061,Hamilton,OH,Ohio,"827,058",1.0,2.0
+39103,Medina,OH,Ohio,"184,042",0.0,2.0
+37125,Moore,NC,North Carolina,"106,898",0.0,2.0
+37169,Stokes,NC,North Carolina,"45,532",1.0,1.0
+37137,Pamlico,NC,North Carolina,"12,423",1.0,2.0
+37191,Wayne,NC,North Carolina,"118,686",2.0,4.0
+40005,Atoka,OK,Oklahoma,"14,525",2.0,4.0
+39081,Jefferson,OH,Ohio,"64,026",1.0,4.0
+39091,Logan,OH,Ohio,"46,057",1.0,1.0
+39171,Williams,OH,Ohio,"36,591",1.0,1.0
+38065,Oliver,ND,North Dakota,"1,879",0.0,2.0
+37175,Transylvania,NC,North Carolina,"33,549",0.0,2.0
+39075,Holmes,OH,Ohio,"44,386",2.0,4.0
+39059,Guernsey,OH,Ohio,"38,089",1.0,4.0
+39133,Portage,OH,Ohio,"162,665",1.0,2.0
+39161,Van Wert,OH,Ohio,"28,704",1.0,2.0
+39073,Hocking,OH,Ohio,"27,540",2.0,4.0
+38083,Sheridan,ND,North Dakota,"1,266",0.0,2.0
+38053,McKenzie,ND,North Dakota,"14,252",0.0,2.0
+38073,Ransom,ND,North Dakota,"5,603",0.0,2.0
+39053,Gallia,OH,Ohio,"28,986",2.0,4.0
+38055,McLean,ND,North Dakota,"9,832",0.0,2.0
+38039,Griggs,ND,North Dakota,"2,248",0.0,2.0
+37153,Richmond,NC,North Carolina,"42,324",2.0,3.0
+39093,Lorain,OH,Ohio,"317,910",1.0,2.0
+40001,Adair,OK,Oklahoma,"19,627",3.0,4.0
+40011,Blaine,OK,Oklahoma,"8,539",2.0,4.0
+37063,Durham,NC,North Carolina,"336,892",0.0,2.0
+37127,Nash,NC,North Carolina,"96,551",1.0,4.0
+38007,Billings,ND,North Dakota,"1,034",0.0,2.0
+38035,Grand Forks,ND,North Dakota,"72,708",0.0,2.0
+39049,Franklin,OH,Ohio,"1,326,063",1.0,2.0
+46059,Hand,SD,South Dakota,"3,107",0.0,2.0
+40077,Latimer,OK,Oklahoma,"9,526",3.0,4.0
+44009,Washington,RI,Rhode Island,"129,982",0.0,2.0
+40039,Custer,OK,Oklahoma,"28,266",2.0,4.0
+46125,Turner,SD,South Dakota,"9,027",0.0,2.0
+40025,Cimarron,OK,Oklahoma,"2,191",1.0,2.0
+41005,Clackamas,OR,Oregon,"423,173",0.0,2.0
+41065,Wasco,OR,Oregon,"26,333",1.0,1.0
+41013,Crook,OR,Oregon,"26,952",0.0,2.0
+46083,Lincoln,SD,South Dakota,"73,238",0.0,2.0
+45031,Darlington,SC,South Carolina,"62,416",2.0,4.0
+47029,Cocke,TN,Tennessee,"37,404",2.0,4.0
+40079,Le Flore,OK,Oklahoma,"49,596",2.0,4.0
+40099,Murray,OK,Oklahoma,"13,754",2.0,4.0
+41007,Clatsop,OR,Oregon,"41,102",0.0,1.0
+40065,Jackson,OK,Oklahoma,"24,669",2.0,4.0
+46103,Pennington,SD,South Dakota,"115,903",0.0,2.0
+41009,Columbia,OR,Oregon,"53,880",0.0,1.0
+45033,Dillon,SC,South Carolina,"27,698",3.0,3.0
+45011,Barnwell,SC,South Carolina,"20,447",3.0,3.0
+41027,Hood River,OR,Oregon,"23,745",0.0,2.0
+40121,Pittsburg,OK,Oklahoma,"43,479",2.0,4.0
+45057,Lancaster,SC,South Carolina,"108,215",1.0,2.0
+46102,Oglala Lakota,SD,South Dakota,"13,434",3.0,3.0
+40061,Haskell,OK,Oklahoma,"11,832",2.0,4.0
+40129,Roger Mills,OK,Oklahoma,"3,295",2.0,1.0
+45019,Charleston,SC,South Carolina,"424,367",0.0,2.0
+40043,Dewey,OK,Oklahoma,"4,286",1.0,1.0
+46121,Todd,SD,South Dakota,"9,199",3.0,3.0
+46097,Miner,SD,South Dakota,"2,280",0.0,2.0
+47025,Claiborne,TN,Tennessee,"32,654",2.0,4.0
+47033,Crockett,TN,Tennessee,"13,982",2.0,4.0
+40135,Sequoyah,OK,Oklahoma,"40,291",3.0,4.0
+40071,Kay,OK,Oklahoma,"43,641",2.0,4.0
+40057,Harmon,OK,Oklahoma,"2,392",2.0,4.0
+46079,Lake,SD,South Dakota,"11,031",0.0,2.0
+45049,Hampton,SC,South Carolina,"18,122",3.0,3.0
+46031,Corson,SD,South Dakota,"3,782",3.0,3.0
+46033,Custer,SD,South Dakota,"9,117",0.0,2.0
+40059,Harper,OK,Oklahoma,"3,190",1.0,1.0
+41067,Washington,OR,Oregon,"598,865",0.0,2.0
+41035,Klamath,OR,Oregon,"70,003",1.0,1.0
+46051,Grant,SD,South Dakota,"7,553",0.0,2.0
+41037,Lake,OR,Oregon,"8,293",1.0,1.0
+46117,Stanley,SD,South Dakota,"3,043",0.0,2.0
+41011,Coos,OR,Oregon,"64,212",1.0,1.0
+41053,Polk,OR,Oregon,"89,805",0.0,1.0
+46063,Harding,SD,South Dakota,"1,324",0.0,2.0
+47011,Bradley,TN,Tennessee,"111,579",1.0,4.0
+41029,Jackson,OR,Oregon,"220,768",1.0,1.0
+46029,Codington,SD,South Dakota,"28,971",0.0,2.0
+45085,Sumter,SC,South Carolina,"104,165",2.0,4.0
+40033,Cotton,OK,Oklahoma,"5,427",2.0,4.0
+45015,Berkeley,SC,South Carolina,"255,217",1.0,2.0
+46009,Bon Homme,SD,South Dakota,"7,065",0.0,1.0
+40145,Wagoner,OK,Oklahoma,"89,280",1.0,1.0
+41045,Malheur,OR,Oregon,"32,044",2.0,4.0
+46011,Brookings,SD,South Dakota,"35,980",0.0,2.0
+40095,Marshall,OK,Oklahoma,"15,970",2.0,4.0
+46049,Faulk,SD,South Dakota,"2,151",1.0,1.0
+40069,Johnston,OK,Oklahoma,"10,216",2.0,4.0
+45041,Florence,SC,South Carolina,"137,214",1.0,4.0
+45043,Georgetown,SC,South Carolina,"65,731",0.0,2.0
+45069,Marlboro,SC,South Carolina,"25,704",3.0,3.0
+40081,Lincoln,OK,Oklahoma,"34,562",2.0,4.0
+40139,Texas,OK,Oklahoma,"20,371",2.0,4.0
+40127,Pushmataha,OK,Oklahoma,"10,800",3.0,4.0
+40107,Okfuskee,OK,Oklahoma,"11,300",3.0,4.0
+45025,Chesterfield,SC,South Carolina,"44,031",2.0,4.0
+40123,Pontotoc,OK,Oklahoma,"38,396",1.0,1.0
+41019,Douglas,OR,Oregon,"112,435",1.0,1.0
+46111,Sanborn,SD,South Dakota,"2,399",0.0,2.0
+45053,Jasper,SC,South Carolina,"33,544",1.0,4.0
+40083,Logan,OK,Oklahoma,"53,029",1.0,1.0
+40027,Cleveland,OK,Oklahoma,"301,193",1.0,1.0
+40147,Washington,OK,Oklahoma,"53,706",2.0,1.0
+46013,Brown,SD,South Dakota,"37,733",0.0,2.0
+45039,Fairfield,SC,South Carolina,"20,422",2.0,3.0
+42077,Lehigh,PA,Pennsylvania,"377,754",1.0,4.0
+47035,Cumberland,TN,Tennessee,"64,760",2.0,4.0
+45063,Lexington,SC,South Carolina,"309,528",0.0,2.0
+41071,Yamhill,OR,Oregon,"108,644",0.0,1.0
+41031,Jefferson,OR,Oregon,"25,454",1.0,1.0
+42021,Cambria,PA,Pennsylvania,"130,668",1.0,4.0
+46077,Kingsbury,SD,South Dakota,"5,276",0.0,2.0
+41003,Benton,OR,Oregon,"97,713",0.0,2.0
+45001,Abbeville,SC,South Carolina,"24,434",2.0,4.0
+42103,Pike,PA,Pennsylvania,"61,247",1.0,2.0
+40115,Ottawa,OK,Oklahoma,"30,287",2.0,4.0
+45081,Saluda,SC,South Carolina,"19,123",2.0,4.0
+40067,Jefferson,OK,Oklahoma,"5,347",2.0,4.0
+40073,Kingfisher,OK,Oklahoma,"15,481",1.0,1.0
+40035,Craig,OK,Oklahoma,"14,494",2.0,4.0
+40063,Hughes,OK,Oklahoma,"13,436",2.0,4.0
+46129,Walworth,SD,South Dakota,"5,269",0.0,2.0
+40051,Grady,OK,Oklahoma,"57,375",1.0,1.0
+46041,Dewey,SD,South Dakota,"5,208",3.0,3.0
+40141,Tillman,OK,Oklahoma,"6,869",2.0,4.0
+46021,Campbell,SD,South Dakota,"1,340",0.0,2.0
+45089,Williamsburg,SC,South Carolina,"29,891",3.0,3.0
+46091,Marshall,SD,South Dakota,"4,390",0.0,2.0
+45071,Newberry,SC,South Carolina,"38,825",1.0,4.0
+41043,Linn,OR,Oregon,"131,496",1.0,1.0
+40103,Noble,OK,Oklahoma,"10,832",1.0,1.0
+46045,Edmunds,SD,South Dakota,"4,057",0.0,2.0
+46067,Hutchinson,SD,South Dakota,"7,394",0.0,2.0
+40055,Greer,OK,Oklahoma,"5,466",2.0,4.0
+47019,Carter,TN,Tennessee,"57,022",2.0,4.0
+42017,Bucks,PA,Pennsylvania,"645,984",1.0,1.0
+45065,McCormick,SC,South Carolina,"9,941",1.0,4.0
+45087,Union,SC,South Carolina,"26,629",2.0,3.0
+45029,Colleton,SC,South Carolina,"38,874",2.0,4.0
+41033,Josephine,OR,Oregon,"87,821",1.0,1.0
+45067,Marion,SC,South Carolina,"28,508",3.0,3.0
+40047,Garfield,OK,Oklahoma,"62,023",1.0,1.0
+40097,Mayes,OK,Oklahoma,"39,889",2.0,4.0
+45021,Cherokee,SC,South Carolina,"56,714",2.0,4.0
+40111,Okmulgee,OK,Oklahoma,"37,035",2.0,4.0
+46057,Hamlin,SD,South Dakota,"6,451",0.0,2.0
+40049,Garvin,OK,Oklahoma,"25,865",2.0,4.0
+40029,Coal,OK,Oklahoma,"5,266",3.0,4.0
+47037,Davidson,TN,Tennessee,"712,334",1.0,4.0
+45045,Greenville,SC,South Carolina,"558,036",0.0,2.0
+44001,Bristol,RI,Rhode Island,"50,255",0.0,2.0
+40085,Love,OK,Oklahoma,"10,296",2.0,4.0
+44007,Providence,RI,Rhode Island,"660,615",1.0,2.0
+46055,Haakon,SD,South Dakota,"1,851",0.0,2.0
+46015,Brule,SD,South Dakota,"5,311",0.0,2.0
+46127,Union,SD,South Dakota,"17,183",0.0,2.0
+45027,Clarendon,SC,South Carolina,"31,004",2.0,3.0
+46099,Minnehaha,SD,South Dakota,"206,930",0.0,2.0
+47007,Bledsoe,TN,Tennessee,"15,060",2.0,4.0
+45073,Oconee,SC,South Carolina,"81,221",1.0,1.0
+40113,Osage,OK,Oklahoma,"46,130",2.0,4.0
+41049,Morrow,OR,Oregon,"12,302",2.0,4.0
+46071,Jackson,SD,South Dakota,"2,776",3.0,3.0
+41059,Umatilla,OR,Oregon,"80,053",1.0,1.0
+46135,Yankton,SD,South Dakota,"23,517",0.0,2.0
+46101,Moody,SD,South Dakota,"6,450",0.0,2.0
+40093,Major,OK,Oklahoma,"7,581",1.0,1.0
+40089,McCurtain,OK,Oklahoma,"30,660",2.0,4.0
+46061,Hanson,SD,South Dakota,"3,471",0.0,2.0
+40087,McClain,OK,Oklahoma,"47,072",1.0,1.0
+46085,Lyman,SD,South Dakota,"3,705",2.0,4.0
+47015,Cannon,TN,Tennessee,"15,063",2.0,4.0
+45005,Allendale,SC,South Carolina,"7,369",3.0,3.0
+40153,Woodward,OK,Oklahoma,"19,947",1.0,1.0
+40125,Pottawatomie,OK,Oklahoma,"73,791",2.0,4.0
+45035,Dorchester,SC,South Carolina,"169,833",0.0,2.0
+41023,Grant,OR,Oregon,"7,215",1.0,1.0
+46003,Aurora,SD,South Dakota,"2,782",0.0,2.0
+41041,Lincoln,OR,Oregon,"50,821",1.0,1.0
+46073,Jerauld,SD,South Dakota,"1,660",0.0,2.0
+46035,Davison,SD,South Dakota,"19,922",0.0,2.0
+40053,Grant,OK,Oklahoma,"4,083",1.0,1.0
+44003,Kent,RI,Rhode Island,"171,278",0.0,2.0
+45077,Pickens,SC,South Carolina,"135,495",1.0,1.0
+41015,Curry,OR,Oregon,"23,296",1.0,1.0
+47003,Bedford,TN,Tennessee,"53,055",2.0,4.0
+44005,Newport,RI,Rhode Island,"83,832",0.0,2.0
+46095,Mellette,SD,South Dakota,"1,851",3.0,3.0
+40037,Creek,OK,Oklahoma,"73,332",2.0,1.0
+45059,Laurens,SC,South Carolina,"68,873",2.0,4.0
+46107,Potter,SD,South Dakota,"2,413",0.0,2.0
+41063,Wallowa,OR,Oregon,"7,674",0.0,2.0
+45003,Aiken,SC,South Carolina,"177,130",1.0,4.0
+45017,Calhoun,SC,South Carolina,"14,186",1.0,4.0
+41039,Lane,OR,Oregon,"381,181",0.0,1.0
+46007,Bennett,SD,South Dakota,"3,305",3.0,3.0
+42099,Perry,PA,Pennsylvania,"46,083",1.0,1.0
+42063,Indiana,PA,Pennsylvania,"83,094",1.0,2.0
+45075,Orangeburg,SC,South Carolina,"82,820",3.0,3.0
+46065,Hughes,SD,South Dakota,"17,624",0.0,2.0
+45047,Greenwood,SC,South Carolina,"69,460",1.0,4.0
+42003,Allegheny,PA,Pennsylvania,"1,224,825",1.0,2.0
+46093,Meade,SD,South Dakota,"30,954",0.0,2.0
+41025,Harney,OR,Oregon,"7,440",1.0,1.0
+42083,McKean,PA,Pennsylvania,"39,519",1.0,2.0
+41047,Marion,OR,Oregon,"346,741",1.0,1.0
+47005,Benton,TN,Tennessee,"16,103",2.0,4.0
+41069,Wheeler,OR,Oregon,"1,436",1.0,1.0
+45023,Chester,SC,South Carolina,"32,226",2.0,4.0
+45037,Edgefield,SC,South Carolina,"27,607",1.0,4.0
+42109,Snyder,PA,Pennsylvania,"39,717",1.0,1.0
+46087,McCook,SD,South Dakota,"5,809",0.0,2.0
+42069,Lackawanna,PA,Pennsylvania,"216,123",1.0,1.0
+41001,Baker,OR,Oregon,"16,912",1.0,1.0
+41057,Tillamook,OR,Oregon,"27,417",0.0,1.0
+46025,Clark,SD,South Dakota,"3,948",0.0,2.0
+40133,Seminole,OK,Oklahoma,"23,565",3.0,4.0
+46023,Charles Mix,SD,South Dakota,"9,240",1.0,4.0
+40041,Delaware,OK,Oklahoma,"41,703",2.0,4.0
+46037,Day,SD,South Dakota,"5,451",0.0,2.0
+45013,Beaufort,SC,South Carolina,"198,979",0.0,2.0
+45061,Lee,SC,South Carolina,"15,967",3.0,3.0
+40131,Rogers,OK,Oklahoma,"100,248",1.0,1.0
+46027,Clay,SD,South Dakota,"15,431",0.0,2.0
+40137,Stephens,OK,Oklahoma,"44,014",2.0,4.0
+40119,Payne,OK,Oklahoma,"83,352",1.0,1.0
+47023,Chester,TN,Tennessee,"17,606",2.0,4.0
+47017,Carroll,TN,Tennessee,"28,860",2.0,4.0
+41051,Multnomah,OR,Oregon,"789,698",0.0,2.0
+42011,Berks,PA,Pennsylvania,"432,821",2.0,4.0
+40151,Woods,OK,Oklahoma,"8,564",1.0,1.0
+45051,Horry,SC,South Carolina,"397,478",1.0,2.0
+45091,York,SC,South Carolina,"298,320",0.0,2.0
+46053,Gregory,SD,South Dakota,"4,018",0.0,2.0
+40091,McIntosh,OK,Oklahoma,"19,603",2.0,4.0
+46105,Perkins,SD,South Dakota,"2,834",0.0,2.0
+40105,Nowata,OK,Oklahoma,"9,438",2.0,4.0
+47027,Clay,TN,Tennessee,"7,714",2.0,4.0
+45009,Bamberg,SC,South Carolina,"12,974",3.0,3.0
+47013,Campbell,TN,Tennessee,"40,223",2.0,4.0
+46081,Lawrence,SD,South Dakota,"28,053",0.0,2.0
+40143,Tulsa,OK,Oklahoma,"682,868",1.0,4.0
+46039,Deuel,SD,South Dakota,"4,354",0.0,2.0
+47001,Anderson,TN,Tennessee,"80,234",1.0,4.0
+46005,Beadle,SD,South Dakota,"19,591",1.0,1.0
+41017,Deschutes,OR,Oregon,"208,513",0.0,2.0
+46075,Jones,SD,South Dakota,855,0.0,2.0
+46043,Douglas,SD,South Dakota,"2,838",0.0,2.0
+41061,Union,OR,Oregon,"25,944",1.0,1.0
+45055,Kershaw,SC,South Carolina,"69,905",1.0,4.0
+40045,Ellis,OK,Oklahoma,"3,648",1.0,1.0
+42117,Tioga,PA,Pennsylvania,"40,840",1.0,4.0
+46019,Butte,SD,South Dakota,"10,863",0.0,2.0
+46089,McPherson,SD,South Dakota,"2,334",0.0,2.0
+46123,Tripp,SD,South Dakota,"5,621",1.0,1.0
+45007,Anderson,SC,South Carolina,"213,076",1.0,4.0
+42039,Crawford,PA,Pennsylvania,"82,001",1.0,1.0
+47031,Coffee,TN,Tennessee,"60,633",2.0,4.0
+47009,Blount,TN,Tennessee,"141,456",1.0,2.0
+40149,Washita,OK,Oklahoma,"10,736",1.0,1.0
+46047,Fall River,SD,South Dakota,"7,393",1.0,1.0
+40031,Comanche,OK,Oklahoma,"121,574",2.0,4.0
+42091,Montgomery,PA,Pennsylvania,"868,742",0.0,2.0
+46119,Sully,SD,South Dakota,"1,494",0.0,2.0
+45083,Spartanburg,SC,South Carolina,"356,698",1.0,4.0
+47021,Cheatham,TN,Tennessee,"42,254",1.0,2.0
+42045,Delaware,PA,Pennsylvania,"576,720",2.0,4.0
+42041,Cumberland,PA,Pennsylvania,"270,738",0.0,1.0
+46137,Ziebach,SD,South Dakota,"2,322",3.0,3.0
+40117,Pawnee,OK,Oklahoma,"15,864",2.0,4.0
+42075,Lebanon,PA,Pennsylvania,"144,252",1.0,2.0
+46017,Buffalo,SD,South Dakota,"1,884",3.0,3.0
+42023,Cameron,PA,Pennsylvania,"4,380",2.0,4.0
+46069,Hyde,SD,South Dakota,"1,186",0.0,2.0
+42057,Fulton,PA,Pennsylvania,"14,468",1.0,4.0
+42095,Northampton,PA,Pennsylvania,"319,091",1.0,1.0
+46115,Spink,SD,South Dakota,"6,166",0.0,2.0
+42073,Lawrence,PA,Pennsylvania,"84,472",2.0,4.0
+46109,Roberts,SD,South Dakota,"10,206",2.0,4.0
+42051,Fayette,PA,Pennsylvania,"123,915",2.0,4.0
+41021,Gilliam,OR,Oregon,"2,026",1.0,1.0
+42131,Wyoming,PA,Pennsylvania,"25,902",1.0,4.0
+42029,Chester,PA,Pennsylvania,"549,784",0.0,2.0
+42115,Susquehanna,PA,Pennsylvania,"38,109",1.0,4.0
+42087,Mifflin,PA,Pennsylvania,"45,922",2.0,3.0
+42035,Clinton,PA,Pennsylvania,"37,607",2.0,4.0
+45079,Richland,SC,South Carolina,"425,138",1.0,2.0
+41055,Sherman,OR,Oregon,"1,951",1.0,1.0
+42081,Lycoming,PA,Pennsylvania,"112,724",1.0,2.0
+42047,Elk,PA,Pennsylvania,"30,198",1.0,4.0
+42101,Philadelphia,PA,Pennsylvania,"1,550,542",2.0,4.0
+42127,Wayne,PA,Pennsylvania,"51,262",1.0,4.0
+42019,Butler,PA,Pennsylvania,"198,413",1.0,1.0
+42071,Lancaster,PA,Pennsylvania,"558,589",1.0,1.0
+42037,Columbia,PA,Pennsylvania,"65,439",1.0,4.0
+42059,Greene,PA,Pennsylvania,"34,357",1.0,4.0
+42097,Northumberland,PA,Pennsylvania,"90,120",1.0,4.0
+42031,Clarion,PA,Pennsylvania,"36,970",1.0,4.0
+42015,Bradford,PA,Pennsylvania,"59,695",2.0,4.0
+42049,Erie,PA,Pennsylvania,"267,571",1.0,4.0
+42107,Schuylkill,PA,Pennsylvania,"143,786",1.0,4.0
+42025,Carbon,PA,Pennsylvania,"65,458",1.0,2.0
+42043,Dauphin,PA,Pennsylvania,"289,234",1.0,1.0
+42129,Westmoreland,PA,Pennsylvania,"351,163",1.0,1.0
+42055,Franklin,PA,Pennsylvania,"157,854",1.0,1.0
+42009,Bedford,PA,Pennsylvania,"47,350",2.0,4.0
+42105,Potter,PA,Pennsylvania,"15,999",0.0,2.0
+42089,Monroe,PA,Pennsylvania,"166,053",1.0,2.0
+42005,Armstrong,PA,Pennsylvania,"64,074",2.0,4.0
+42111,Somerset,PA,Pennsylvania,"72,197",1.0,2.0
+42065,Jefferson,PA,Pennsylvania,"43,612",1.0,4.0
+42053,Forest,PA,Pennsylvania,"6,449",2.0,4.0
+42123,Warren,PA,Pennsylvania,"37,572",1.0,4.0
+42027,Centre,PA,Pennsylvania,"157,795",1.0,4.0
+42125,Washington,PA,Pennsylvania,"210,232",1.0,2.0
+42079,Luzerne,PA,Pennsylvania,"327,388",2.0,4.0
+42133,York,PA,Pennsylvania,"464,640",1.0,1.0
+42007,Beaver,PA,Pennsylvania,"165,631",1.0,1.0
+42119,Union,PA,Pennsylvania,"42,042",1.0,1.0
+42001,Adams,PA,Pennsylvania,"106,748",1.0,1.0
+42061,Huntingdon,PA,Pennsylvania,"43,514",1.0,1.0
+42113,Sullivan,PA,Pennsylvania,"5,834",1.0,4.0
+42067,Juniata,PA,Pennsylvania,"23,243",2.0,4.0
+42085,Mercer,PA,Pennsylvania,"108,503",2.0,4.0
+42121,Venango,PA,Pennsylvania,"49,431",1.0,4.0
+42093,Montour,PA,Pennsylvania,"17,860",0.0,2.0
+42013,Blair,PA,Pennsylvania,"120,273",1.0,1.0
+42033,Clearfield,PA,Pennsylvania,"77,090",1.0,1.0
+48279,Lamb,TX,Texas,"12,711",2.0,4.0
+47103,Lincoln,TN,Tennessee,"36,169",1.0,4.0
+48109,Culberson,TX,Texas,"2,196",3.0,4.0
+47057,Grainger,TN,Tennessee,"24,681",2.0,4.0
+48343,Morris,TX,Texas,"12,066",2.0,4.0
+47039,Decatur,TN,Tennessee,"11,656",2.0,4.0
+48011,Armstrong,TX,Texas,"1,832",0.0,2.0
+48071,Chambers,TX,Texas,"53,876",1.0,4.0
+48019,Bandera,TX,Texas,"22,637",1.0,4.0
+48301,Loving,TX,Texas,43,,
+48149,Fayette,TX,Texas,"25,474",1.0,4.0
+48383,Reagan,TX,Texas,"3,141",1.0,4.0
+47105,Loudon,TN,Tennessee,"60,591",1.0,2.0
+47129,Morgan,TN,Tennessee,"21,573",2.0,4.0
+48013,Atascosa,TX,Texas,"51,784",2.0,4.0
+47087,Jackson,TN,Tennessee,"12,363",2.0,4.0
+48325,Medina,TX,Texas,"54,797",1.0,4.0
+48015,Austin,TX,Texas,"31,677",1.0,4.0
+48151,Fisher,TX,Texas,"3,612",1.0,4.0
+48125,Dickens,TX,Texas,"1,711",1.0,4.0
+48031,Blanco,TX,Texas,"13,048",0.0,2.0
+47155,Sevier,TN,Tennessee,"99,415",1.0,4.0
+48179,Gray,TX,Texas,"20,916",2.0,4.0
+48321,Matagorda,TX,Texas,"36,359",2.0,4.0
+47083,Houston,TN,Tennessee,"8,393",2.0,4.0
+47165,Sumner,TN,Tennessee,"207,994",1.0,2.0
+48133,Eastland,TX,Texas,"18,037",1.0,4.0
+47063,Hamblen,TN,Tennessee,"66,216",2.0,4.0
+48341,Moore,TX,Texas,"21,190",2.0,4.0
+48401,Rusk,TX,Texas,"53,079",1.0,4.0
+48317,Martin,TX,Texas,"5,216",1.0,4.0
+48391,Refugio,TX,Texas,"6,666",2.0,4.0
+48379,Rains,TX,Texas,"12,986",1.0,4.0
+48385,Real,TX,Texas,"2,854",2.0,4.0
+47173,Union,TN,Tennessee,"20,741",2.0,4.0
+47095,Lake,TN,Tennessee,"6,347",3.0,4.0
+48377,Presidio,TX,Texas,"5,795",3.0,4.0
+47079,Henry,TN,Tennessee,"32,554",2.0,4.0
+48299,Llano,TX,Texas,"22,875",1.0,1.0
+48169,Garza,TX,Texas,"4,517",2.0,4.0
+48251,Johnson,TX,Texas,"202,906",1.0,4.0
+48253,Jones,TX,Texas,"20,381",2.0,4.0
+47081,Hickman,TN,Tennessee,"25,826",2.0,4.0
+48073,Cherokee,TX,Texas,"52,217",2.0,4.0
+48171,Gillespie,TX,Texas,"27,733",0.0,2.0
+48041,Brazos,TX,Texas,"244,703",1.0,4.0
+48271,Kinney,TX,Texas,"3,148",1.0,4.0
+48387,Red River,TX,Texas,"11,678",2.0,4.0
+48337,Montague,TX,Texas,"21,598",1.0,4.0
+48017,Bailey,TX,Texas,"6,672",2.0,4.0
+48059,Callahan,TX,Texas,"14,374",1.0,1.0
+48283,La Salle,TX,Texas,"6,537",3.0,4.0
+48363,Palo Pinto,TX,Texas,"29,747",1.0,4.0
+48035,Bosque,TX,Texas,"18,996",1.0,4.0
+48247,Jim Hogg,TX,Texas,"4,720",3.0,4.0
+48213,Henderson,TX,Texas,"86,158",1.0,4.0
+47049,Fentress,TN,Tennessee,"19,696",2.0,4.0
+48129,Donley,TX,Texas,"3,214",1.0,4.0
+48229,Hudspeth,TX,Texas,"3,451",3.0,4.0
+47185,White,TN,Tennessee,"28,692",2.0,4.0
+48049,Brown,TX,Texas,"38,709",1.0,4.0
+47125,Montgomery,TN,Tennessee,"239,872",1.0,4.0
+48267,Kimble,TX,Texas,"4,442",1.0,4.0
+47093,Knox,TN,Tennessee,"500,669",1.0,2.0
+48159,Franklin,TX,Texas,"10,735",0.0,2.0
+48161,Freestone,TX,Texas,"20,441",1.0,4.0
+47107,McMinn,TN,Tennessee,"55,678",2.0,4.0
+47177,Warren,TN,Tennessee,"42,638",2.0,4.0
+47131,Obion,TN,Tennessee,"30,411",2.0,4.0
+47161,Stewart,TN,Tennessee,"14,222",1.0,4.0
+47139,Polk,TN,Tennessee,"18,033",2.0,4.0
+48141,El Paso,TX,Texas,"869,880",2.0,4.0
+47159,Smith,TN,Tennessee,"20,538",1.0,4.0
+48025,Bee,TX,Texas,"30,850",2.0,4.0
+48333,Mills,TX,Texas,"4,548",1.0,4.0
+48175,Goliad,TX,Texas,"7,144",1.0,4.0
+47109,McNairy,TN,Tennessee,"26,163",2.0,4.0
+47041,DeKalb,TN,Tennessee,"21,225",2.0,4.0
+48123,DeWitt,TX,Texas,"19,929",2.0,4.0
+47101,Lewis,TN,Tennessee,"13,066",2.0,4.0
+47187,Williamson,TN,Tennessee,"264,460",0.0,2.0
+47099,Lawrence,TN,Tennessee,"46,114",2.0,4.0
+48233,Hutchinson,TX,Texas,"20,033",1.0,4.0
+48155,Foard,TX,Texas,"1,079",2.0,4.0
+48089,Colorado,TX,Texas,"21,117",1.0,4.0
+48389,Reeves,TX,Texas,"11,770",3.0,4.0
+48187,Guadalupe,TX,Texas,"188,454",1.0,4.0
+48077,Clay,TX,Texas,"10,738",1.0,1.0
+48037,Bowie,TX,Texas,"91,687",1.0,4.0
+48303,Lubbock,TX,Texas,"320,940",1.0,4.0
+48081,Coke,TX,Texas,"3,352",1.0,4.0
+48397,Rockwall,TX,Texas,"131,307",0.0,2.0
+48297,Live Oak,TX,Texas,"11,584",2.0,4.0
+48009,Archer,TX,Texas,"9,029",1.0,1.0
+48111,Dallam,TX,Texas,"7,237",2.0,4.0
+48093,Comanche,TX,Texas,"14,050",1.0,4.0
+47149,Rutherford,TN,Tennessee,"367,101",1.0,2.0
+48207,Haskell,TX,Texas,"5,385",2.0,4.0
+47091,Johnson,TN,Tennessee,"18,375",2.0,4.0
+47141,Putnam,TN,Tennessee,"83,844",1.0,4.0
+47097,Lauderdale,TN,Tennessee,"24,610",3.0,3.0
+48339,Montgomery,TX,Texas,"711,354",0.0,2.0
+47053,Gibson,TN,Tennessee,"51,045",2.0,4.0
+47085,Humphreys,TN,Tennessee,"19,209",2.0,4.0
+48347,Nacogdoches,TX,Texas,"65,375",2.0,4.0
+47071,Hardin,TN,Tennessee,"27,229",2.0,4.0
+48261,Kenedy,TX,Texas,343,3.0,4.0
+47181,Wayne,TN,Tennessee,"16,066",2.0,4.0
+48241,Jasper,TX,Texas,"32,694",2.0,4.0
+48163,Frio,TX,Texas,"17,987",3.0,4.0
+48217,Hill,TX,Texas,"38,101",1.0,4.0
+47089,Jefferson,TN,Tennessee,"57,838",1.0,4.0
+48309,McLennan,TX,Texas,"268,583",1.0,4.0
+48311,McMullen,TX,Texas,568,2.0,4.0
+48197,Hardeman,TX,Texas,"3,490",1.0,4.0
+47133,Overton,TN,Tennessee,"23,327",2.0,4.0
+48265,Kerr,TX,Texas,"53,915",1.0,4.0
+48157,Fort Bend,TX,Texas,"916,778",0.0,2.0
+48285,Lavaca,TX,Texas,"20,571",1.0,4.0
+47075,Haywood,TN,Tennessee,"17,328",3.0,3.0
+48371,Pecos,TX,Texas,"14,623",3.0,4.0
+48215,Hidalgo,TX,Texas,"898,471",3.0,4.0
+48145,Falls,TX,Texas,"17,286",2.0,4.0
+48191,Hall,TX,Texas,"2,818",2.0,4.0
+47065,Hamilton,TN,Tennessee,"379,864",1.0,2.0
+47127,Moore,TN,Tennessee,"6,748",1.0,4.0
+48135,Ector,TX,Texas,"164,494",2.0,4.0
+47143,Rhea,TN,Tennessee,"33,924",2.0,4.0
+48345,Motley,TX,Texas,"1,020",1.0,4.0
+48277,Lamar,TX,Texas,"51,127",2.0,4.0
+47047,Fayette,TN,Tennessee,"44,175",1.0,4.0
+47069,Hardeman,TN,Tennessee,"25,567",3.0,3.0
+47045,Dyer,TN,Tennessee,"36,498",2.0,4.0
+48165,Gaines,TX,Texas,"22,523",2.0,4.0
+48099,Coryell,TX,Texas,"84,878",1.0,4.0
+47113,Madison,TN,Tennessee,"99,193",2.0,4.0
+48105,Crockett,TX,Texas,"2,858",2.0,4.0
+48395,Robertson,TX,Texas,"17,267",2.0,4.0
+48273,Kleberg,TX,Texas,"30,069",2.0,4.0
+48143,Erath,TX,Texas,"44,195",1.0,4.0
+48319,Mason,TX,Texas,"3,931",0.0,4.0
+48359,Oldham,TX,Texas,"1,783",1.0,4.0
+48199,Hardin,TX,Texas,"58,261",1.0,4.0
+47147,Robertson,TN,Tennessee,"76,776",1.0,4.0
+48055,Caldwell,TX,Texas,"49,859",2.0,4.0
+48289,Leon,TX,Texas,"16,538",1.0,4.0
+48269,King,TX,Texas,217,2.0,4.0
+48063,Camp,TX,Texas,"13,000",2.0,4.0
+47077,Henderson,TN,Tennessee,"28,070",2.0,4.0
+48351,Newton,TX,Texas,"12,039",3.0,3.0
+48173,Glasscock,TX,Texas,"1,141",0.0,2.0
+48043,Brewster,TX,Texas,"9,513",0.0,2.0
+47121,Meigs,TN,Tennessee,"13,691",2.0,4.0
+47117,Marshall,TN,Tennessee,"36,961",1.0,4.0
+48039,Brazoria,TX,Texas,"398,938",1.0,2.0
+48281,Lampasas,TX,Texas,"23,262",1.0,4.0
+47111,Macon,TN,Tennessee,"26,793",2.0,4.0
+47157,Shelby,TN,Tennessee,"910,042",2.0,4.0
+48275,Knox,TX,Texas,"3,302",2.0,4.0
+48367,Parker,TX,Texas,"173,494",0.0,2.0
+48115,Dawson,TX,Texas,"12,004",3.0,4.0
+48231,Hunt,TX,Texas,"113,347",1.0,4.0
+47115,Marion,TN,Tennessee,"29,382",2.0,4.0
+48005,Angelina,TX,Texas,"87,319",2.0,4.0
+48033,Borden,TX,Texas,572,0.0,2.0
+48153,Floyd,TX,Texas,"5,090",2.0,4.0
+48029,Bexar,TX,Texas,"2,087,679",1.0,4.0
+48223,Hopkins,TX,Texas,"38,172",1.0,4.0
+48393,Roberts,TX,Texas,840,0.0,2.0
+47067,Hancock,TN,Tennessee,"6,956",3.0,4.0
+48047,Brooks,TX,Texas,"6,848",3.0,4.0
+48349,Navarro,TX,Texas,"55,635",2.0,4.0
+48293,Limestone,TX,Texas,"22,250",2.0,4.0
+47073,Hawkins,TN,Tennessee,"58,600",2.0,4.0
+48147,Fannin,TX,Texas,"37,571",1.0,4.0
+48335,Mitchell,TX,Texas,"9,075",2.0,4.0
+48103,Crane,TX,Texas,"4,574",2.0,4.0
+48203,Harrison,TX,Texas,"70,895",1.0,4.0
+48021,Bastrop,TX,Texas,"110,778",1.0,4.0
+48357,Ochiltree,TX,Texas,"9,704",2.0,4.0
+47061,Grundy,TN,Tennessee,"13,955",2.0,4.0
+48315,Marion,TX,Texas,"9,571",2.0,4.0
+48117,Deaf Smith,TX,Texas,"18,347",3.0,4.0
+47055,Giles,TN,Tennessee,"30,721",2.0,4.0
+48181,Grayson,TX,Texas,"146,907",1.0,4.0
+48193,Hamilton,TX,Texas,"8,619",1.0,4.0
+48329,Midland,TX,Texas,"177,108",1.0,4.0
+48069,Castro,TX,Texas,"7,227",2.0,4.0
+48113,Dallas,TX,Texas,"2,606,358",1.0,4.0
+48177,Gonzales,TX,Texas,"19,930",2.0,4.0
+48045,Briscoe,TX,Texas,"1,445",2.0,4.0
+48227,Howard,TX,Texas,"30,554",2.0,4.0
+48403,Sabine,TX,Texas,"10,106",1.0,4.0
+48003,Andrews,TX,Texas,"18,664",1.0,4.0
+48087,Collingsworth,TX,Texas,"2,563",2.0,4.0
+48201,Harris,TX,Texas,"4,835,125",1.0,4.0
+48127,Dimmit,TX,Texas,"8,257",3.0,4.0
+48313,Madison,TX,Texas,"13,742",2.0,4.0
+47135,Perry,TN,Tennessee,"8,891",2.0,4.0
+48091,Comal,TX,Texas,"193,928",0.0,2.0
+48053,Burnet,TX,Texas,"53,991",1.0,4.0
+48139,Ellis,TX,Texas,"222,829",1.0,4.0
+48239,Jackson,TX,Texas,"15,221",1.0,4.0
+48075,Childress,TX,Texas,"6,788",1.0,4.0
+48137,Edwards,TX,Texas,"1,393",2.0,4.0
+48305,Lynn,TX,Texas,"5,761",2.0,4.0
+48243,Jeff Davis,TX,Texas,"1,856",2.0,4.0
+47169,Trousdale,TN,Tennessee,"12,271",2.0,4.0
+47059,Greene,TN,Tennessee,"72,577",2.0,4.0
+48255,Karnes,TX,Texas,"15,018",2.0,4.0
+48291,Liberty,TX,Texas,"108,272",2.0,4.0
+48131,Duval,TX,Texas,"9,604",3.0,4.0
+48183,Gregg,TX,Texas,"126,243",1.0,4.0
+48185,Grimes,TX,Texas,"32,384",1.0,4.0
+48051,Burleson,TX,Texas,"19,475",1.0,4.0
+47175,Van Buren,TN,Tennessee,"6,493",2.0,4.0
+47153,Sequatchie,TN,Tennessee,"17,161",2.0,4.0
+48323,Maverick,TX,Texas,"57,762",3.0,4.0
+48375,Potter,TX,Texas,"114,647",2.0,4.0
+48369,Parmer,TX,Texas,"9,617",2.0,4.0
+48057,Calhoun,TX,Texas,"19,696",1.0,4.0
+48079,Cochran,TX,Texas,"2,509",3.0,4.0
+48001,Anderson,TX,Texas,"57,736",2.0,4.0
+48355,Nueces,TX,Texas,"352,289",1.0,4.0
+48399,Runnels,TX,Texas,"9,868",1.0,4.0
+47145,Roane,TN,Tennessee,"56,096",1.0,4.0
+48249,Jim Wells,TX,Texas,"38,662",3.0,4.0
+48221,Hood,TX,Texas,"67,774",0.0,2.0
+47119,Maury,TN,Tennessee,"110,760",1.0,2.0
+48189,Hale,TX,Texas,"31,761",2.0,4.0
+48307,McCulloch,TX,Texas,"7,452",1.0,4.0
+48167,Galveston,TX,Texas,"361,744",1.0,4.0
+47137,Pickett,TN,Tennessee,"5,128",2.0,4.0
+47171,Unicoi,TN,Tennessee,"17,756",2.0,4.0
+48121,Denton,TX,Texas,"1,007,703",0.0,2.0
+47179,Washington,TN,Tennessee,"138,420",1.0,4.0
+47183,Weakley,TN,Tennessee,"33,084",2.0,4.0
+48257,Kaufman,TX,Texas,"185,690",1.0,4.0
+48353,Nolan,TX,Texas,"14,306",2.0,4.0
+48023,Baylor,TX,Texas,"3,463",1.0,4.0
+48263,Kent,TX,Texas,734,0.0,2.0
+48067,Cass,TX,Texas,"28,659",2.0,4.0
+47051,Franklin,TN,Tennessee,"44,654",1.0,4.0
+48095,Concho,TX,Texas,"3,297",2.0,4.0
+48331,Milam,TX,Texas,"25,951",1.0,4.0
+48219,Hockley,TX,Texas,"21,460",2.0,4.0
+47123,Monroe,TN,Tennessee,"48,594",2.0,4.0
+48007,Aransas,TX,Texas,"25,374",1.0,4.0
+48235,Irion,TX,Texas,"1,549",1.0,4.0
+48119,Delta,TX,Texas,"5,520",1.0,4.0
+48083,Coleman,TX,Texas,"7,842",1.0,4.0
+48107,Crosby,TX,Texas,"4,917",2.0,4.0
+47189,Wilson,TN,Tennessee,"163,674",0.0,2.0
+48211,Hemphill,TX,Texas,"3,189",0.0,2.0
+48295,Lipscomb,TX,Texas,"2,906",1.0,4.0
+48085,Collin,TX,Texas,"1,195,359",0.0,2.0
+48209,Hays,TX,Texas,"280,486",0.0,2.0
+48101,Cottle,TX,Texas,"1,294",2.0,4.0
+48065,Carson,TX,Texas,"5,878",0.0,2.0
+47151,Scott,TN,Tennessee,"22,171",2.0,4.0
+48237,Jack,TX,Texas,"8,875",2.0,4.0
+48361,Orange,TX,Texas,"85,722",1.0,4.0
+48287,Lee,TX,Texas,"18,240",2.0,4.0
+48225,Houston,TX,Texas,"22,066",2.0,4.0
+48373,Polk,TX,Texas,"54,186",2.0,4.0
+48245,Jefferson,TX,Texas,"251,496",2.0,4.0
+48365,Panola,TX,Texas,"22,838",1.0,4.0
+47167,Tipton,TN,Tennessee,"62,015",2.0,4.0
+48381,Randall,TX,Texas,"148,255",0.0,2.0
+48259,Kendall,TX,Texas,"50,537",0.0,2.0
+47043,Dickson,TN,Tennessee,"56,729",1.0,4.0
+48027,Bell,TX,Texas,"393,193",1.0,4.0
+48097,Cooke,TX,Texas,"43,782",1.0,4.0
+48061,Cameron,TX,Texas,"426,710",3.0,4.0
+48205,Hartley,TX,Texas,"5,145",1.0,4.0
+51197,Wythe,VA,Virginia,"28,104",1.0,4.0
+48469,Victoria,TX,Texas,"91,664",1.0,4.0
+51047,Culpeper,VA,Virginia,"54,973",1.0,2.0
+48423,Smith,TX,Texas,"245,209",1.0,4.0
+51730,Petersburg,VA,Virginia,"33,309",3.0,3.0
+48405,San Augustine,TX,Texas,"7,833",3.0,3.0
+49047,Uintah,UT,Utah,"37,747",1.0,1.0
+51017,Bath,VA,Virginia,"4,051",2.0,4.0
+51595,Emporia,VA,Virginia,"5,463",3.0,3.0
+51083,Halifax,VA,Virginia,"33,432",2.0,4.0
+53009,Clallam,WA,Washington,"77,616",0.0,2.0
+48495,Winkler,TX,Texas,"7,414",1.0,4.0
+49049,Utah,UT,Utah,"719,174",0.0,2.0
+48453,Travis,TX,Texas,"1,334,961",0.0,2.0
+51680,Lynchburg,VA,Virginia,"79,535",1.0,4.0
+49051,Wasatch,UT,Utah,"37,144",0.0,2.0
+51085,Hanover,VA,Virginia,"114,148",0.0,2.0
+51063,Floyd,VA,Virginia,"15,679",1.0,2.0
+50009,Essex,VT,Vermont,"6,010",1.0,1.0
+49011,Davis,UT,Utah,"373,207",0.0,2.0
+51107,Loudoun,VA,Virginia,"436,347",0.0,2.0
+51670,Hopewell,VA,Virginia,"22,752",3.0,3.0
+48449,Titus,TX,Texas,"31,357",2.0,4.0
+49019,Grand,UT,Utah,"9,706",0.0,1.0
+51069,Frederick,VA,Virginia,"95,994",0.0,2.0
+48427,Starr,TX,Texas,"65,934",3.0,4.0
+51720,Norton,VA,Virginia,"3,492",2.0,4.0
+51650,Hampton,VA,Virginia,"137,098",1.0,4.0
+53019,Ferry,WA,Washington,"7,497",1.0,1.0
+53005,Benton,WA,Washington,"215,219",0.0,2.0
+53013,Columbia,WA,Washington,"4,053",0.0,2.0
+49025,Kane,UT,Utah,"8,425",0.0,1.0
+48459,Upshur,TX,Texas,"43,281",1.0,4.0
+48443,Terrell,TX,Texas,687,0.0,2.0
+51590,Danville,VA,Virginia,"41,837",3.0,3.0
+51099,King George,VA,Virginia,"28,568",0.0,2.0
+51173,Smyth,VA,Virginia,"29,216",2.0,4.0
+51175,Southampton,VA,Virginia,"17,975",1.0,4.0
+48445,Terry,TX,Texas,"11,547",3.0,4.0
+51101,King William,VA,Virginia,"19,030",0.0,2.0
+50019,Orleans,VT,Vermont,"27,516",0.0,2.0
+48421,Sherman,TX,Texas,"2,678",1.0,4.0
+51191,Washington,VA,Virginia,"54,050",1.0,2.0
+51700,Newport News,VA,Virginia,"183,118",1.0,4.0
+49053,Washington,UT,Utah,"202,452",0.0,1.0
+51007,Amelia,VA,Virginia,"13,480",1.0,4.0
+51510,Alexandria,VA,Virginia,"155,230",0.0,2.0
+51810,Virginia Beach,VA,Virginia,"453,649",0.0,2.0
+50011,Franklin,VT,Vermont,"50,994",0.0,2.0
+48447,Throckmorton,TX,Texas,"1,526",1.0,4.0
+51171,Shenandoah,VA,Virginia,"45,228",1.0,1.0
+51139,Page,VA,Virginia,"23,741",1.0,4.0
+48413,Schleicher,TX,Texas,"2,391",1.0,4.0
+51067,Franklin,VA,Virginia,"55,549",1.0,2.0
+51155,Pulaski,VA,Virginia,"33,655",1.0,2.0
+49035,Salt Lake,UT,Utah,"1,185,813",0.0,2.0
+50027,Windsor,VT,Vermont,"58,101",0.0,2.0
+50017,Orange,VT,Vermont,"29,943",0.0,2.0
+48491,Williamson,TX,Texas,"697,191",0.0,2.0
+51187,Warren,VA,Virginia,"41,843",1.0,2.0
+51091,Highland,VA,Virginia,"2,339",0.0,2.0
+51093,Isle of Wight,VA,Virginia,"40,711",0.0,2.0
+51121,Montgomery,VA,Virginia,"98,666",1.0,2.0
+48473,Waller,TX,Texas,"63,553",1.0,4.0
+49027,Millard,UT,Utah,"13,437",1.0,1.0
+49015,Emery,UT,Utah,"10,144",0.0,1.0
+48505,Zapata,TX,Texas,"13,736",3.0,4.0
+51075,Goochland,VA,Virginia,"27,197",0.0,2.0
+49013,Duchesne,UT,Utah,"20,477",1.0,1.0
+50003,Bennington,VT,Vermont,"37,183",0.0,2.0
+51690,Martinsville,VA,Virginia,"13,763",3.0,3.0
+51103,Lancaster,VA,Virginia,"10,859",1.0,4.0
+51061,Fauquier,VA,Virginia,"75,165",0.0,2.0
+48467,Van Zandt,TX,Texas,"64,000",1.0,4.0
+49037,San Juan,UT,Utah,"14,358",2.0,3.0
+48465,Val Verde,TX,Texas,"47,720",2.0,4.0
+51159,Richmond,VA,Virginia,"9,184",2.0,4.0
+51089,Henry,VA,Virginia,"49,702",2.0,4.0
+51031,Campbell,VA,Virginia,"55,270",1.0,4.0
+53015,Cowlitz,WA,Washington,"112,864",1.0,1.0
+51115,Mathews,VA,Virginia,"8,514",0.0,2.0
+51021,Bland,VA,Virginia,"6,179",1.0,2.0
+50013,Grand Isle,VT,Vermont,"7,467",0.0,2.0
+51025,Brunswick,VA,Virginia,"15,749",2.0,3.0
+51580,Covington,VA,Virginia,"5,545",2.0,4.0
+51049,Cumberland,VA,Virginia,"9,878",1.0,4.0
+51035,Carroll,VA,Virginia,"29,239",1.0,4.0
+49005,Cache,UT,Utah,"142,393",0.0,1.0
+51135,Nottoway,VA,Virginia,"15,566",2.0,4.0
+51019,Bedford,VA,Virginia,"81,525",0.0,2.0
+48457,Tyler,TX,Texas,"20,382",2.0,4.0
+48463,Uvalde,TX,Texas,"24,960",2.0,4.0
+48471,Walker,TX,Texas,"81,268",2.0,4.0
+49017,Garfield,UT,Utah,"5,314",0.0,1.0
+48417,Shackelford,TX,Texas,"3,229",0.0,2.0
+48451,Tom Green,TX,Texas,"119,057",1.0,4.0
+51740,Portsmouth,VA,Virginia,"96,793",2.0,4.0
+48437,Swisher,TX,Texas,"6,955",3.0,4.0
+51181,Surry,VA,Virginia,"6,593",1.0,4.0
+49031,Piute,UT,Utah,"1,550",1.0,4.0
+51165,Rockingham,VA,Virginia,"86,568",1.0,2.0
+51095,James City,VA,Virginia,"82,654",0.0,2.0
+51143,Pittsylvania,VA,Virginia,"59,571",2.0,4.0
+48455,Trinity,TX,Texas,"14,228",2.0,4.0
+51620,Franklin,VA,Virginia,"8,339",2.0,3.0
+51630,Fredericksburg,VA,Virginia,"28,928",1.0,2.0
+48499,Wood,TX,Texas,"47,921",1.0,4.0
+51185,Tazewell,VA,Virginia,"39,120",2.0,4.0
+51520,Bristol,VA,Virginia,"16,807",1.0,4.0
+48441,Taylor,TX,Texas,"146,836",1.0,4.0
+51840,Winchester,VA,Virginia,"27,617",1.0,4.0
+51141,Patrick,VA,Virginia,"17,509",1.0,4.0
+51081,Greensville,VA,Virginia,"11,133",2.0,3.0
+50015,Lamoille,VT,Vermont,"26,060",0.0,2.0
+51117,Mecklenburg,VA,Virginia,"30,648",2.0,4.0
+48431,Sterling,TX,Texas,"1,397",0.0,2.0
+51071,Giles,VA,Virginia,"16,457",1.0,2.0
+49001,Beaver,UT,Utah,"7,233",0.0,1.0
+51735,Poquoson,VA,Virginia,"12,635",0.0,2.0
+48435,Sutton,TX,Texas,"3,221",2.0,4.0
+48411,San Saba,TX,Texas,"5,845",1.0,4.0
+53017,Douglas,WA,Washington,"44,798",0.0,1.0
+51097,King and Queen,VA,Virginia,"6,720",1.0,4.0
+51037,Charlotte,VA,Virginia,"11,336",2.0,4.0
+48477,Washington,TX,Texas,"37,007",1.0,2.0
+51045,Craig,VA,Virginia,"4,843",1.0,2.0
+51193,Westmoreland,VA,Virginia,"19,013",2.0,4.0
+48461,Upton,TX,Texas,"3,109",2.0,4.0
+51077,Grayson,VA,Virginia,"15,285",2.0,4.0
+48429,Stephens,TX,Texas,"9,343",1.0,4.0
+51660,Harrisonburg,VA,Virginia,"51,082",2.0,4.0
+49003,Box Elder,UT,Utah,"62,684",0.0,1.0
+51003,Albemarle,VA,Virginia,"115,676",0.0,2.0
+51540,Charlottesville,VA,Virginia,"44,983",0.0,2.0
+51011,Appomattox,VA,Virginia,"16,864",1.0,4.0
+49009,Daggett,UT,Utah,992,0.0,1.0
+51750,Radford,VA,Virginia,"16,971",2.0,4.0
+48487,Wilbarger,TX,Texas,"12,522",2.0,4.0
+48481,Wharton,TX,Texas,"41,739",2.0,4.0
+51199,York,VA,Virginia,"70,952",0.0,2.0
+48479,Webb,TX,Texas,"269,148",3.0,4.0
+51600,Fairfax,VA,Virginia,"25,144",0.0,2.0
+51195,Wise,VA,Virginia,"35,174",2.0,4.0
+51820,Waynesboro,VA,Virginia,"23,182",1.0,4.0
+51053,Dinwiddie,VA,Virginia,"28,343",1.0,4.0
+49043,Summit,UT,Utah,"42,759",0.0,2.0
+48507,Zavala,TX,Texas,"9,312",3.0,4.0
+51087,Henrico,VA,Virginia,"334,760",0.0,2.0
+50007,Chittenden,VT,Vermont,"169,481",0.0,2.0
+51147,Prince Edward,VA,Virginia,"22,049",2.0,4.0
+50023,Washington,VT,Vermont,"60,142",0.0,2.0
+51550,Chesapeake,VA,Virginia,"253,886",0.0,2.0
+48439,Tarrant,TX,Texas,"2,182,947",1.0,4.0
+51043,Clarke,VA,Virginia,"15,466",0.0,2.0
+51133,Northumberland,VA,Virginia,"12,391",0.0,2.0
+49057,Weber,UT,Utah,"271,926",0.0,1.0
+51775,Salem,VA,Virginia,"25,600",0.0,2.0
+51640,Galax,VA,Virginia,"6,717",2.0,4.0
+51057,Essex,VA,Virginia,"10,598",2.0,4.0
+48419,Shelby,TX,Texas,"24,179",2.0,4.0
+51109,Louisa,VA,Virginia,"41,037",1.0,2.0
+51119,Middlesex,VA,Virginia,"10,924",1.0,2.0
+51683,Manassas,VA,Virginia,"42,696",1.0,2.0
+51015,Augusta,VA,Virginia,"78,247",1.0,2.0
+51051,Dickenson,VA,Virginia,"13,640",2.0,4.0
+51157,Rappahannock,VA,Virginia,"7,414",0.0,2.0
+51153,Prince William,VA,Virginia,"489,640",0.0,2.0
+49041,Sevier,UT,Utah,"22,344",1.0,1.0
+51029,Buckingham,VA,Virginia,"16,978",2.0,4.0
+51127,New Kent,VA,Virginia,"26,134",0.0,2.0
+48475,Ward,TX,Texas,"10,966",2.0,4.0
+51113,Madison,VA,Virginia,"14,128",1.0,2.0
+51065,Fluvanna,VA,Virginia,"28,462",0.0,2.0
+51023,Botetourt,VA,Virginia,"34,125",0.0,2.0
+48433,Stonewall,TX,Texas,"1,218",1.0,4.0
+51033,Caroline,VA,Virginia,"32,640",1.0,4.0
+50025,Windham,VT,Vermont,"45,966",0.0,2.0
+51001,Accomack,VA,Virginia,"33,239",2.0,4.0
+51163,Rockbridge,VA,Virginia,"22,358",0.0,2.0
+51105,Lee,VA,Virginia,"21,745",2.0,4.0
+51073,Gloucester,VA,Virginia,"40,057",0.0,2.0
+51079,Greene,VA,Virginia,"21,301",1.0,2.0
+51610,Falls Church,VA,Virginia,"14,685",0.0,2.0
+48407,San Jacinto,TX,Texas,"28,936",2.0,4.0
+51009,Amherst,VA,Virginia,"31,396",1.0,4.0
+48503,Young,TX,Texas,"18,124",1.0,4.0
+51167,Russell,VA,Virginia,"25,477",2.0,4.0
+49021,Iron,UT,Utah,"64,211",1.0,1.0
+51177,Spotsylvania,VA,Virginia,"149,588",0.0,2.0
+48409,San Patricio,TX,Texas,"70,660",2.0,4.0
+51111,Lunenburg,VA,Virginia,"12,038",2.0,4.0
+50021,Rutland,VT,Vermont,"60,271",0.0,2.0
+51169,Scott,VA,Virginia,"21,433",2.0,4.0
+53003,Asotin,WA,Washington,"22,549",0.0,1.0
+51830,Williamsburg,VA,Virginia,"15,847",1.0,2.0
+51005,Alleghany,VA,Virginia,"14,595",1.0,1.0
+51770,Roanoke,VA,Virginia,"97,171",1.0,4.0
+51145,Powhatan,VA,Virginia,"32,105",0.0,2.0
+48483,Wheeler,TX,Texas,"4,804",1.0,4.0
+49023,Juab,UT,Utah,"13,023",0.0,1.0
+53007,Chelan,WA,Washington,"79,997",0.0,2.0
+48493,Wilson,TX,Texas,"54,183",1.0,4.0
+49045,Tooele,UT,Utah,"82,051",0.0,1.0
+49033,Rich,UT,Utah,"2,670",0.0,1.0
+51678,Lexington,VA,Virginia,"7,528",0.0,2.0
+51179,Stafford,VA,Virginia,"165,428",0.0,2.0
+48425,Somervell,TX,Texas,"9,888",0.0,2.0
+51149,Prince George,VA,Virginia,"42,871",1.0,4.0
+50001,Addison,VT,Vermont,"37,720",0.0,2.0
+51570,Colonial Heights,VA,Virginia,"18,393",0.0,2.0
+51041,Chesterfield,VA,Virginia,"383,876",0.0,2.0
+51183,Sussex,VA,Virginia,"10,757",2.0,4.0
+51013,Arlington,VA,Virginia,"234,162",0.0,2.0
+49029,Morgan,UT,Utah,"13,000",0.0,2.0
+51036,Charles City,VA,Virginia,"6,610",2.0,4.0
+51685,Manassas Park,VA,Virginia,"16,361",1.0,4.0
+48489,Willacy,TX,Texas,"20,037",3.0,4.0
+48415,Scurry,TX,Texas,"16,212",1.0,4.0
+51027,Buchanan,VA,Virginia,"19,087",2.0,4.0
+53011,Clark,WA,Washington,"521,150",0.0,2.0
+51800,Suffolk,VA,Virginia,"100,659",1.0,4.0
+51710,Norfolk,VA,Virginia,"230,930",1.0,4.0
+51059,Fairfax,VA,Virginia,"1,141,878",0.0,2.0
+53001,Adams,WA,Washington,"20,820",2.0,4.0
+50005,Caledonia,VT,Vermont,"30,610",0.0,2.0
+51760,Richmond,VA,Virginia,"229,247",1.0,4.0
+48501,Yoakum,TX,Texas,"7,468",1.0,4.0
+49039,Sanpete,UT,Utah,"30,277",1.0,1.0
+51137,Orange,VA,Virginia,"38,574",1.0,2.0
+49007,Carbon,UT,Utah,"20,609",1.0,1.0
+51161,Roanoke,VA,Virginia,"97,026",0.0,2.0
+48497,Wise,TX,Texas,"78,097",1.0,4.0
+51530,Buena Vista,VA,Virginia,"6,566",1.0,4.0
+48485,Wichita,TX,Texas,"130,180",1.0,4.0
+51131,Northampton,VA,Virginia,"12,021",1.0,4.0
+53047,Okanogan,WA,Washington,"43,712",1.0,1.0
+55111,Sauk,WI,Wisconsin,"65,920",0.0,2.0
+54097,Upshur,WV,West Virginia,"23,529",2.0,4.0
+55137,Waushara,WI,Wisconsin,"24,934",0.0,2.0
+56025,Natrona,WY,Wyoming,"79,941",0.0,1.0
+55043,Grant,WI,Wisconsin,"51,409",1.0,2.0
+53061,Snohomish,WA,Washington,"844,761",0.0,2.0
+54095,Tyler,WV,West Virginia,"7,919",2.0,4.0
+53051,Pend Oreille,WA,Washington,"14,361",1.0,1.0
+55089,Ozaukee,WI,Wisconsin,"93,460",0.0,2.0
+54023,Grant,WV,West Virginia,"10,921",2.0,4.0
+55025,Dane,WI,Wisconsin,"575,347",0.0,2.0
+54017,Doddridge,WV,West Virginia,"7,680",2.0,4.0
+56029,Park,WY,Wyoming,"30,735",0.0,2.0
+56037,Sweetwater,WY,Wyoming,"41,249",1.0,1.0
+54057,Mineral,WV,West Virginia,"26,867",1.0,1.0
+53069,Wahkiakum,WA,Washington,"4,765",1.0,1.0
+55057,Juneau,WI,Wisconsin,"26,594",1.0,1.0
+54051,Marshall,WV,West Virginia,"29,405",2.0,4.0
+54013,Calhoun,WV,West Virginia,"5,959",3.0,4.0
+55067,Langlade,WI,Wisconsin,"19,404",1.0,2.0
+55065,Lafayette,WI,Wisconsin,"16,945",1.0,2.0
+54067,Nicholas,WV,West Virginia,"24,169",2.0,4.0
+55037,Florence,WI,Wisconsin,"4,682",0.0,2.0
+54087,Roane,WV,West Virginia,"13,743",2.0,4.0
+55127,Walworth,WI,Wisconsin,"105,822",0.0,2.0
+53073,Whatcom,WA,Washington,"231,919",0.0,2.0
+54005,Boone,WV,West Virginia,"20,576",2.0,4.0
+55013,Burnett,WI,Wisconsin,"17,092",0.0,2.0
+55073,Marathon,WI,Wisconsin,"138,612",0.0,2.0
+55047,Green Lake,WI,Wisconsin,"19,344",1.0,2.0
+54081,Raleigh,WV,West Virginia,"72,356",2.0,4.0
+55101,Racine,WI,Wisconsin,"196,613",0.0,2.0
+55078,Menominee,WI,Wisconsin,"4,226",2.0,4.0
+54055,Mercer,WV,West Virginia,"58,057",2.0,4.0
+54101,Webster,WV,West Virginia,"8,045",2.0,4.0
+56033,Sheridan,WY,Wyoming,"32,519",0.0,2.0
+55023,Crawford,WI,Wisconsin,"15,944",1.0,2.0
+55053,Jackson,WI,Wisconsin,"20,855",1.0,1.0
+54079,Putnam,WV,West Virginia,"56,962",1.0,1.0
+55095,Polk,WI,Wisconsin,"45,762",0.0,2.0
+54021,Gilmer,WV,West Virginia,"7,254",2.0,4.0
+53025,Grant,WA,Washington,"102,678",1.0,4.0
+56019,Johnson,WY,Wyoming,"8,759",0.0,1.0
+56013,Fremont,WY,Wyoming,"39,815",1.0,1.0
+53057,Skagit,WA,Washington,"131,417",0.0,2.0
+53055,San Juan,WA,Washington,"18,566",0.0,2.0
+54009,Brooke,WV,West Virginia,"21,373",1.0,1.0
+55039,Fond du Lac,WI,Wisconsin,"103,948",0.0,2.0
+54063,Monroe,WV,West Virginia,"12,382",2.0,4.0
+55085,Oneida,WI,Wisconsin,"38,226",0.0,2.0
+53043,Lincoln,WA,Washington,"11,738",0.0,2.0
+55087,Outagamie,WI,Wisconsin,"193,234",0.0,2.0
+55107,Rusk,WI,Wisconsin,"14,143",1.0,1.0
+54011,Cabell,WV,West Virginia,"92,082",2.0,4.0
+54027,Hampshire,WV,West Virginia,"23,649",2.0,4.0
+54073,Pleasants,WV,West Virginia,"7,428",2.0,4.0
+56015,Goshen,WY,Wyoming,"12,642",0.0,1.0
+53065,Stevens,WA,Washington,"48,837",1.0,1.0
+55045,Green,WI,Wisconsin,"36,951",0.0,2.0
+55005,Barron,WI,Wisconsin,"46,833",0.0,2.0
+54099,Wayne,WV,West Virginia,"37,686",2.0,4.0
+56041,Uinta,WY,Wyoming,"20,745",0.0,1.0
+55049,Iowa,WI,Wisconsin,"23,956",0.0,2.0
+55119,Taylor,WI,Wisconsin,"20,058",1.0,2.0
+54003,Berkeley,WV,West Virginia,"132,440",1.0,1.0
+54083,Randolph,WV,West Virginia,"27,350",2.0,4.0
+54059,Mingo,WV,West Virginia,"22,023",3.0,4.0
+55125,Vilas,WI,Wisconsin,"23,885",0.0,2.0
+55081,Monroe,WI,Wisconsin,"46,151",1.0,1.0
+55017,Chippewa,WI,Wisconsin,"66,970",0.0,2.0
+54053,Mason,WV,West Virginia,"24,765",2.0,4.0
+56009,Converse,WY,Wyoming,"13,809",0.0,1.0
+56001,Albany,WY,Wyoming,"38,257",0.0,2.0
+54047,McDowell,WV,West Virginia,"17,439",3.0,4.0
+55009,Brown,WI,Wisconsin,"271,417",0.0,2.0
+54043,Lincoln,WV,West Virginia,"19,701",2.0,4.0
+55079,Milwaukee,WI,Wisconsin,"916,205",1.0,4.0
+55071,Manitowoc,WI,Wisconsin,"81,331",0.0,2.0
+55139,Winnebago,WI,Wisconsin,"171,735",0.0,2.0
+55103,Richland,WI,Wisconsin,"17,197",1.0,2.0
+54037,Jefferson,WV,West Virginia,"59,787",1.0,1.0
+55041,Forest,WI,Wisconsin,"9,325",1.0,4.0
+55083,Oconto,WI,Wisconsin,"39,775",0.0,2.0
+54025,Greenbrier,WV,West Virginia,"32,149",2.0,4.0
+53045,Mason,WA,Washington,"68,389",0.0,1.0
+54085,Ritchie,WV,West Virginia,"8,167",2.0,4.0
+55051,Iron,WI,Wisconsin,"6,228",0.0,2.0
+55109,St. Croix,WI,Wisconsin,"96,763",0.0,2.0
+54045,Logan,WV,West Virginia,"30,827",2.0,4.0
+53039,Klickitat,WA,Washington,"23,589",0.0,2.0
+55033,Dunn,WI,Wisconsin,"45,794",0.0,2.0
+55019,Clark,WI,Wisconsin,"34,774",1.0,1.0
+55093,Pierce,WI,Wisconsin,"43,026",0.0,2.0
+53075,Whitman,WA,Washington,"48,012",0.0,1.0
+55061,Kewaunee,WI,Wisconsin,"20,690",0.0,2.0
+56011,Crook,WY,Wyoming,"7,592",0.0,2.0
+55133,Waukesha,WI,Wisconsin,"412,591",0.0,2.0
+54093,Tucker,WV,West Virginia,"6,604",2.0,4.0
+53035,Kitsap,WA,Washington,"277,658",0.0,2.0
+53077,Yakima,WA,Washington,"256,643",1.0,4.0
+54015,Clay,WV,West Virginia,"7,783",2.0,4.0
+55113,Sawyer,WI,Wisconsin,"18,552",1.0,2.0
+56003,Big Horn,WY,Wyoming,"12,018",1.0,1.0
+55069,Lincoln,WI,Wisconsin,"28,405",0.0,2.0
+53049,Pacific,WA,Washington,"24,200",1.0,1.0
+54001,Barbour,WV,West Virginia,"15,378",2.0,4.0
+56027,Niobrara,WY,Wyoming,"2,354",1.0,1.0
+54107,Wood,WV,West Virginia,"83,052",2.0,4.0
+54103,Wetzel,WV,West Virginia,"13,890",2.0,4.0
+53027,Grays Harbor,WA,Washington,"77,290",1.0,1.0
+55003,Ashland,WI,Wisconsin,"16,079",1.0,1.0
+55141,Wood,WI,Wisconsin,"73,939",0.0,2.0
+55059,Kenosha,WI,Wisconsin,"167,488",0.0,2.0
+55131,Washington,WI,Wisconsin,"138,168",0.0,2.0
+54041,Lewis,WV,West Virginia,"16,500",2.0,4.0
+55115,Shawano,WI,Wisconsin,"41,109",0.0,2.0
+54077,Preston,WV,West Virginia,"34,099",2.0,4.0
+55007,Bayfield,WI,Wisconsin,"16,769",0.0,2.0
+56017,Hot Springs,WY,Wyoming,"4,661",1.0,1.0
+54071,Pendleton,WV,West Virginia,"6,029",2.0,4.0
+55015,Calumet,WI,Wisconsin,"53,199",0.0,2.0
+53041,Lewis,WA,Washington,"86,154",1.0,1.0
+55063,La Crosse,WI,Wisconsin,"120,486",0.0,2.0
+55027,Dodge,WI,Wisconsin,"88,231",0.0,2.0
+54091,Taylor,WV,West Virginia,"16,388",2.0,4.0
+56023,Lincoln,WY,Wyoming,"20,880",0.0,2.0
+55001,Adams,WI,Wisconsin,"21,449",1.0,1.0
+53023,Garfield,WA,Washington,"2,363",0.0,2.0
+55097,Portage,WI,Wisconsin,"71,024",0.0,2.0
+55135,Waupaca,WI,Wisconsin,"51,388",0.0,2.0
+53067,Thurston,WA,Washington,"299,003",0.0,2.0
+54075,Pocahontas,WV,West Virginia,"7,765",2.0,4.0
+56021,Laramie,WY,Wyoming,"100,984",0.0,2.0
+53053,Pierce,WA,Washington,"928,696",0.0,1.0
+54031,Hardy,WV,West Virginia,"14,251",2.0,4.0
+53071,Walla Walla,WA,Washington,"61,568",0.0,2.0
+53031,Jefferson,WA,Washington,"33,714",0.0,2.0
+54089,Summers,WV,West Virginia,"11,581",2.0,4.0
+54105,Wirt,WV,West Virginia,"5,000",2.0,4.0
+55075,Marinette,WI,Wisconsin,"42,106",0.0,2.0
+55121,Trempealeau,WI,Wisconsin,"30,899",0.0,2.0
+53033,King,WA,Washington,"2,271,380",0.0,2.0
+53037,Kittitas,WA,Washington,"45,508",0.0,2.0
+54061,Monongalia,WV,West Virginia,"107,718",1.0,1.0
+54029,Hancock,WV,West Virginia,"28,145",2.0,4.0
+54007,Braxton,WV,West Virginia,"12,162",2.0,4.0
+56035,Sublette,WY,Wyoming,"8,969",0.0,2.0
+53063,Spokane,WA,Washington,"551,455",0.0,2.0
+56007,Carbon,WY,Wyoming,"14,334",1.0,1.0
+54065,Morgan,WV,West Virginia,"17,649",2.0,4.0
+55021,Columbia,WI,Wisconsin,"58,091",0.0,2.0
+56043,Washakie,WY,Wyoming,"7,710",1.0,1.0
+56031,Platte,WY,Wyoming,"8,546",1.0,1.0
+53059,Skamania,WA,Washington,"12,640",0.0,2.0
+53029,Island,WA,Washington,"86,267",0.0,2.0
+54049,Marion,WV,West Virginia,"55,807",2.0,4.0
+54019,Fayette,WV,West Virginia,"39,072",2.0,4.0
+54033,Harrison,WV,West Virginia,"64,639",2.0,4.0
+55011,Buffalo,WI,Wisconsin,"13,419",0.0,2.0
+55117,Sheboygan,WI,Wisconsin,"117,752",0.0,2.0
+54039,Kanawha,WV,West Virginia,"174,805",2.0,4.0
+56045,Weston,WY,Wyoming,"6,808",1.0,1.0
+55035,Eau Claire,WI,Wisconsin,"107,903",0.0,2.0
+55105,Rock,WI,Wisconsin,"164,278",0.0,2.0
+55129,Washburn,WI,Wisconsin,"16,930",0.0,2.0
+55031,Douglas,WI,Wisconsin,"44,264",0.0,2.0
+55077,Marquette,WI,Wisconsin,"15,838",1.0,1.0
+53021,Franklin,WA,Washington,"99,034",1.0,4.0
+54109,Wyoming,WV,West Virginia,"20,277",2.0,4.0
+56005,Campbell,WY,Wyoming,"47,498",0.0,1.0
+54035,Jackson,WV,West Virginia,"27,593",2.0,4.0
+55099,Price,WI,Wisconsin,"14,102",1.0,2.0
+55029,Door,WI,Wisconsin,"30,562",0.0,2.0
+56039,Teton,WY,Wyoming,"23,232",0.0,2.0
