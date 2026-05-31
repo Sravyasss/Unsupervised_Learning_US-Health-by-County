@@ -2,7 +2,7 @@
  
 **Authors:** Badamgarav Battushig, Edwin Okwor, Sravyasri Murala  
 **Course:** DATA 5322 - Statistical Machine Learning 2  
-**Date:** May 2026
+**Date:** May 31, 2026
  
 ---
  
