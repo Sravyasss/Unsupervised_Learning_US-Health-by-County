@@ -111,7 +111,9 @@ All four linkage methods were tested at K=4. Ward linkage was selected for its b
 ```
 ├── README.md
 ├── Blog Post.ipynb          # Main analysis notebook 
-├── Unsupervised_Learning_Project.ipynb   # Code Notebook                      
+├── Code
+│     ├── Unsupervised_Learning_Project.ipynb   # Code Notebook
+│     └── code.txt            
 └── data /processed
       ├── county_info.csv                     
       ├── places_county_wide.csv               
